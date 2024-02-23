@@ -1,0 +1,32 @@
+ON: 1
+Rate: 100
+ItemCount: 1
+Items: 
+   - ItemId: 12369
+     ItemNum: 1
+     AvailPeriod: 0
+     ItemType: 0
+   - ItemId: 12370
+     ItemNum: 1
+     AvailPeriod: 0
+     ItemType: 0
+   - ItemId: 12371
+     ItemNum: 1
+     AvailPeriod: 0
+     ItemType: 0
+   - ItemId: 12372
+     ItemNum: 1
+     AvailPeriod: 0
+     ItemType: 0
+   - ItemId: 12373
+     ItemNum: 1
+     AvailPeriod: 0
+     ItemType: 0
+   - ItemId: 12374
+     ItemNum: 1
+     AvailPeriod: 0
+     ItemType: 0
+   - ItemId: 13916
+     ItemNum: 1
+     AvailPeriod: 0
+     ItemType: 0

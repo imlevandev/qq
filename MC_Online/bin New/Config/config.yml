@@ -1,0 +1,23 @@
+Server:
+  Key: "ajdklwqjlkcjwqs"
+  # 大区名
+  GameName: "WING0.1"
+  Name: "闪翼专区"
+  # 外网IP地址
+  IP: "127.0.0.1"
+  # 外网端口
+  TcpPort: 27015
+  UdpPort: 27015
+  Bind:
+    # 绑定的IP地址
+    IP: "0.0.0.0"
+    # 绑定的端口
+    TcpPort: 27015
+    UdpPort: 27015
+QQServer: # for ZingSpeed
+  IP: "235&5-7)2"
+  TcpPort: 27016
+  Bind:
+    IP: "127.0.0.1"
+    TcpPort: 27016
+  

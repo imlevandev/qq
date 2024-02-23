@@ -1,0 +1,518 @@
+- StoneID: 21977 #Hiệu quảLV1
+  ActiveCondVal1: 950
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 400
+  CoolTime: 15
+  GenResultVal1: 0
+- StoneID: 21978 #Hiệu quảLV2
+  ActiveCondVal1: 900
+  UseCountUpperlimit: 2
+  ActiveSuccessProb: 500
+  CoolTime: 15
+  GenResultVal1: 0
+- StoneID: 21979 #Hiệu quảLV3
+  ActiveCondVal1: 850
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 600
+  CoolTime: 15
+  GenResultVal1: 0
+- StoneID: 21980 #Hiệu quảLV4
+  ActiveCondVal1: 842
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 615
+  CoolTime: 15
+  GenResultVal1: 0
+- StoneID: 21981 #Hiệu quảLV5
+  ActiveCondVal1: 750
+  UseCountUpperlimit: 8
+  ActiveSuccessProb: 800
+  CoolTime: 15
+  GenResultVal1: 0
+- StoneID: 21982 #Hiệu quảLV6
+  ActiveCondVal1: 600
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 1100
+  CoolTime: 5
+  GenResultVal1: 0
+
+- StoneID: 21983 #Hồi sinh LV1
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 30
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21984 #Hồi sinh LV2
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 2
+  ActiveSuccessProb: 80
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21985 #Hồi sinh LV3
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 130
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21986 #Hồi sinh LV4
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 6
+  ActiveSuccessProb: 190
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21987 #Hồi sinh LV5
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 8
+  ActiveSuccessProb: 290
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21988 #Hồi sinh LV6
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 1100
+  CoolTime: 5
+  GenResultVal1: 0
+
+- StoneID: 21989 #Bền Bỉ LV1
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 2
+  ActiveSuccessProb: 200
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21990 #Bền Bỉ LV2
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 3
+  ActiveSuccessProb: 300
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21991 #Bền Bỉ LV3
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 400
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21992 #Bền Bỉ LV4
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 6
+  ActiveSuccessProb: 600
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21993 #Bền Bỉ LV5
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 8
+  ActiveSuccessProb: 800
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 21994 #Bền Bỉ LV6
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 1100
+  CoolTime: 10
+  GenResultVal1: 0
+
+- StoneID: 21995 #Trời Xanh LV1
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 21996 #Trời Xanh LV2
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 21997 #Trời Xanh LV3
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 21998 #Trời Xanh LV4
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 21999 #Trời Xanh LV5
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22000 #Trời Xanh LV6
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 1100
+  CoolTime: 8
+  GenResultVal1: 0
+
+- StoneID: 22001 #Địa Cầu LV1
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22002 #Địa Cầu LV2
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22003 #Địa Cầu LV3
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22004 #Địa Cầu LV4
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22005 #Địa Cầu LV5
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22006 #Địa Cầu LV6
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 1100
+  CoolTime: 8
+  GenResultVal1: 0
+
+- StoneID: 22007 #Vô Song LV1
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22008 #Vô Song LV2
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22009 #Vô Song LV3
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22010 #Vô Song LV4
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22011 #Vô Song LV5
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22012 #Vô Song LV6
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 1100
+  CoolTime: 8
+  GenResultVal1: 2147483647
+
+- StoneID: 22013 #Hậu Phát LV1
+  ActiveCondVal1: 200
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 1100
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22014 #Hậu Phát LV2
+  ActiveCondVal1: 150
+  UseCountUpperlimit: 2
+  ActiveSuccessProb: 1100
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22015 #Hậu Phát LV3
+  ActiveCondVal1: 120
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 1100
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22016 #Hậu Phát LV4
+  ActiveCondVal1: 80
+  UseCountUpperlimit: 6
+  ActiveSuccessProb: 1100
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22017 #Hậu Phát LV5
+  ActiveCondVal1: 40
+  UseCountUpperlimit: 8
+  ActiveSuccessProb: 1100
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22018 #Hậu Phát LV6
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 1100
+  CoolTime: 10
+  GenResultVal1: 0
+
+- StoneID: 22019 #Giận Dữ LV1
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22020 #Giận Dữ LV2
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22021 #Giận Dữ LV3
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22022 #Giận Dữ LV4
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22023 #Giận Dữ LV5
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22024 #Giận Dữ LV6
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 10
+  ActiveSuccessProb: 1100
+  CoolTime: 5
+  GenResultVal1: 8
+
+
+- StoneID: 22025
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 100
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22026
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 3
+  ActiveSuccessProb: 150
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22027
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 5
+  ActiveSuccessProb: 200
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22028
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 7
+  ActiveSuccessProb: 250
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22029
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 9
+  ActiveSuccessProb: 300
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22030
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 11
+  ActiveSuccessProb: 350
+  CoolTime: 8
+  GenResultVal1: 0
+
+- StoneID: 22031
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 100
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22032
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 3
+  ActiveSuccessProb: 150
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22033
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 5
+  ActiveSuccessProb: 200
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22034
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 7
+  ActiveSuccessProb: 250
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22035
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 9
+  ActiveSuccessProb: 300
+  CoolTime: 8
+  GenResultVal1: 0
+- StoneID: 22036
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 11
+  ActiveSuccessProb: 350
+  CoolTime: 8
+  GenResultVal1: 0
+
+- StoneID: 22037
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 2
+  ActiveSuccessProb: 40
+  CoolTime: 5
+  GenResultVal1: 0
+- StoneID: 22038
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 3
+  ActiveSuccessProb: 70
+  CoolTime: 5
+  GenResultVal1: 0
+- StoneID: 22039
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 4
+  ActiveSuccessProb: 110
+  CoolTime: 5
+  GenResultVal1: 0
+- StoneID: 22040
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 5
+  ActiveSuccessProb: 160
+  CoolTime: 5
+  GenResultVal1: 0
+- StoneID: 22041
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 6
+  ActiveSuccessProb: 220
+  CoolTime: 5
+  GenResultVal1: 0
+- StoneID: 22042
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 7
+  ActiveSuccessProb: 290
+  CoolTime: 5
+  GenResultVal1: 0
+
+- StoneID: 22043
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 1
+  ActiveSuccessProb: 50
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22044
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 3
+  ActiveSuccessProb: 80
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22045
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 5
+  ActiveSuccessProb: 120
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22046
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 7
+  ActiveSuccessProb: 170
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22047
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 9
+  ActiveSuccessProb: 230
+  CoolTime: 10
+  GenResultVal1: 0
+- StoneID: 22048
+  ActiveCondVal1: 1000
+  UseCountUpperlimit: 11
+  ActiveSuccessProb: 300
+  CoolTime: 10
+  GenResultVal1: 0
+
+- StoneID: 22055
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22056
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22057
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22058
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22059
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22060
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+
+- StoneID: 22061
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22062
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22063
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22064
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22065
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0
+- StoneID: 22066
+  ActiveCondVal1: 0
+  UseCountUpperlimit: 0
+  ActiveSuccessProb: 0
+  CoolTime: 0
+  GenResultVal1: 0

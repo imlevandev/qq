@@ -1,0 +1,101 @@
+ShapeSuitLevel:
+  - SuitID: 126533
+    lantu: 3
+    nengyuan: 0
+    LevelChoice: 2
+    Value1: 0
+    Value2: 0
+    ResourceLen: 0
+    EffectResLen: 0
+    EffectID: 0
+    Level: 0
+  - SuitID: 126534
+    lantu: 3
+    nengyuan: 100
+    LevelChoice: 4
+    Value1: 0
+    Value2: 0
+    ResourceLen: 0
+    EffectResLen: 0
+    EffectID: 0
+    Level: 0
+  - SuitID: 126535
+    lantu: 3
+    nengyuan: 200
+    LevelChoice: 8
+    Value1: 0
+    Value2: 0
+    ResourceLen: 0
+    EffectResLen: 0
+    EffectID: 0
+    Level: 0
+  - SuitID: 126536
+    lantu: 6
+    nengyuan: 300
+    LevelChoice: 16
+    Value1: 0
+    Value2: 0
+    ResourceLen: 0
+    EffectResLen: 0
+    EffectID: 0
+    Level: 0
+  - SuitID: 126536
+    lantu: 6
+    nengyuan: 400
+    LevelChoice: 58
+    Value1: 0
+    Value2: 0
+    ResourceLen: "Avatar/kart_new/126536/MODEL/zishen.nif"
+    EffectResLen: "Avatar/kart_new/126536/MODEL/zishen.nif"
+    EffectID: 0
+    Level: 2
+  - SuitID: 126536
+    lantu: 6
+    nengyuan: 500
+    LevelChoice: 112
+    Value1: 0
+    Value2: 0
+    ResourceLen: "Avatar/kart_new/126536/MODEL/cheqianguangzhaoHUANGse.nif"
+    EffectResLen: "Avatar/kart_new/126536/MODEL/cheqianguangzhaoHUANGse.nif"
+    EffectID: 1
+    Level: 2
+  - SuitID: 126537
+    lantu: 15
+    nengyuan: 600
+    LevelChoice: 128
+    Value1: 0
+    Value2: 0
+    ResourceLen: 0
+    EffectResLen: 0
+    EffectID: 0
+    Level: 0
+  - SuitID: 126537
+    lantu: 15
+    nengyuan: 700
+    LevelChoice: 384
+    Value1: 0
+    Value2: 0
+    ResourceLen: "Avatar/kart_new/126537/MODEL/zishen.nif"
+    EffectResLen: "Avatar/kart_new/126537/MODEL/zishen.nif"
+    EffectID: 0
+    Level: 3
+  - SuitID: 126537
+    lantu: 15
+    nengyuan: 800
+    LevelChoice: 896
+    Value1: 0
+    Value2: 0
+    ResourceLen: "Avatar/kart_new/126537/MODEL/cheqianguangzhaoHUANGse.nif"
+    EffectResLen: "Avatar/kart_new/126537/MODEL/cheqianguangzhaoHUANGse.nif"
+    EffectID: 1
+    Level: 3
+  - SuitID: 126537
+    lantu: 30
+    nengyuan: 1400
+    LevelChoice: 1920
+    Value1: 4001
+    Value2: 1750
+    ResourceLen: "KartAvatarEffect/SuperJet/JetEff.nif"
+    EffectResLen: "Avatar/kart_new/126537/MODEL/startshow.nif"
+    EffectID: 4
+    Level: 4

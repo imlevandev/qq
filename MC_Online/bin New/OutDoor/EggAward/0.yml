@@ -1,0 +1,11 @@
+Name: Trứng vàng
+Items:
+  - ItemID: 12720
+    ItemNum: 1
+    AvailPeriod: -1
+  - ItemID: 12390
+    ItemNum: 1
+    AvailPeriod: 0
+Key:
+  - KeyID: 12375
+    KeyNum: 1

@@ -1,0 +1,114 @@
+Type: 3
+List3:
+  Rate: 500
+  Items:
+    - ItemId: 10102
+      ItemNum: 1
+      AvailPeriod: 24
+      ItemType: 0
+    - ItemId: 10296
+      ItemNum: 1
+      AvailPeriod: 24
+      ItemType: 0
+    - ItemId: 10297
+      ItemNum: 1
+      AvailPeriod: 24
+      ItemType: 0
+    - ItemId: 10300
+      ItemNum: 1
+      AvailPeriod: 24
+      ItemType: 0
+    - ItemId: 10681
+      ItemNum: 1
+      AvailPeriod: 24
+      ItemType: 0
+    - ItemId: 10682
+      ItemNum: 1
+      AvailPeriod: 24
+      ItemType: 0
+List2:
+  Rate: 5
+  Items:
+    - ItemId: 127180
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 127167
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 123912
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 123902
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 124561
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 124551
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 104099
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 104109
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 123013
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 123003
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 122993
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+    - ItemId: 122983
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 1
+List1:
+  Rate: 1
+  Items:
+    - ItemId: 123513
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 2
+    - ItemId: 126358
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 2
+    - ItemId: 110710
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 2
+    - ItemId: 126355
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 2
+    - ItemId: 119063
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 2
+    - ItemId: 123512 
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 2
+    - ItemId: 126345
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 2
+    - ItemId: 127760
+      ItemNum: 1
+      AvailPeriod: -1
+      ItemType: 2

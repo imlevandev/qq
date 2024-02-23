@@ -1,0 +1,25 @@
+#Type A (0: Trứng vàng , 1: Trứng bạc , 2: Trứng xanh , 6: Trứng màu phục sinh)
+#Type B (3: Quái đỏ , 4: Quái xanh , 5: Niên thú , 7: Trống năm mới , 8: Trái tim thiên sứ)
+#Type C (12: Bong bóng trái tim , 13: Bong bóng nhiều trái tim)
+#Type D (14: Hoa Hồng Đỏ , 15: Hoa hồng vàng)
+#Type E (16: Cua nhỏ , 17: Cua lớn , 18: Cua cướp biển)
+- Type: 19
+  Pos: 1
+- Type: 0
+  Pos: 2
+- Type: 20
+  Pos: 3
+- Type: 4
+  Pos: 4
+- Type: 5
+  Pos: 5
+- Type: 6
+  Pos: 6
+- Type: 7
+  Pos: 7
+- Type: 8
+  Pos: 8
+- Type: 17
+  Pos: 9
+- Type: 18
+  Pos: 10  

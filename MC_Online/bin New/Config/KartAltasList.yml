@@ -1,0 +1,2984 @@
+- ID: 10020 # 新手赛车-D级赛车
+  KartJetNum: 1
+- ID: 10024 # 战车-A级赛车
+  KartJetNum: 1
+- ID: 10028 # 流体-C级赛车
+  KartJetNum: 1
+- ID: 10070 # 挑战者-C级赛车
+  KartJetNum: 1
+- ID: 10071 # 子弹-A级赛车
+  KartJetNum: 1
+- ID: 10076 # 幻影-C级赛车
+  KartJetNum: 1
+- ID: 10092 # 闪电-B级赛车
+  KartJetNum: 1
+- ID: 10181 # 渡鸦-C级赛车
+  KartJetNum: 1
+- ID: 10182 # 虹-C级赛车
+  KartJetNum: 1
+- ID: 10187 # 不死鸟-C级赛车
+  KartJetNum: 1
+- ID: 10205 # 反物质-C级赛车
+  KartJetNum: 1
+- ID: 10206 # 鬼怪-B级赛车
+  KartJetNum: 1
+- ID: 10228 # 樱-C级赛车
+  KartJetNum: 1
+- ID: 10229 # 刺客-C级赛车
+  KartJetNum: 1
+- ID: 10230 # 金刚-C级赛车
+  KartJetNum: 1
+- ID: 10250 # 岩石-C级赛车
+  KartJetNum: 1
+- ID: 10251 # 蔷薇-C级赛车
+  KartJetNum: 1
+- ID: 10319 # 黑风暴-C级赛车
+  KartJetNum: 1
+- ID: 10320 # 矩阵-C级赛车
+  KartJetNum: 1
+- ID: 10321 # 猎豹-C级赛车
+  KartJetNum: 1
+- ID: 10424 # 女武神-C级赛车
+  KartJetNum: 1
+- ID: 10476 # 福-C级赛车
+  KartJetNum: 1
+- ID: 10534 # 爱神之心-C级赛车
+  KartJetNum: 1
+- ID: 10535 # 爱神之吻-C级赛车
+  KartJetNum: 1
+- ID: 10589 # 烈焰-C级赛车
+  KartJetNum: 1
+- ID: 10590 # 剃刀-B级赛车
+  KartJetNum: 1
+- ID: 10630 # 狂徒-C级赛车
+  KartJetNum: 1
+- ID: 10631 # 白鲨-C级赛车
+  KartJetNum: 1
+- ID: 10649 # 解放-C级赛车
+  KartJetNum: 1
+- ID: 10650 # 龙车-B级赛车
+  KartJetNum: 1
+- ID: 10698 # 旋涡-C级赛车
+  KartJetNum: 1
+- ID: 10699 # 高压-B级赛车
+  KartJetNum: 1
+- ID: 10986 # 火石-C级赛车
+  KartJetNum: 1
+- ID: 10987 # 天龙-C级赛车
+  KartJetNum: 1
+- ID: 10988 # 紫罗兰-C级赛车
+  KartJetNum: 1
+- ID: 10989 # 雄鹰-C级赛车
+  KartJetNum: 1
+- ID: 10990 # 火花-C级赛车
+  KartJetNum: 1
+- ID: 10991 # 熊猫-C级赛车
+  KartJetNum: 1
+- ID: 10992 # 暗风暴-B级赛车
+  KartJetNum: 1
+- ID: 10993 # 傀儡-B级赛车
+  KartJetNum: 1
+- ID: 10994 # 忍者-B级赛车
+  KartJetNum: 1
+- ID: 11143 # 白星-C级赛车
+  KartJetNum: 1
+- ID: 11144 # 蓝焰-C级赛车
+  KartJetNum: 1
+- ID: 11145 # 龙舟-C级赛车
+  KartJetNum: 1
+- ID: 11146 # 拦路虎-C级赛车
+  KartJetNum: 1
+- ID: 11147 # 针尖-A级赛车
+  KartJetNum: 1
+- ID: 11178 # 积木-C级赛车
+  KartJetNum: 1
+- ID: 11235 # 噪音-C级赛车
+  KartJetNum: 1
+- ID: 11236 # 抓地虎-C级赛车
+  KartJetNum: 1
+- ID: 11237 # 影刺客-B级赛车
+  KartJetNum: 1
+- ID: 11238 # 狐蝠-B级赛车
+  KartJetNum: 1
+- ID: 11239 # 格兰-C级赛车
+  KartJetNum: 1
+- ID: 11352 # 流火-A级赛车
+  KartJetNum: 1
+- ID: 11371 # 炽天使-A级赛车
+  KartJetNum: 1
+- ID: 11372 # 冰峰-C级赛车
+  KartJetNum: 1
+- ID: 11373 # 奶牛-C级赛车
+  KartJetNum: 1
+- ID: 11374 # 雷神-C级赛车
+  KartJetNum: 1
+- ID: 11375 # 小哈-C级赛车
+  KartJetNum: 1
+- ID: 11376 # 暴风雪-S级赛车
+  KartJetNum: 1
+- ID: 11869 # 海盗-C级赛车
+  KartJetNum: 1
+- ID: 11870 # 坦克-C级赛车
+  KartJetNum: 1
+- ID: 11871 # 羚羊-C级赛车
+  KartJetNum: 1
+- ID: 11872 # 卓越-B级赛车
+  KartJetNum: 1
+- ID: 11873 # 沸点-B级赛车
+  KartJetNum: 1
+- ID: 11874 # 爱神之吻X-B级赛车
+  KartJetNum: 1
+- ID: 11875 # 爱神之心X-B级赛车
+  KartJetNum: 1
+- ID: 11957 # 湮灭-B级赛车
+  KartJetNum: 1
+- ID: 11958 # 闪灵-B级赛车
+  KartJetNum: 1
+- ID: 11959 # 大熊-C级赛车
+  KartJetNum: 1
+- ID: 12035 # 哈雷-C级赛车
+  KartJetNum: 1
+- ID: 12036 # 方程式-B级赛车
+  KartJetNum: 1
+- ID: 12042 # 迷你电动车-C级赛车
+  KartJetNum: 1
+- ID: 12256 # 极速-B级赛车
+  KartJetNum: 1
+- ID: 12257 # 魅蓝战魂-B级赛车
+  KartJetNum: 1
+- ID: 12258 # 维纳斯-A级赛车
+  KartJetNum: 1
+- ID: 12259 # 圣徒-A级赛车
+  KartJetNum: 1
+- ID: 12260 # 超兔-C级赛车
+  KartJetNum: 1
+- ID: 12263 # 风掣跑车-B级赛车
+  KartJetNum: 1
+- ID: 12264 # 狂风-A级赛车
+  KartJetNum: 1
+- ID: 12296 # 悟空-C级赛车
+  KartJetNum: 1
+- ID: 12361 # Acer急速天使-C级赛车
+  KartJetNum: 1
+- ID: 12460 # 救护车-C级赛车
+  KartJetNum: 1
+- ID: 12461 # 火狐-C级赛车
+  KartJetNum: 1
+- ID: 12462 # 暗影-A级赛车
+  KartJetNum: 1
+- ID: 12463 # 零点-B级赛车
+  KartJetNum: 1
+- ID: 12464 # 皮卡-B级赛车
+  KartJetNum: 1
+- ID: 12465 # 灵动跑车-B级赛车
+  KartJetNum: 1
+- ID: 12466 # 天秤-B级赛车
+  KartJetNum: 1
+- ID: 12467 # 天蝎-B级赛车
+  KartJetNum: 1
+- ID: 12720 # 雷诺-A级赛车
+  KartJetNum: 1
+- ID: 12823 # 幻想-A级赛车
+  KartJetNum: 1
+- ID: 12824 # 火钻-A级赛车
+  KartJetNum: 1
+- ID: 12825 # 剑鲨-B级赛车
+  KartJetNum: 1
+- ID: 12826 # 摩羯-B级赛车
+  KartJetNum: 1
+- ID: 12827 # 射手-B级赛车
+  KartJetNum: 1
+- ID: 12828 # 南瓜车-C级赛车
+  KartJetNum: 1
+- ID: 12829 # 消防车-C级赛车
+  KartJetNum: 1
+- ID: 12946 # 冰魄-A级赛车
+  KartJetNum: 1
+- ID: 12948 # 风行者-S级赛车
+  KartJetNum: 1
+- ID: 13178 # 神圣天使-A级赛车
+  KartJetNum: 1
+- ID: 13179 # 堕落天使-B级赛车
+  KartJetNum: 1
+- ID: 13307 # 奔驰-A级赛车
+  KartJetNum: 1
+- ID: 13308 # 光速-A级赛车
+  KartJetNum: 1
+- ID: 13309 # 甲壳虫-C级赛车
+  KartJetNum: 1
+- ID: 13310 # 公牛-A级赛车
+  KartJetNum: 1
+- ID: 13311 # 珍珠-C级赛车
+  KartJetNum: 1
+- ID: 13312 # 极光-B级赛车
+  KartJetNum: 1
+- ID: 13313 # 尖叫-B级赛车
+  KartJetNum: 1
+- ID: 13314 # 雷霆-A级赛车
+  KartJetNum: 1
+- ID: 13315 # 水瓶-B级赛车
+  KartJetNum: 1
+- ID: 13316 # 影驰-B级赛车
+  KartJetNum: 1
+- ID: 13317 # 筋斗云-C级赛车
+  KartJetNum: 1
+- ID: 13322 # 雪橇车-C级赛车
+  KartJetNum: 1
+- ID: 13378 # 巨蟹-B级赛车
+  KartJetNum: 1
+- ID: 13379 # 苍鹰-B级赛车
+  KartJetNum: 1
+- ID: 13532 # 刀锋-A级赛车
+  KartJetNum: 1
+- ID: 13703 # S白金剃刀-S级赛车
+  KartJetNum: 1
+- ID: 13705 # 铁骑-M2级摩托
+  KartJetNum: 1
+- ID: 13706 # 祥云-B级赛车
+  KartJetNum: 1
+- ID: 13802 # 阿波罗-A级赛车
+  KartJetNum: 1
+- ID: 13856 # 星河-B级赛车
+  KartJetNum: 1
+- ID: 13902 # 圣骑士-S级赛车
+  KartJetNum: 1
+- ID: 13937 # 大Q吧-B级赛车
+  KartJetNum: 1
+- ID: 14098 # 高速火-B级赛车
+  KartJetNum: 1
+- ID: 14099 # 海鸥-C级赛车
+  KartJetNum: 1
+- ID: 14100 # 掘地鼠-B级赛车
+  KartJetNum: 1
+- ID: 14101 # 麒麟-A级赛车
+  KartJetNum: 1
+- ID: 14102 # 丘比特-B级赛车
+  KartJetNum: 1
+- ID: 14103 # 七彩云-B级赛车
+  KartJetNum: 1
+- ID: 14104 # 蓝魔-M1级摩托
+  KartJetNum: 1
+- ID: 14105 # 刺虎-M2级摩托
+  KartJetNum: 1
+- ID: 14106 # S黑金剃刀-S级赛车
+  KartJetNum: 1
+- ID: 14107 # S黄金剃刀-S级赛车
+  KartJetNum: 1
+- ID: 14302 # 天启-A级赛车
+  KartJetNum: 1
+- ID: 14485 # 罗莎-B级赛车
+  KartJetNum: 1
+- ID: 14486 # 变色龙-B级赛车
+  KartJetNum: 1
+- ID: 14487 # 冰刃-A级赛车
+  KartJetNum: 1
+- ID: 14488 # 疾风-A级赛车
+  KartJetNum: 1
+- ID: 14489 # 威骋-B级赛车
+  KartJetNum: 1
+- ID: 14490 # 旋风-C级赛车
+  KartJetNum: 1
+- ID: 14491 # 白羊-B级赛车
+  KartJetNum: 1
+- ID: 14705 # 红魔-B级赛车
+  KartJetNum: 1
+- ID: 14706 # 锦鲤-C级赛车
+  KartJetNum: 1
+- ID: 14735 # 飞天魔毯-B级赛车
+  KartJetNum: 1
+- ID: 14833 # 炎爆-B级赛车
+  KartJetNum: 1
+- ID: 14951 # 风影-B级赛车
+  KartJetNum: 1
+- ID: 14952 # 桀骜-A级赛车
+  KartJetNum: 1
+- ID: 14953 # 金牛-B级赛车
+  KartJetNum: 1
+- ID: 14954 # 雷凌-B级赛车
+  KartJetNum: 1
+- ID: 14955 # 双子-B级赛车
+  KartJetNum: 1
+- ID: 14956 # 飕酷-B级赛车
+  KartJetNum: 1
+- ID: 14957 # 星锐-B级赛车
+  KartJetNum: 1
+- ID: 14958 # 婴儿车-C级赛车
+  KartJetNum: 1
+- ID: 14959 # 月光女神-A级赛车
+  KartJetNum: 1
+- ID: 15224 # 魔法扫帚-B级赛车
+  KartJetNum: 1
+- ID: 15225 # 飞碟-C级赛车
+  KartJetNum: 1
+- ID: 15430 # 白马王子-B级赛车
+  KartJetNum: 1
+- ID: 15431 # 冰箭-C级赛车
+  KartJetNum: 1
+- ID: 15432 # 海浪-B级赛车
+  KartJetNum: 1
+- ID: 15433 # 烈火-C级赛车
+  KartJetNum: 1
+- ID: 15434 # 联想-C级赛车
+  KartJetNum: 1
+- ID: 15435 # 银河-M2级摩托
+  KartJetNum: 1
+- ID: 15453 # 圣斗士-B级赛车
+  KartJetNum: 1
+- ID: 15454 # 飞天战龙-C级赛车
+  KartJetNum: 1
+- ID: 15455 # 巨蝠王-B级赛车
+  KartJetNum: 1
+- ID: 15456 # 追魂者-S级赛车
+  KartJetNum: 1
+- ID: 15983 # 绿色美年达-C级赛车
+  KartJetNum: 1
+- ID: 15984 # 橙色美年达-C级赛车
+  KartJetNum: 1
+- ID: 15985 # 暗夜-A级赛车
+  KartJetNum: 1
+- ID: 15986 # 大黄蜂-B级赛车
+  KartJetNum: 1
+- ID: 15987 # 独角兽-B级赛车
+  KartJetNum: 1
+- ID: 15988 # 红蜘蛛-B级赛车
+  KartJetNum: 1
+- ID: 15989 # 火影-B级赛车
+  KartJetNum: 1
+- ID: 15990 # 蓝龙-A级赛车
+  KartJetNum: 1
+- ID: 15991 # 怒焰-C级赛车
+  KartJetNum: 1
+- ID: 15992 # 雪暴鬣鹰-C级赛车
+  KartJetNum: 1
+- ID: 16561 # 霸天虎-B级赛车
+  KartJetNum: 1
+- ID: 16562 # 烽火-B级赛车
+  KartJetNum: 1
+- ID: 16563 # 金刚狼-B级赛车
+  KartJetNum: 1
+- ID: 16564 # 酷派-B级赛车
+  KartJetNum: 1
+- ID: 16565 # 狂飙-B级赛车
+  KartJetNum: 1
+- ID: 16566 # 凌云-B级赛车
+  KartJetNum: 1
+- ID: 16567 # 锐速-A级赛车
+  KartJetNum: 1
+- ID: 16568 # 威震天-A级赛车
+  KartJetNum: 1
+- ID: 16569 # 影舞者-A级赛车
+  KartJetNum: 1
+- ID: 16570 # 云雀-C级赛车
+  KartJetNum: 1
+- ID: 16571 # 战隼-B级赛车
+  KartJetNum: 1
+- ID: 16572 # 逐魂者-S级赛车
+  KartJetNum: 1
+- ID: 17102 # 大霸王-B级赛车
+  KartJetNum: 1
+- ID: 17103 # 飞火-B级赛车
+  KartJetNum: 1
+- ID: 17104 # 尖峰-M2级摩托
+  KartJetNum: 1
+- ID: 17105 # 蝰蛇-A级赛车
+  KartJetNum: 1
+- ID: 17106 # 雷克斯-A级赛车
+  KartJetNum: 1
+- ID: 17107 # 脉冲-B级赛车
+  KartJetNum: 1
+- ID: 17108 # 双头鲨-C级赛车
+  KartJetNum: 1
+- ID: 17109 # 嬉皮士-B级赛车
+  KartJetNum: 1
+- ID: 17110 # 雅典娜-A级赛车
+  KartJetNum: 1
+- ID: 17354 # 天机线-S级赛车
+  KartJetNum: 1
+- ID: 17659 # AE86-B级赛车
+  KartJetNum: 1
+- ID: 17660 # 冲云霄-B级赛车
+  KartJetNum: 1
+- ID: 17661 # 黑夜传说-A级赛车
+  KartJetNum: 1
+- ID: 17662 # 狙击手-A级赛车
+  KartJetNum: 1
+- ID: 17663 # 傀儡师-B级赛车
+  KartJetNum: 1
+- ID: 17664 # 雷达-C级赛车
+  KartJetNum: 1
+- ID: 17665 # 梅丽号-C级赛车
+  KartJetNum: 1
+- ID: 17666 # 魅影-B级赛车
+  KartJetNum: 1
+- ID: 17667 # 瑞瑟-C级赛车
+  KartJetNum: 1
+- ID: 17668 # 审判者-S级赛车
+  KartJetNum: 1
+- ID: 17709 # 魔术师-M2级摩托
+  KartJetNum: 1
+- ID: 17923 # 酷橙滑板-L2级滑板
+  KartJetNum: 1
+- ID: 17933 # 双周年赛车-B级赛车
+  KartJetNum: 1
+- ID: 18169 # 大板-B级赛车
+  KartJetNum: 1
+- ID: 18170 # 虎虎生威-C级赛车
+  KartJetNum: 1
+- ID: 18172 # 莱瑟XA-A级赛车
+  KartJetNum: 1
+- ID: 18173 # 马赫6-B级赛车
+  KartJetNum: 1
+- ID: 18174 # 无限-B级赛车
+  KartJetNum: 1
+- ID: 18175 # 星舰-B级赛车
+  KartJetNum: 1
+- ID: 18176 # 驯鹿雪橇-C级赛车
+  KartJetNum: 1
+- ID: 18177 # 银翼杀手-A级赛车
+  KartJetNum: 1
+- ID: 18178 # 玉麒麟-B级赛车
+  KartJetNum: 1
+- ID: 18179 # S黄金追魂-S级赛车
+  KartJetNum: 1
+- ID: 18759 # 阿尔法-A级赛车
+  KartJetNum: 1
+- ID: 18760 # 暴风勇士-B级赛车
+  KartJetNum: 1
+- ID: 18761 # 疯狂卡丁-A级赛车
+  KartJetNum: 1
+- ID: 18762 # 鲸鲨-C级赛车
+  KartJetNum: 1
+- ID: 18763 # 红色彗星-B级赛车
+  KartJetNum: 1
+- ID: 18764 # 警车-B级赛车
+  KartJetNum: 1
+- ID: 18765 # 飞跃-A级赛车
+  KartJetNum: 1
+- ID: 18766 # 莲花-B级赛车
+  KartJetNum: 1
+- ID: 18767 # 麦凯伦-S级赛车
+  KartJetNum: 1
+- ID: 18768 # 沙漠之狐-A级赛车
+  KartJetNum: 1
+- ID: 18769 # 石中剑-C级赛车
+  KartJetNum: 1
+- ID: 18770 # 袭影-B级赛车
+  KartJetNum: 1
+- ID: 18932 # 冲刺-L3级滑板
+  KartJetNum: 1
+- ID: 18933 # 风速-L2级滑板
+  KartJetNum: 1
+- ID: 19294 # 瑞龙-L0级滑板
+  KartJetNum: 1
+- ID: 19295 # 暴徒-A级赛车
+  KartJetNum: 1
+- ID: 19296 # 财付通-C级赛车
+  KartJetNum: 1
+- ID: 19297 # 风剑-A级赛车
+  KartJetNum: 1
+- ID: 19298 # 风怒-S级赛车
+  KartJetNum: 1
+- ID: 19299 # 火鸟-A级赛车
+  KartJetNum: 1
+- ID: 19300 # 飓风-B级赛车
+  KartJetNum: 1
+- ID: 19301 # 流星-A级赛车
+  KartJetNum: 1
+- ID: 19302 # 甜心号-C级赛车
+  KartJetNum: 1
+- ID: 19303 # 音速战神-B级赛车
+  KartJetNum: 1
+- ID: 19304 # 银电-B级赛车
+  KartJetNum: 1
+- ID: 19614 # K24-B级赛车
+  KartJetNum: 1
+- ID: 19615 # 毁灭公爵-A级赛车
+  KartJetNum: 1
+- ID: 19616 # 白彗星-B级赛车
+  KartJetNum: 1
+- ID: 19617 # 悍马-B级赛车
+  KartJetNum: 1
+- ID: 19618 # 雷蛇-S级赛车
+  KartJetNum: 1
+- ID: 19619 # 超越-A级赛车
+  KartJetNum: 1
+- ID: 19620 # 帝王-A级赛车
+  KartJetNum: 1
+- ID: 19621 # 翼刃-A级赛车
+  KartJetNum: 1
+- ID: 19622 # 小飞侠-C级赛车
+  KartJetNum: 1
+- ID: 19623 # 骑士-M2级摩托
+  KartJetNum: 1
+- ID: 19624 # 飞鱼-L2级滑板
+  KartJetNum: 1
+- ID: 19625 # 末日之刃-L1级滑板
+  KartJetNum: 1
+- ID: 19951 # 针尖王者-S级赛车
+  KartJetNum: 1
+- ID: 19952 # 末路狂花-A级赛车
+  KartJetNum: 1
+- ID: 19953 # 桀豹-B级赛车
+  KartJetNum: 1
+- ID: 19954 # 风暴-B级赛车
+  KartJetNum: 1
+- ID: 19955 # 雷曼-B级赛车
+  KartJetNum: 1
+- ID: 19956 # 火箭-B级赛车
+  KartJetNum: 1
+- ID: 19957 # 尖啸-C级赛车
+  KartJetNum: 1
+- ID: 19958 # 榴弹-M3级摩托
+  KartJetNum: 1
+- ID: 19963 # 黑鹰-L3级滑板
+  KartJetNum: 1
+- ID: 19964 # 金雕-A级赛车
+  KartJetNum: 1
+- ID: 19965 # 天狼星-A级赛车
+  KartJetNum: 1
+- ID: 20237 # 圣光使者-A级赛车
+  KartJetNum: 1
+- ID: 20238 # 激流-B级赛车
+  KartJetNum: 1
+- ID: 20239 # 赛威尔-A级赛车
+  KartJetNum: 1
+- ID: 20240 # 寒冰-B级赛车
+  KartJetNum: 1
+- ID: 20241 # 剑虎-B级赛车
+  KartJetNum: 1
+- ID: 20242 # 狂雷-B级赛车
+  KartJetNum: 1
+- ID: 20243 # 凯旋-C级赛车
+  KartJetNum: 1
+- ID: 20244 # 通天晓-S级赛车
+  KartJetNum: 1
+- ID: 20357 # 蓝隐-A级赛车
+  KartJetNum: 1
+- ID: 20453 # 黑骑士-A级赛车
+  KartJetNum: 1
+- ID: 20454 # 猎鹰-L3级滑板
+  KartJetNum: 1
+- ID: 20471 # 沙皇-S级赛车
+  KartJetNum: 1
+- ID: 20674 # 魔剑-B级赛车
+  KartJetNum: 1
+- ID: 20676 # QQ会员精灵-B级赛车
+  KartJetNum: 1
+- ID: 20677 # Q吧战神-B级赛车
+  KartJetNum: 1
+- ID: 20678 # 320赛车-B级赛车
+  KartJetNum: 1
+- ID: 20679 # 灵鲨-C级赛车
+  KartJetNum: 1
+- ID: 20761 # 天使之心-B级赛车
+  KartJetNum: 1
+- ID: 20762 # 风之子-A级赛车
+  KartJetNum: 1
+- ID: 20763 # 飞翼-A级赛车
+  KartJetNum: 1
+- ID: 20764 # SUV-A级赛车
+  KartJetNum: 1
+- ID: 20776 # 流光-A级赛车
+  KartJetNum: 1
+- ID: 20777 # 帕加尼-A级赛车
+  KartJetNum: 1
+- ID: 20778 # 天使之翼-B级赛车
+  KartJetNum: 1
+- ID: 21079 # 米格-A级赛车
+  KartJetNum: 1
+- ID: 21080 # 浮宫魅影-A级赛车
+  KartJetNum: 1
+- ID: 21081 # 威龙-A级赛车
+  KartJetNum: 1
+- ID: 21082 # 银蛇-B级赛车
+  KartJetNum: 1
+- ID: 21083 # 火种-B级赛车
+  KartJetNum: 1
+- ID: 21084 # 穆斯-B级赛车
+  KartJetNum: 1
+- ID: 21085 # 女妖-C级赛车
+  KartJetNum: 1
+- ID: 21086 # 诸神之剑-S级赛车
+  KartJetNum: 1
+- ID: 21087 # 展翅-A级赛车
+  KartJetNum: 1
+- ID: 21263 # 乘风-A级赛车
+  KartJetNum: 1
+- ID: 21264 # 电掣-A级赛车
+  KartJetNum: 1
+- ID: 21265 # 天妖-A级赛车
+  KartJetNum: 1
+- ID: 21266 # 星梦-A级赛车
+  KartJetNum: 1
+- ID: 21267 # 锋行-B级赛车
+  KartJetNum: 1
+- ID: 21268 # 幻火-C级赛车
+  KartJetNum: 1
+- ID: 21270 # 龙炽-B级赛车
+  KartJetNum: 1
+- ID: 21319 # 雾之战车-S级赛车
+  KartJetNum: 1
+- ID: 21576 # 暴龙-A级赛车
+  KartJetNum: 1
+- ID: 21577 # 飞跃雷克-A级赛车
+  KartJetNum: 1
+- ID: 21578 # 曙光伯爵-A级赛车
+  KartJetNum: 1
+- ID: 21579 # 银龙-A级赛车
+  KartJetNum: 1
+- ID: 21580 # 赤凰-B级赛车
+  KartJetNum: 1
+- ID: 21581 # 剑齿虎-B级赛车
+  KartJetNum: 1
+- ID: 21582 # 金焰-B级赛车
+  KartJetNum: 1
+- ID: 21583 # 奔雷-C级赛车
+  KartJetNum: 1
+- ID: 21593 # 星之精灵-S级赛车
+  KartJetNum: 1
+- ID: 21900 # 太空隼-A级赛车
+  KartJetNum: 1
+- ID: 21901 # 穿梭者-A级赛车
+  KartJetNum: 1
+- ID: 21902 # 飞舰-A级赛车
+  KartJetNum: 1
+- ID: 21903 # 箭影-A级赛车
+  KartJetNum: 1
+- ID: 21904 # 骏驰-B级赛车
+  KartJetNum: 1
+- ID: 21905 # 绿鹰-B级赛车
+  KartJetNum: 1
+- ID: 21906 # 迪卡-B级赛车
+  KartJetNum: 1
+- ID: 21907 # 绿风-M2级摩托
+  KartJetNum: 1
+- ID: 21908 # 白龙-C级赛车
+  KartJetNum: 1
+- ID: 21961 # 巅峰黑夜-S级赛车
+  KartJetNum: 1
+- ID: 22097 # 鬼战刀-S级赛车
+  KartJetNum: 1
+- ID: 22098 # 金星-L2级滑板
+  KartJetNum: 1
+- ID: 22099 # 科帕奇-A级赛车
+  KartJetNum: 1
+- ID: 22100 # 拉瓦扎-A级赛车
+  KartJetNum: 1
+- ID: 22101 # 幽灵-A级赛车
+  KartJetNum: 1
+- ID: 22102 # 帕萨特-B级赛车
+  KartJetNum: 1
+- ID: 22103 # 智能-B级赛车
+  KartJetNum: 1
+- ID: 22118 # NOBLE-B级赛车
+  KartJetNum: 1
+- ID: 22119 # 祥兔-C级赛车
+  KartJetNum: 1
+- ID: 22326 # 翼虎-M2级摩托
+  KartJetNum: 1
+- ID: 22526 # 紫电神驹-S级赛车
+  KartJetNum: 1
+- ID: 22538 # 雷克-A级赛车
+  KartJetNum: 1
+- ID: 22633 # GT-1-A级赛车
+  KartJetNum: 1
+- ID: 22634 # 天籁-A级赛车
+  KartJetNum: 1
+- ID: 22635 # 领主-A级赛车
+  KartJetNum: 1
+- ID: 22636 # K34-A级赛车
+  KartJetNum: 1
+- ID: 22637 # 圣龙-A级赛车
+  KartJetNum: 1
+- ID: 22638 # 昊锐-B级赛车
+  KartJetNum: 1
+- ID: 22639 # 灵跃-B级赛车
+  KartJetNum: 1
+- ID: 22640 # 激光-B级赛车
+  KartJetNum: 1
+- ID: 22641 # 赤兔-B级赛车
+  KartJetNum: 1
+- ID: 22652 # NPC摩托-M2级摩托
+  KartJetNum: 1
+- ID: 22795 # 草莓赛车-C级赛车
+  KartJetNum: 1
+- ID: 23007 # 银天使-A级赛车
+  KartJetNum: 1
+- ID: 23008 # 雷速-A级赛车
+  KartJetNum: 1
+- ID: 23009 # 尊驰-A级赛车
+  KartJetNum: 1
+- ID: 23010 # 凯撒-A级赛车
+  KartJetNum: 1
+- ID: 23011 # 剑锋-B级赛车
+  KartJetNum: 1
+- ID: 23012 # 蕾丝-B级赛车
+  KartJetNum: 1
+- ID: 23013 # 双鱼-B级赛车
+  KartJetNum: 1
+- ID: 23014 # 战蝠-C级赛车
+  KartJetNum: 1
+- ID: 23015 # 暗夜极光-S级赛车
+  KartJetNum: 1
+- ID: 23016 # 小绵羊-M2级摩托
+  KartJetNum: 1
+- ID: 23056 # 劲霸-A级赛车
+  KartJetNum: 1
+- ID: 23057 # 凌烈-A级赛车
+  KartJetNum: 1
+- ID: 23058 # 追风-A级赛车
+  KartJetNum: 1
+- ID: 23059 # 崩雷-B级赛车
+  KartJetNum: 1
+- ID: 23060 # 黑爵士-A级赛车
+  KartJetNum: 1
+- ID: 23061 # 疾电-B级赛车
+  KartJetNum: 1
+- ID: 23062 # 灵翼-B级赛车
+  KartJetNum: 1
+- ID: 23063 # 异域使者-S级赛车
+  KartJetNum: 1
+- ID: 23232 # 赛事专用剃刀-B级赛车
+  KartJetNum: 1
+- ID: 23233 # 水晶-A级赛车
+  KartJetNum: 1
+- ID: 23234 # 蓝鲸-C级赛车
+  KartJetNum: 1
+- ID: 23347 # 津波-A级赛车
+  KartJetNum: 1
+- ID: 23370 # 捕猎者-B级赛车
+  KartJetNum: 1
+- ID: 23371 # 银光-A级赛车
+  KartJetNum: 1
+- ID: 23372 # 红焰-A级赛车
+  KartJetNum: 1
+- ID: 23373 # 圣殿骑士-A级赛车
+  KartJetNum: 1
+- ID: 23374 # 夜魔-B级赛车
+  KartJetNum: 1
+- ID: 23375 # 睿翼-B级赛车
+  KartJetNum: 1
+- ID: 23376 # 狼蛛-B级赛车
+  KartJetNum: 1
+- ID: 23377 # 神农驾-C级赛车
+  KartJetNum: 1
+- ID: 23378 # 十字先锋-S级赛车
+  KartJetNum: 1
+- ID: 23455 # 战神-A级赛车
+  KartJetNum: 1
+- ID: 23457 # 罗技冰痕-A级赛车
+  KartJetNum: 1
+- ID: 23458 # 红色蔷薇-B级赛车
+  KartJetNum: 1
+- ID: 23459 # 金钢-B级赛车
+  KartJetNum: 1
+- ID: 23460 # 勒芒-B级赛车
+  KartJetNum: 1
+- ID: 23461 # 赛博-B级赛车
+  KartJetNum: 1
+- ID: 23462 # 黑豹-C级赛车
+  KartJetNum: 1
+- ID: 23666 # 疾驰-A级赛车
+  KartJetNum: 1
+- ID: 23671 # 飞艇-A级赛车
+  KartJetNum: 1
+- ID: 23672 # 浮越-A级赛车
+  KartJetNum: 1
+- ID: 23673 # 黑风-A级赛车
+  KartJetNum: 1
+- ID: 23674 # 未来-A级赛车
+  KartJetNum: 1
+- ID: 23675 # 黑山妖-B级赛车
+  KartJetNum: 1
+- ID: 23676 # 箭矢-B级赛车
+  KartJetNum: 1
+- ID: 23677 # 金翼-B级赛车
+  KartJetNum: 1
+- ID: 23678 # 擎天柱-B级赛车
+  KartJetNum: 1
+- ID: 23679 # 红豆-C级赛车
+  KartJetNum: 1
+- ID: 23980 # 猛兽-S级赛车
+  KartJetNum: 1
+- ID: 23982 # 伏地魔-A级赛车
+  KartJetNum: 1
+- ID: 23984 # 飞龙流火-A级赛车
+  KartJetNum: 1
+- ID: 23985 # 科曼-A级赛车
+  KartJetNum: 1
+- ID: 23986 # K64-A级赛车
+  KartJetNum: 1
+- ID: 23987 # 汉堡-B级赛车
+  KartJetNum: 1
+- ID: 23988 # 疾速-B级赛车
+  KartJetNum: 1
+- ID: 23989 # 蓝箭-B级赛车
+  KartJetNum: 1
+- ID: 23990 # 布丁-C级赛车
+  KartJetNum: 1
+- ID: 23991 # 白舰-M2级摩托
+  KartJetNum: 1
+- ID: 24146 # 幽浮-S级赛车
+  KartJetNum: 1
+- ID: 24206 # 火星-A级赛车
+  KartJetNum: 1
+- ID: 24207 # 飞驰疾风-A级赛车
+  KartJetNum: 1
+- ID: 24208 # 银电王子-A级赛车
+  KartJetNum: 1
+- ID: 24209 # 转子马达-A级赛车
+  KartJetNum: 1
+- ID: 24210 # 黑峰-B级赛车
+  KartJetNum: 1
+- ID: 24211 # 夜精灵-B级赛车
+  KartJetNum: 1
+- ID: 24212 # 硬顶老爷车-B级赛车
+  KartJetNum: 1
+- ID: 24213 # 银魔-B级赛车
+  KartJetNum: 1
+- ID: 24214 # 魅族者-C级赛车
+  KartJetNum: 1
+- ID: 24215 # 瓦而基里-C级赛车
+  KartJetNum: 1
+- ID: 24402 # 极致幻想-A级赛车
+  KartJetNum: 1
+- ID: 24403 # 帝龙-A级赛车
+  KartJetNum: 1
+- ID: 24404 # 烈光-A级赛车
+  KartJetNum: 1
+- ID: 24405 # 追猎者-A级赛车
+  KartJetNum: 1
+- ID: 24406 # 白灵-B级赛车
+  KartJetNum: 1
+- ID: 24407 # 蓝光-B级赛车
+  KartJetNum: 1
+- ID: 24408 # 紫宵-B级赛车
+  KartJetNum: 1
+- ID: 24409 # 南瓜精灵-C级赛车
+  KartJetNum: 1
+- ID: 24410 # 风之使者-S级赛车
+  KartJetNum: 1
+- ID: 24411 # 破浪-L2级滑板
+  KartJetNum: 1
+- ID: 24603 # 红炽-A级赛车
+  KartJetNum: 1
+- ID: 24604 # QQ会员专属赛车-B级赛车
+  KartJetNum: 1
+- ID: 24605 # 猫车-B级赛车
+  KartJetNum: 1
+- ID: 24606 # li-黄色调-B级赛车
+  KartJetNum: 1
+- ID: 24607 # 粉红豹-C级赛车
+  KartJetNum: 1
+- ID: 24626 # 变形销魂-A级赛车
+  KartJetNum: 1
+- ID: 24627 # li-蓝色调-B级赛车
+  KartJetNum: 1
+- ID: 24829 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 24859 # 纪念版白银雷诺-A级赛车
+  KartJetNum: 1
+- ID: 24899 # 樱冥殿-B级赛车
+  KartJetNum: 1
+- ID: 24900 # 流光速-B级赛车
+  KartJetNum: 1
+- ID: 24924 # 时空战舰-S级赛车
+  KartJetNum: 1
+- ID: 24925 # 炽烈-A级赛车
+  KartJetNum: 1
+- ID: 24926 # 黄金版帝王-A级赛车
+  KartJetNum: 1
+- ID: 24927 # 火焰者-A级赛车
+  KartJetNum: 1
+- ID: 24928 # 四周年专属赛车-A级赛车
+  KartJetNum: 1
+- ID: 24929 # 驰速-A级赛车
+  KartJetNum: 1
+- ID: 24930 # 番石榴-L2级滑板
+  KartJetNum: 1
+- ID: 24931 # 暗程-B级赛车
+  KartJetNum: 1
+- ID: 24934 # 蓝魔鬼-B级赛车
+  KartJetNum: 1
+- ID: 24935 # 红闪电-B级赛车
+  KartJetNum: 1
+- ID: 24936 # 劳伦斯-C级赛车
+  KartJetNum: 1
+- ID: 25393 # 黑色闪电-A级赛车
+  KartJetNum: 1
+- ID: 25394 # 北极光-A级赛车
+  KartJetNum: 1
+- ID: 25395 # 赤焰-A级赛车
+  KartJetNum: 1
+- ID: 25397 # 绿光使者-B级赛车
+  KartJetNum: 1
+- ID: 25398 # 青锋剃刀-B级赛车
+  KartJetNum: 1
+- ID: 25400 # 卫兵-L2级滑板
+  KartJetNum: 1
+- ID: 25617 # 橙光-A级赛车
+  KartJetNum: 1
+- ID: 25618 # 火焰侠-A级赛车
+  KartJetNum: 1
+- ID: 25620 # 深水炸弹-B级赛车
+  KartJetNum: 1
+- ID: 25621 # 御龙战车-B级赛车
+  KartJetNum: 1
+- ID: 25622 # 侦察者-B级赛车
+  KartJetNum: 1
+- ID: 25623 # 红色精灵-C级赛车
+  KartJetNum: 1
+- ID: 25717 # 龙胆逆鳞-S级赛车
+  KartJetNum: 1
+- ID: 25868 # 雷诺-机关炮-A级赛车
+  KartJetNum: 1
+- ID: 25869 # 雷诺-狼蛛-A级赛车
+  KartJetNum: 1
+- ID: 25870 # 雷诺-瓦利-A级赛车
+  KartJetNum: 1
+- ID: 25871 # 卓越-火影-B级赛车
+  KartJetNum: 1
+- ID: 25872 # 卓越-血鲨-B级赛车
+  KartJetNum: 1
+- ID: 25881 # 速腾-A级赛车
+  KartJetNum: 1
+- ID: 25882 # 无及黑-A级赛车
+  KartJetNum: 1
+- ID: 25883 # 玄武-A级赛车
+  KartJetNum: 1
+- ID: 25884 # 海神-B级赛车
+  KartJetNum: 1
+- ID: 25885 # 黄钻专属锐变-B级赛车
+  KartJetNum: 1
+- ID: 25886 # 通灵剃刀-B级赛车
+  KartJetNum: 1
+- ID: 25887 # 蓝芽-C级赛车
+  KartJetNum: 1
+- ID: 26121 # 红锐-B级赛车
+  KartJetNum: 1
+- ID: 26122 # 银星-B级赛车
+  KartJetNum: 1
+- ID: 26123 # 金凯德-B级赛车
+  KartJetNum: 1
+- ID: 26144 # 至尊帝王-S级赛车
+  KartJetNum: 1
+- ID: 26145 # 菲尼迪-A级赛车
+  KartJetNum: 1
+- ID: 26146 # 霸主-A级赛车
+  KartJetNum: 1
+- ID: 26147 # 全民专属流光-A级赛车
+  KartJetNum: 1
+- ID: 26148 # 佩剑-A级赛车
+  KartJetNum: 1
+- ID: 26149 # SSC专属天启-A级赛车
+  KartJetNum: 1
+- ID: 26150 # SSC专属K24-B级赛车
+  KartJetNum: 1
+- ID: 26151 # 蓝博-B级赛车
+  KartJetNum: 1
+- ID: 26152 # 土鲁克-B级赛车
+  KartJetNum: 1
+- ID: 26153 # 沙尘-B级赛车
+  KartJetNum: 1
+- ID: 26154 # 湾岸-B级赛车
+  KartJetNum: 1
+- ID: 26155 # 全民专属智能-B级赛车
+  KartJetNum: 1
+- ID: 26156 # 古玩-C级赛车
+  KartJetNum: 1
+- ID: 26576 # 银魂斗士-A级赛车
+  KartJetNum: 1
+- ID: 26577 # 菲利克斯-A级赛车
+  KartJetNum: 1
+- ID: 26578 # 风之弧度-A级赛车
+  KartJetNum: 1
+- ID: 26579 # 指挥官-A级赛车
+  KartJetNum: 1
+- ID: 26580 # 巨颚-B级赛车
+  KartJetNum: 1
+- ID: 26581 # 迫击炮-B级赛车
+  KartJetNum: 1
+- ID: 26582 # 杀戮甲虫-B级赛车
+  KartJetNum: 1
+- ID: 26583 # 熔岩怪-B级赛车
+  KartJetNum: 1
+- ID: 26584 # 冰魔-C级赛车
+  KartJetNum: 1
+- ID: 26585 # 手术刀-L2级滑板
+  KartJetNum: 1
+- ID: 26634 # 黄金米格-A级赛车
+  KartJetNum: 1
+- ID: 26661 # 光武士-A级赛车
+  KartJetNum: 1
+- ID: 26662 # 狂风猎手款-A级赛车
+  KartJetNum: 1
+- ID: 26663 # 削风-A级赛车
+  KartJetNum: 1
+- ID: 26664 # 雏菊-B级赛车
+  KartJetNum: 1
+- ID: 26665 # 尊爵-B级赛车
+  KartJetNum: 1
+- ID: 26666 # 电亟-B级赛车
+  KartJetNum: 1
+- ID: 26667 # 天使之翼猎手款-B级赛车
+  KartJetNum: 1
+- ID: 26668 # 银貂-B级赛车
+  KartJetNum: 1
+- ID: 26669 # AE86猎手款-B级赛车
+  KartJetNum: 1
+- ID: 26670 # 冰块-C级赛车
+  KartJetNum: 1
+- ID: 26929 # 耀世-A级赛车
+  KartJetNum: 1
+- ID: 26930 # 钢铁雷诺-A级赛车
+  KartJetNum: 1
+- ID: 26931 # 雷神之怒-S级赛车
+  KartJetNum: 1
+- ID: 26951 # 箭羽-A级赛车
+  KartJetNum: 1
+- ID: 26952 # 黑驰-A级赛车
+  KartJetNum: 1
+- ID: 26953 # 300W纪念车-A级赛车
+  KartJetNum: 1
+- ID: 26954 # 光芒-B级赛车
+  KartJetNum: 1
+- ID: 26955 # 惊雷-B级赛车
+  KartJetNum: 1
+- ID: 26956 # 炫魔-B级赛车
+  KartJetNum: 1
+- ID: 26957 # 菲尔德-B级赛车
+  KartJetNum: 1
+- ID: 26958 # 斯科特-C级赛车
+  KartJetNum: 1
+- ID: 26959 # 布万加-M2级摩托
+  KartJetNum: 1
+- ID: 27206 # 黑暗风暴-T2机甲赛车
+  KartJetNum: 1
+- ID: 27219 # 光明骑士-T2机甲赛车
+  KartJetNum: 1
+- ID: 27233 # 惊涛-A级赛车
+  KartJetNum: 1
+- ID: 27234 # 比亚迪E6-A级赛车
+  KartJetNum: 1
+- ID: 27235 # 皎月-A级赛车
+  KartJetNum: 1
+- ID: 27236 # 落日-A级赛车
+  KartJetNum: 1
+- ID: 27237 # 风姿-B级赛车
+  KartJetNum: 1
+- ID: 27238 # 雷特-B级赛车
+  KartJetNum: 1
+- ID: 27239 # 风神Arai-B级赛车
+  KartJetNum: 1
+- ID: 27240 # 贝克-B级赛车
+  KartJetNum: 1
+- ID: 27241 # 火灵-C级赛车
+  KartJetNum: 1
+- ID: 27519 # 沙暴-T1机甲赛车
+  KartJetNum: 1
+- ID: 27520 # 青蜂侠-T1机甲赛车
+  KartJetNum: 1
+- ID: 27565 # 铁拳-T1机甲赛车
+  KartJetNum: 1
+- ID: 27588 # 金锐-C级赛车
+  KartJetNum: 1
+- ID: 27589 # 欧迪-B级赛车
+  KartJetNum: 1
+- ID: 27590 # 锐变-B级赛车
+  KartJetNum: 1
+- ID: 27591 # 卡帕-B级赛车
+  KartJetNum: 1
+- ID: 27592 # 米迦勒-B级赛车
+  KartJetNum: 1
+- ID: 27593 # 翼神Q-A级赛车
+  KartJetNum: 1
+- ID: 27594 # 汉斯-A级赛车
+  KartJetNum: 1
+- ID: 27595 # 绿雁-A级赛车
+  KartJetNum: 1
+- ID: 27596 # 闪电龙-A级赛车
+  KartJetNum: 1
+- ID: 27597 # 风道-A级赛车
+  KartJetNum: 1
+- ID: 27598 # 啸风绝影-S级赛车
+  KartJetNum: 1
+- ID: 28098 # 流风Arai-B级赛车
+  KartJetNum: 1
+- ID: 28099 # 梦魇-B级赛车
+  KartJetNum: 1
+- ID: 28101 # 凌风-A级赛车
+  KartJetNum: 1
+- ID: 28102 # 和风-A级赛车
+  KartJetNum: 1
+- ID: 28103 # 飞焰-A级赛车
+  KartJetNum: 1
+- ID: 28104 # 五周年纪念赛车-A级赛车
+  KartJetNum: 1
+- ID: 28105 # 蛇年车魁蛇-A级赛车
+  KartJetNum: 1
+- ID: 28106 # 幻影绝迹-A级赛车
+  KartJetNum: 1
+- ID: 28107 # 幻想蓝凌-A级赛车
+  KartJetNum: 1
+- ID: 28108 # 疾风骏逸-A级赛车
+  KartJetNum: 1
+- ID: 28109 # 流火勋爵-A级赛车
+  KartJetNum: 1
+- ID: 28110 # 烈焰新星-S级赛车
+  KartJetNum: 1
+- ID: 28656 # 焰之星-A级赛车
+  KartJetNum: 1
+- ID: 28657 # 蓝兽剑影-A级赛车
+  KartJetNum: 1
+- ID: 28658 # 银闪-A级赛车
+  KartJetNum: 1
+- ID: 28659 # 飞启-A级赛车
+  KartJetNum: 1
+- ID: 28660 # 驰锐-A级赛车
+  KartJetNum: 1
+- ID: 28661 # 蓝鲨-A级赛车
+  KartJetNum: 1
+- ID: 28662 # 摄魂-B级赛车
+  KartJetNum: 1
+- ID: 28663 # 剔魄-B级赛车
+  KartJetNum: 1
+- ID: 28664 # 飞度-B级赛车
+  KartJetNum: 1
+- ID: 28665 # 刀狐-M2级摩托
+  KartJetNum: 1
+- ID: 28778 # 朱雀-T1机甲赛车
+  KartJetNum: 1
+- ID: 28779 # 锋速-S级赛车
+  KartJetNum: 1
+- ID: 28780 # 银影侠-A级赛车
+  KartJetNum: 1
+- ID: 28782 # 黑夜游侠-A级赛车
+  KartJetNum: 1
+- ID: 28783 # 绝尘-A级赛车
+  KartJetNum: 1
+- ID: 28784 # 赛睿之星-B级赛车
+  KartJetNum: 1
+- ID: 28785 # 夜微-B级赛车
+  KartJetNum: 1
+- ID: 28786 # 紫色意志-B级赛车
+  KartJetNum: 1
+- ID: 28787 # MINI-X-B级赛车
+  KartJetNum: 1
+- ID: 28788 # 流金爵士-D级赛车
+  KartJetNum: 1
+- ID: 29363 # 冲锋战神-B级赛车
+  KartJetNum: 1
+- ID: 29364 # 伏龙-A级赛车
+  KartJetNum: 1
+- ID: 29365 # 巨蝎-A级赛车
+  KartJetNum: 1
+- ID: 29366 # 火焰狂狮-A级赛车
+  KartJetNum: 1
+- ID: 29367 # 红细胞-B级赛车
+  KartJetNum: 1
+- ID: 29368 # 绿箭侠-B级赛车
+  KartJetNum: 1
+- ID: 29369 # 新年魅影-A级赛车
+  KartJetNum: 1
+- ID: 29370 # 黑风Arai-B级赛车
+  KartJetNum: 1
+- ID: 29440 # 猛禽-A级赛车
+  KartJetNum: 1
+- ID: 30109 # 极速光电-A级赛车
+  KartJetNum: 1
+- ID: 30110 # 幽灵猎手-A级赛车
+  KartJetNum: 1
+- ID: 30111 # 闪耀雷霆-A级赛车
+  KartJetNum: 1
+- ID: 30112 # 蓝色武士-A级赛车
+  KartJetNum: 1
+- ID: 30113 # 雷光紫电-A级赛车
+  KartJetNum: 1
+- ID: 30115 # 合金-B级赛车
+  KartJetNum: 1
+- ID: 30116 # 奇迹之翼-B级赛车
+  KartJetNum: 1
+- ID: 30117 # 深海之星-B级赛车
+  KartJetNum: 1
+- ID: 30118 # 复仇天使-T2机甲赛车
+  KartJetNum: 1
+- ID: 30808 # 速度之魔-S级赛车
+  KartJetNum: 1
+- ID: 30809 # 枪骑兵-A级赛车
+  KartJetNum: 1
+- ID: 30810 # 风之利刃-A级赛车
+  KartJetNum: 1
+- ID: 30811 # 绿色游侠-A级赛车
+  KartJetNum: 1
+- ID: 30812 # 紫剑兽-A级赛车
+  KartJetNum: 1
+- ID: 30813 # 金甲武士-A级赛车
+  KartJetNum: 1
+- ID: 30814 # 邮政专属天启-A级赛车
+  KartJetNum: 1
+- ID: 30815 # 技术大师专属赛车-A级赛车
+  KartJetNum: 1
+- ID: 30816 # 银灵-B级赛车
+  KartJetNum: 1
+- ID: 30817 # 蓝影-B级赛车
+  KartJetNum: 1
+- ID: 30818 # 火舞-B级赛车
+  KartJetNum: 1
+- ID: 30819 # 黑麒麟-B级赛车
+  KartJetNum: 1
+- ID: 30890 # 雷霆机甲-T2机甲赛车
+  KartJetNum: 1
+- ID: 30891 # 噬魂剃刀-A级赛车
+  KartJetNum: 1
+- ID: 30892 # 灵动幻影-A级赛车
+  KartJetNum: 1
+- ID: 30893 # 飓风-A级赛车
+  KartJetNum: 1
+- ID: 30894 # 银翼刺客-A级赛车
+  KartJetNum: 1
+- ID: 30895 # 地震-A级赛车
+  KartJetNum: 1
+- ID: 30896 # 异动-A级赛车
+  KartJetNum: 1
+- ID: 30897 # 银光闪电侠-B级赛车
+  KartJetNum: 1
+- ID: 30898 # 卡尔森-B级赛车
+  KartJetNum: 1
+- ID: 30899 # 粉红佳人-B级赛车
+  KartJetNum: 1
+- ID: 31570 # 绿影幽灵-S级赛车
+  KartJetNum: 1
+- ID: 31571 # 风火轮-A级赛车
+  KartJetNum: 1
+- ID: 31572 # 赛睿之焱-A级赛车
+  KartJetNum: 1
+- ID: 31573 # 飞沙-A级赛车
+  KartJetNum: 1
+- ID: 31574 # 暗夜精灵-A级赛车
+  KartJetNum: 1
+- ID: 31575 # 银狐-B级赛车
+  KartJetNum: 1
+- ID: 31576 # 雷电-B级赛车
+  KartJetNum: 1
+- ID: 31577 # 白色骑士-B级赛车
+  KartJetNum: 1
+- ID: 31578 # 巨齿兽-B级赛车
+  KartJetNum: 1
+- ID: 31913 # 罗刹-A级赛车
+  KartJetNum: 1
+- ID: 31914 # 黄金雷诺-A级赛车
+  KartJetNum: 1
+- ID: 31915 # 黄金针尖-A级赛车
+  KartJetNum: 1
+- ID: 31916 # 白银帝王-A级赛车
+  KartJetNum: 1
+- ID: 31917 # 黑夜传奇-A级赛车
+  KartJetNum: 1
+- ID: 31918 # 银电销魂-A级赛车
+  KartJetNum: 1
+- ID: 31919 # 绿剑销魂-A级赛车
+  KartJetNum: 1
+- ID: 31920 # 捍卫者-A级赛车
+  KartJetNum: 1
+- ID: 31921 # 青冥-A级赛车
+  KartJetNum: 1
+- ID: 31922 # 赛德克-B级赛车
+  KartJetNum: 1
+- ID: 31923 # 神盾-B级赛车
+  KartJetNum: 1
+- ID: 31924 # 风影Arai-B级赛车
+  KartJetNum: 1
+- ID: 31925 # 克尔维特-B级赛车
+  KartJetNum: 1
+- ID: 32406 # 黄蜂战神-S级赛车
+  KartJetNum: 1
+- ID: 32407 # 绝影神驹-S级赛车
+  KartJetNum: 1
+- ID: 32408 # 铁甲巨龙-T2机甲赛车
+  KartJetNum: 1
+- ID: 32409 # 烈火战车-A级赛车
+  KartJetNum: 1
+- ID: 32410 # 霸气坦克-A级赛车
+  KartJetNum: 1
+- ID: 32411 # 青旗战马-A级赛车
+  KartJetNum: 1
+- ID: 32412 # 烈焰铠甲-A级赛车
+  KartJetNum: 1
+- ID: 32413 # 疾风幽灵-A级赛车
+  KartJetNum: 1
+- ID: 32414 # 幻想躁动-A级赛车
+  KartJetNum: 1
+- ID: 32415 # 流火炎魔-A级赛车
+  KartJetNum: 1
+- ID: 32416 # 六周年纪念赛车-A级赛车
+  KartJetNum: 1
+- ID: 32417 # 情侣贵族专属车-A级赛车
+  KartJetNum: 1
+- ID: 32418 # 白鸽-B级赛车
+  KartJetNum: 1
+- ID: 32419 # 黑贝-B级赛车
+  KartJetNum: 1
+- ID: 32420 # 萨摩-B级赛车
+  KartJetNum: 1
+- ID: 32421 # 哥萨克-B级赛车
+  KartJetNum: 1
+- ID: 32819 # 海神之刺-S级赛车
+  KartJetNum: 1
+- ID: 32820 # F22-猛禽-A级赛车
+  KartJetNum: 1
+- ID: 32821 # 雷霆先锋-A级赛车
+  KartJetNum: 1
+- ID: 32822 # 曼陀罗-A级赛车
+  KartJetNum: 1
+- ID: 32823 # 锯齿-A级赛车
+  KartJetNum: 1
+- ID: 32824 # 圣光雪狐-A级赛车
+  KartJetNum: 1
+- ID: 32825 # 艾瑞克-B级赛车
+  KartJetNum: 1
+- ID: 32826 # 猎杀-A级赛车
+  KartJetNum: 1
+- ID: 32827 # 狂野噪音-B级赛车
+  KartJetNum: 1
+- ID: 32828 # 卡顿-B级赛车
+  KartJetNum: 1
+- ID: 33257 # 战魂-T1机甲赛车
+  KartJetNum: 1
+- ID: 33258 # 修罗战神-S级赛车
+  KartJetNum: 1
+- ID: 33259 # 收割者-A级赛车
+  KartJetNum: 1
+- ID: 33260 # 幻影绝尘-A级赛车
+  KartJetNum: 1
+- ID: 33261 # 烈焰火龙-A级赛车
+  KartJetNum: 1
+- ID: 33262 # 极地狼-A级赛车
+  KartJetNum: 1
+- ID: 33263 # 冰裂-A级赛车
+  KartJetNum: 1
+- ID: 33264 # 森曼-B级赛车
+  KartJetNum: 1
+- ID: 33265 # 幽芒-B级赛车
+  KartJetNum: 1
+- ID: 33266 # 蓝色魔盒-B级赛车
+  KartJetNum: 1
+- ID: 33267 # 合金弹头-B级赛车
+  KartJetNum: 1
+- ID: 33268 # 纪念版穿梭者-A级赛车
+  KartJetNum: 1
+- ID: 33269 # 全民专属翼刃-A级赛车
+  KartJetNum: 1
+- ID: 33270 # 全民专属彗星-B级赛车
+  KartJetNum: 1
+- ID: 33271 # 火箭杀手-R级赛车
+  KartJetNum: 1
+- ID: 33272 # 刀锋杀手-R级赛车
+  KartJetNum: 1
+- ID: 33273 # 公路杀手-R级赛车
+  KartJetNum: 1
+- ID: 33275 # 火之焰-R级赛车
+  KartJetNum: 1
+- ID: 33788 # 末日使者-S级赛车
+  KartJetNum: 1
+- ID: 33789 # 御剑游侠-S级赛车
+  KartJetNum: 1
+- ID: 33790 # 烈焰战魂-A级赛车
+  KartJetNum: 1
+- ID: 33791 # 寒冰战士-A级赛车
+  KartJetNum: 1
+- ID: 33792 # 金电黄蜂-A级赛车
+  KartJetNum: 1
+- ID: 33793 # 听风者-A级赛车
+  KartJetNum: 1
+- ID: 33794 # 无效ID-B级赛车
+  KartJetNum: 1
+- ID: 33795 # 魅影剃刀-B级赛车
+  KartJetNum: 1
+- ID: 33796 # 战龙在天-B级赛车
+  KartJetNum: 1
+- ID: 33894 # 暗影刺客-T2机甲赛车
+  KartJetNum: 1
+- ID: 33895 # 紫焰战神-T2机甲赛车
+  KartJetNum: 1
+- ID: 34393 # 神影-A级赛车
+  KartJetNum: 1
+- ID: 34394 # 幻蓝地魔-A级赛车
+  KartJetNum: 1
+- ID: 34395 # 锋速蓝影-A级赛车
+  KartJetNum: 1
+- ID: 34396 # 酷暑-A级赛车
+  KartJetNum: 1
+- ID: 34397 # 清风绿茵-B级赛车
+  KartJetNum: 1
+- ID: 34398 # 神龙炎兽-B级赛车
+  KartJetNum: 1
+- ID: 34399 # 烈鸟毒刺-B级赛车
+  KartJetNum: 1
+- ID: 34850 # 绿影骑士-T1机甲赛车
+  KartJetNum: 1
+- ID: 34851 # 闪电风暴-S级赛车
+  KartJetNum: 1
+- ID: 34852 # 极速之流-A级赛车
+  KartJetNum: 1
+- ID: 34853 # 荣耀黄蜂-A级赛车
+  KartJetNum: 1
+- ID: 34858 # 灵幻橙风-A级赛车
+  KartJetNum: 1
+- ID: 34859 # 霹雳火-A级赛车
+  KartJetNum: 1
+- ID: 34860 # 劳德曼-B级赛车
+  KartJetNum: 1
+- ID: 34861 # 青灵-B级赛车
+  KartJetNum: 1
+- ID: 34862 # 巴鲁斯-B级赛车
+  KartJetNum: 1
+- ID: 34865 # 流影霸主-A级赛车
+  KartJetNum: 1
+- ID: 60027 # 破天-B级赛车
+  KartJetNum: 1
+- ID: 60031 # 黄金乘风-A级赛车
+  KartJetNum: 1
+- ID: 60032 # 黄金圣使-A级赛车
+  KartJetNum: 1
+- ID: 60033 # 黄金剃刀-B级赛车
+  KartJetNum: 1
+- ID: 60034 # 黄金卓越-B级赛车
+  KartJetNum: 1
+- ID: 60429 # 噬魂金甲-T1机甲赛车
+  KartJetNum: 1
+- ID: 60430 # 炼狱使者-S级赛车
+  KartJetNum: 1
+- ID: 60435 # 烈火疾电-A级赛车
+  KartJetNum: 1
+- ID: 60436 # 神光绿影-A级赛车
+  KartJetNum: 1
+- ID: 60437 # 炎火-B级赛车
+  KartJetNum: 1
+- ID: 60438 # 灵魅风影-B级赛车
+  KartJetNum: 1
+- ID: 60447 # 粉钻专属赛车-B级赛车
+  KartJetNum: 1
+- ID: 60448 # 蓝钻专属赛车-B级赛车
+  KartJetNum: 1
+- ID: 62771 # 圣天使-T2机甲赛车
+  KartJetNum: 1
+- ID: 62772 # 暗夜幽灵-S级赛车
+  KartJetNum: 1
+- ID: 62773 # 战争雷诺-A级赛车
+  KartJetNum: 1
+- ID: 62774 # 银翼杀手-刺陵-A级赛车
+  KartJetNum: 1
+- ID: 62775 # 飞翼Q吧-A级赛车
+  KartJetNum: 1
+- ID: 62776 # 傲势-A级赛车
+  KartJetNum: 1
+- ID: 62777 # 雾海飞鹰-A级赛车
+  KartJetNum: 1
+- ID: 62778 # 橙风四驱-B级赛车
+  KartJetNum: 1
+- ID: 62779 # 利剑-B级赛车
+  KartJetNum: 1
+- ID: 62780 # 叱焰-B级赛车
+  KartJetNum: 1
+- ID: 62862 # 七周年专属纪念赛车-A级赛车
+  KartJetNum: 1
+- ID: 63429 # 终极幻影-T3机甲赛车
+  KartJetNum: 1
+- ID: 63430 # 闪电侠-T1机甲赛车
+  KartJetNum: 1
+- ID: 63431 # 赤道极光-S级赛车
+  KartJetNum: 1
+- ID: 63432 # 月光女神-银月-A级赛车
+  KartJetNum: 1
+- ID: 63433 # 银天使-逆光-A级赛车
+  KartJetNum: 1
+- ID: 63434 # 战地之王-A级赛车
+  KartJetNum: 1
+- ID: 63435 # 七周年纪念赛车-A级赛车
+  KartJetNum: 1
+- ID: 63436 # 黑金-A级赛车
+  KartJetNum: 1
+- ID: 63437 # 听海-A级赛车
+  KartJetNum: 1
+- ID: 63438 # 镜花蓝影-B级赛车
+  KartJetNum: 1
+- ID: 63439 # 绿影怪兽-B级赛车
+  KartJetNum: 1
+- ID: 63440 # 金典风暴-B级赛车
+  KartJetNum: 1
+- ID: 63482 # 黑暗骑士-T2机甲赛车
+  KartJetNum: 1
+- ID: 63501 # 七周年荣耀赛车-A级赛车
+  KartJetNum: 1
+- ID: 63509 # 火焰传说-A级赛车
+  KartJetNum: 1
+- ID: 63700 # 圣白独角兽-T2机甲赛车
+  KartJetNum: 1
+- ID: 63701 # 火焰独角兽-T2机甲赛车
+  KartJetNum: 1
+- ID: 63702 # 金焰战神-S级赛车
+  KartJetNum: 1
+- ID: 63703 # 天启-肃杀-A级赛车
+  KartJetNum: 1
+- ID: 63704 # 幻灵奇迹-A级赛车
+  KartJetNum: 1
+- ID: 63705 # 银魂捷豹-T1机甲赛车
+  KartJetNum: 1
+- ID: 63707 # 银电幻想-A级赛车
+  KartJetNum: 1
+- ID: 63708 # 荧素疾风-A级赛车
+  KartJetNum: 1
+- ID: 63709 # 炽焰流火-A级赛车
+  KartJetNum: 1
+- ID: 63710 # 异动卡丁车-B级赛车
+  KartJetNum: 1
+- ID: 63711 # 炫金-B级赛车
+  KartJetNum: 1
+- ID: 63712 # 银河传说-B级赛车
+  KartJetNum: 1
+- ID: 64296 # 羊年专属雷诺-A级赛车
+  KartJetNum: 1
+- ID: 64879 # 暗夜王爵-T1机甲赛车
+  KartJetNum: 1
+- ID: 64880 # 烈焰销魂-A级赛车
+  KartJetNum: 1
+- ID: 64881 # 恶魔信使-A级赛车
+  KartJetNum: 1
+- ID: 64882 # 枫林-A级赛车
+  KartJetNum: 1
+- ID: 64883 # 银豹-B级赛车
+  KartJetNum: 1
+- ID: 64884 # 金殿魅影-B级赛车
+  KartJetNum: 1
+- ID: 64885 # 海翔-B级赛车
+  KartJetNum: 1
+- ID: 64972 # 猎豹_改装-C级赛车
+  KartJetNum: 1
+- ID: 64973 # 劳伦斯_改装-C级赛车
+  KartJetNum: 1
+- ID: 64974 # 刺客_改装-C级赛车
+  KartJetNum: 1
+- ID: 64975 # 流光速_改装-B级赛车
+  KartJetNum: 1
+- ID: 64976 # 樱冥殿_改装-B级赛车
+  KartJetNum: 1
+- ID: 64977 # 青锋剃刀_改装-B级赛车
+  KartJetNum: 1
+- ID: 64978 # 阿波罗_改装-A级赛车
+  KartJetNum: 1
+- ID: 64979 # 蝰蛇_改装-A级赛车
+  KartJetNum: 1
+- ID: 64980 # 太空準_改装-A级赛车
+  KartJetNum: 1
+- ID: 64981 # 青蜂侠_改装-T1机甲赛车
+  KartJetNum: 1
+- ID: 64982 # 朱雀_改装-T1机甲赛车
+  KartJetNum: 1
+- ID: 64983 # 战魂_改装-T1机甲赛车
+  KartJetNum: 1
+- ID: 64984 # 黑暗风暴_改装-T2机甲赛车
+  KartJetNum: 1
+- ID: 64985 # 暗夜影速_改装-T2机甲赛车
+  KartJetNum: 1
+- ID: 64986 # 圣天使_改装-T2机甲赛车
+  KartJetNum: 1
+- ID: 64987 # S白金剃刀_改装-S级赛车
+  KartJetNum: 1
+- ID: 64988 # 迈凯伦_改装-S级赛车
+  KartJetNum: 1
+- ID: 64989 # 风怒_改装-S级赛车
+  KartJetNum: 1
+- ID: 64993 # 黄金天使之翼-B级赛车
+  KartJetNum: 1
+- ID: 65109 # 银凌闪电-S级赛车
+  KartJetNum: 1
+- ID: 65110 # 怒焰飞跃-A级赛车
+  KartJetNum: 1
+- ID: 65111 # 黄金霸天虎-B级赛车
+  KartJetNum: 1
+- ID: 65116 # 银电青锋-B级赛车
+  KartJetNum: 1
+- ID: 65117 # 金甲战狼-B级赛车
+  KartJetNum: 1
+- ID: 65118 # 海洋之心-B级赛车
+  KartJetNum: 1
+- ID: 65686 # 流光劲驰-A级赛车
+  KartJetNum: 1
+- ID: 65859 # 水晶先锋-T1机甲赛车
+  KartJetNum: 1
+- ID: 65864 # 巅峰战刀-S级赛车
+  KartJetNum: 1
+- ID: 65865 # 烈焰骑兵-A级赛车
+  KartJetNum: 1
+- ID: 65866 # 极影刺客-A级赛车
+  KartJetNum: 1
+- ID: 65869 # 蓝翱海域-B级赛车
+  KartJetNum: 1
+- ID: 65870 # 炽焰展飞-B级赛车
+  KartJetNum: 1
+- ID: 65871 # 黑色荣耀-B级赛车
+  KartJetNum: 1
+- ID: 66598 # 紫铭-T1机甲赛车
+  KartJetNum: 1
+- ID: 66599 # 机械战警-T2机甲赛车
+  KartJetNum: 1
+- ID: 66600 # 至尊王者剃刀-S级赛车
+  KartJetNum: 1
+- ID: 66601 # 金影狮王-A级赛车
+  KartJetNum: 1
+- ID: 66602 # 影流阿尔法-A级赛车
+  KartJetNum: 1
+- ID: 66604 # 刀锋魅影-A级赛车
+  KartJetNum: 1
+- ID: 66605 # 紫魅-B级赛车
+  KartJetNum: 1
+- ID: 66606 # 杀人蜂-B级赛车
+  KartJetNum: 1
+- ID: 66607 # 速鲨-B级赛车
+  KartJetNum: 1
+- ID: 67305 # 纪念版圣殿骑士-A级赛车
+  KartJetNum: 1
+- ID: 67341 # 炫风专属乘风-A级赛车
+  KartJetNum: 1
+- ID: 68094 # 神龙骑士-T1机甲赛车
+  KartJetNum: 1
+- ID: 68095 # 零羽天使-T2机甲赛车
+  KartJetNum: 1
+- ID: 68096 # 月影-A级赛车
+  KartJetNum: 1
+- ID: 68097 # 蝙蝠战车-A级赛车
+  KartJetNum: 1
+- ID: 68098 # 金钻女神-A级赛车
+  KartJetNum: 1
+- ID: 68099 # F22-战鹰-A级赛车
+  KartJetNum: 1
+- ID: 68100 # 利刃针尖-A级赛车
+  KartJetNum: 1
+- ID: 68101 # 绝迹-B级赛车
+  KartJetNum: 1
+- ID: 68102 # 血影-B级赛车
+  KartJetNum: 1
+- ID: 68103 # 青蜂勇士-B级赛车
+  KartJetNum: 1
+- ID: 68192 # 火焰奇兵-D级赛车
+  KartJetNum: 1
+- ID: 68642 # 末界战神-T2机甲赛车
+  KartJetNum: 1
+- ID: 68643 # 终极暴风雪-S级赛车
+  KartJetNum: 1
+- ID: 68644 # 超能战车-A级赛车
+  KartJetNum: 1
+- ID: 68645 # 天秤灵越-A级赛车
+  KartJetNum: 1
+- ID: 68646 # 天蝎荣耀-A级赛车
+  KartJetNum: 1
+- ID: 68647 # 飞虎雷诺-A级赛车
+  KartJetNum: 1
+- ID: 68648 # 风驰-B级赛车
+  KartJetNum: 1
+- ID: 68649 # 炎啸-B级赛车
+  KartJetNum: 1
+- ID: 68650 # 月影绿魔-B级赛车
+  KartJetNum: 1
+- ID: 68651 # 正义先锋专属赛车-B级赛车
+  KartJetNum: 1
+- ID: 68652 # 极速狂徒专属赛车-B级赛车
+  KartJetNum: 1
+- ID: 68727 # 火线追击-A级赛车
+  KartJetNum: 1
+- ID: 69207 # 天姬-T1机甲赛车
+  KartJetNum: 1
+- ID: 69208 # 刺弦射手-A级赛车
+  KartJetNum: 1
+- ID: 69209 # 星河战警-A级赛车
+  KartJetNum: 1
+- ID: 69210 # 御魂使-A级赛车
+  KartJetNum: 1
+- ID: 69211 # 炽热月神-A级赛车
+  KartJetNum: 1
+- ID: 69212 # 啸影公爵-B级赛车
+  KartJetNum: 1
+- ID: 69213 # 布鲁斯沃特-B级赛车
+  KartJetNum: 1
+- ID: 69214 # 炫影-B级赛车
+  KartJetNum: 1
+- ID: 70046 # 御皇铠甲-T2机甲赛车
+  KartJetNum: 1
+- ID: 70047 # 终极麦凯伦-S级赛车
+  KartJetNum: 1
+- ID: 70048 # 金幻水瓶-A级赛车
+  KartJetNum: 1
+- ID: 70049 # 翼刃摩羯-A级赛车
+  KartJetNum: 1
+- ID: 70050 # 8周年纪念剃刀-B级赛车
+  KartJetNum: 1
+- ID: 70051 # 皇爵-A级赛车
+  KartJetNum: 1
+- ID: 70052 # 维克多-B级赛车
+  KartJetNum: 1
+- ID: 70053 # 史前蛇影-B级赛车
+  KartJetNum: 1
+- ID: 70054 # 凌威-B级赛车
+  KartJetNum: 1
+- ID: 70715 # 星光穿梭者-A级赛车
+  KartJetNum: 1
+- ID: 71452 # 神谕天尊-T3机甲赛车
+  KartJetNum: 1
+- ID: 71453 # 怒魂-T2机甲赛车
+  KartJetNum: 1
+- ID: 71454 # 刀锋神兵-T2机甲赛车
+  KartJetNum: 1
+- ID: 71455 # 圣枪-T1机甲赛车
+  KartJetNum: 1
+- ID: 71456 # 小橘子纪念A车-A级赛车
+  KartJetNum: 1
+- ID: 71457 # 白勇太纪念A车-A级赛车
+  KartJetNum: 1
+- ID: 71458 # 大圣雷诺-A级赛车
+  KartJetNum: 1
+- ID: 71459 # 赤涡黑轮-A级赛车
+  KartJetNum: 1
+- ID: 71460 # 逆鳞双鱼-A级赛车
+  KartJetNum: 1
+- ID: 71461 # 傲血流火-A级赛车
+  KartJetNum: 1
+- ID: 71462 # 肃杀疾风-A级赛车
+  KartJetNum: 1
+- ID: 71463 # 越泽幻想-A级赛车
+  KartJetNum: 1
+- ID: 71464 # 鸿黎耀世-B级赛车
+  KartJetNum: 1
+- ID: 71465 # 荒原之翼-B级赛车
+  KartJetNum: 1
+- ID: 71466 # 魅域-B级赛车
+  KartJetNum: 1
+- ID: 71588 # 异形杀戮-S级赛车
+  KartJetNum: 1
+- ID: 72277 # 激刃-T1机甲赛车
+  KartJetNum: 1
+- ID: 72278 # 血月-A级赛车
+  KartJetNum: 1
+- ID: 72279 # 锐意白羊-A级赛车
+  KartJetNum: 1
+- ID: 72280 # 圣银-B级赛车
+  KartJetNum: 1
+- ID: 72281 # 紫夜-B级赛车
+  KartJetNum: 1
+- ID: 72282 # 魅袭-B级赛车
+  KartJetNum: 1
+- ID: 72739 # 深渊武士-T2机甲赛车
+  KartJetNum: 1
+- ID: 72740 # 神影之尊-T1机甲赛车
+  KartJetNum: 1
+- ID: 72741 # X-先驱者-S级赛车
+  KartJetNum: 1
+- ID: 72742 # 幻域王者-A级赛车
+  KartJetNum: 1
+- ID: 72747 # 火烈鸟-B级赛车
+  KartJetNum: 1
+- ID: 72748 # 极影锋行-B级赛车
+  KartJetNum: 1
+- ID: 72749 # 越野者-B级赛车
+  KartJetNum: 1
+- ID: 73220 # 爵战金牛-A级赛车
+  KartJetNum: 1
+- ID: 73221 # 魅域双子-A级赛车
+  KartJetNum: 1
+- ID: 73485 # 银天使-圣光-A级赛车
+  KartJetNum: 1
+- ID: 73517 # 全民专属伏地魔-A级赛车
+  KartJetNum: 1
+- ID: 73518 # 全民专属红色彗星-B级赛车
+  KartJetNum: 1
+- ID: 73696 # 超能英雄-T1机甲赛车
+  KartJetNum: 1
+- ID: 73697 # 斗战胜佛-S级赛车
+  KartJetNum: 1
+- ID: 73698 # 猎狩巨蟹-A级赛车
+  KartJetNum: 1
+- ID: 73699 # 幻能白金-A级赛车
+  KartJetNum: 1
+- ID: 73700 # 幻能黄金-A级赛车
+  KartJetNum: 1
+- ID: 73701 # 炎溟-B级赛车
+  KartJetNum: 1
+- ID: 73702 # 莫柯瑞萨-B级赛车
+  KartJetNum: 1
+- ID: 73703 # 暗夜尊影-B级赛车
+  KartJetNum: 1
+- ID: 74360 # 绝地战士-T1机甲赛车
+  KartJetNum: 1
+- ID: 74361 # 孙悟空-T2机甲赛车
+  KartJetNum: 1
+- ID: 74362 # 爆天甲-S级赛车
+  KartJetNum: 1
+- ID: 74363 # 终极鬼战刀-S级赛车
+  KartJetNum: 1
+- ID: 74364 # 8周年烈焰纪念版-A级赛车
+  KartJetNum: 1
+- ID: 74369 # 锐爪-B级赛车
+  KartJetNum: 1
+- ID: 74370 # 蓝炎-B级赛车
+  KartJetNum: 1
+- ID: 74371 # 炬魄擎风-B级赛车
+  KartJetNum: 1
+- ID: 74808 # 蓝翼-B级赛车
+  KartJetNum: 1
+- ID: 74809 # 玫翼-B级赛车
+  KartJetNum: 1
+- ID: 74884 # 金甲狮王-T2机甲赛车
+  KartJetNum: 1
+- ID: 74885 # 超能特警-T1机甲赛车
+  KartJetNum: 1
+- ID: 74894 # 水粼逆寒-A级赛车
+  KartJetNum: 1
+- ID: 74895 # 炎御飞龙-A级赛车
+  KartJetNum: 1
+- ID: 74896 # 丛林战警-B级赛车
+  KartJetNum: 1
+- ID: 74897 # 雪域极光-B级赛车
+  KartJetNum: 1
+- ID: 74898 # 攀岩者-B级赛车
+  KartJetNum: 1
+- ID: 75577 # 暗夜黄蜂-B级赛车
+  KartJetNum: 1
+- ID: 75585 # 穿梭者-车王纪念版-A级赛车
+  KartJetNum: 1
+- ID: 75807 # 鬼武者-T2机甲赛车
+  KartJetNum: 1
+- ID: 75808 # 终极针尖王者-S级赛车
+  KartJetNum: 1
+- ID: 75809 # 刺甲黄金龙-A级赛车
+  KartJetNum: 1
+- ID: 75810 # 浴火粉凰-A级赛车
+  KartJetNum: 1
+- ID: 75811 # 极地冰凤-A级赛车
+  KartJetNum: 1
+- ID: 75812 # 心悦猛禽-A级赛车
+  KartJetNum: 1
+- ID: 75813 # 蓝域擎天-B级赛车
+  KartJetNum: 1
+- ID: 75814 # 焰齿钻轮-B级赛车
+  KartJetNum: 1
+- ID: 75815 # 极速之光-B级赛车
+  KartJetNum: 1
+- ID: 75821 # 幻想战神-B级赛车
+  KartJetNum: 1
+- ID: 75822 # 疾风战神-B级赛车
+  KartJetNum: 1
+- ID: 75823 # 流火战神-B级赛车
+  KartJetNum: 1
+- ID: 76200 # 魔甲战神-A级赛车
+  KartJetNum: 1
+- ID: 76300 # 烈刃-A级赛车
+  KartJetNum: 1
+- ID: 76477 # 白虎战神-T1机甲赛车
+  KartJetNum: 1
+- ID: 76478 # 钢铁先驱-A级赛车
+  KartJetNum: 1
+- ID: 76479 # 爱心丘比特-A级赛车
+  KartJetNum: 1
+- ID: 76480 # 烈日战甲-B级赛车
+  KartJetNum: 1
+- ID: 76481 # 风驰电掣-B级赛车
+  KartJetNum: 1
+- ID: 76482 # 紫色闪电-B级赛车
+  KartJetNum: 1
+- ID: 77235 # 守护者-T2机甲赛车
+  KartJetNum: 1
+- ID: 77236 # 终极猛兽-S级赛车
+  KartJetNum: 1
+- ID: 77237 # 帝铠炎龙-A级赛车
+  KartJetNum: 1
+- ID: 77238 # 幻耀之钻-A级赛车
+  KartJetNum: 1
+- ID: 77239 # 闪光-B级赛车
+  KartJetNum: 1
+- ID: 77240 # 蓝瑟-B级赛车
+  KartJetNum: 1
+- ID: 77241 # 爵克-B级赛车
+  KartJetNum: 1
+- ID: 78106 # 怒焰极光-B级赛车
+  KartJetNum: 1
+- ID: 78292 # 创世之神-T3机甲赛车
+  KartJetNum: 1
+- ID: 78293 # 白金守护神-T2机甲赛车
+  KartJetNum: 1
+- ID: 78294 # 黄金守护神-T2机甲赛车
+  KartJetNum: 1
+- ID: 78295 # 至尊青龙-T1机甲赛车
+  KartJetNum: 1
+- ID: 78296 # 毁灭者-S级赛车
+  KartJetNum: 1
+- ID: 78297 # 凤凰雷诺-A级赛车
+  KartJetNum: 1
+- ID: 78298 # 极速光天使-A级赛车
+  KartJetNum: 1
+- ID: 78299 # 极战幻夜-A级赛车
+  KartJetNum: 1
+- ID: 78300 # 流火王者-A级赛车
+  KartJetNum: 1
+- ID: 78301 # 幻想王者-A级赛车
+  KartJetNum: 1
+- ID: 78302 # 疾风王者-A级赛车
+  KartJetNum: 1
+- ID: 78303 # 九周年极限赛车-A级赛车
+  KartJetNum: 1
+- ID: 78304 # 欧罗拉-B级赛车
+  KartJetNum: 1
+- ID: 78305 # 落海-B级赛车
+  KartJetNum: 1
+- ID: 78306 # 零枫-B级赛车
+  KartJetNum: 1
+- ID: 78765 # 黑魂之翼-A级赛车
+  KartJetNum: 1
+- ID: 78911 # 玄武之魂-T1机甲赛车
+  KartJetNum: 1
+- ID: 78912 # Noble-激光-A级赛车
+  KartJetNum: 1
+- ID: 78913 # 霹雳战驱-A级赛车
+  KartJetNum: 1
+- ID: 78914 # 闪雷-B级赛车
+  KartJetNum: 1
+- ID: 78915 # 博塞亚-B级赛车
+  KartJetNum: 1
+- ID: 78916 # 青枫-B级赛车
+  KartJetNum: 1
+- ID: 80159 # 无影之刃-T1机甲赛车
+  KartJetNum: 1
+- ID: 80160 # 赤焰战神-T2机甲赛车
+  KartJetNum: 1
+- ID: 80161 # 地狱火-S级赛车
+  KartJetNum: 1
+- ID: 80162 # 绝尘龙影-A级赛车
+  KartJetNum: 1
+- ID: 80163 # 幻影游侠-A级赛车
+  KartJetNum: 1
+- ID: 80168 # 星驰逐风-A级赛车
+  KartJetNum: 1
+- ID: 80169 # 幻橙荣耀-A级赛车
+  KartJetNum: 1
+- ID: 80170 # 荣耀伯爵-A级赛车
+  KartJetNum: 1
+- ID: 80171 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 80172 # 御风-B级赛车
+  KartJetNum: 1
+- ID: 80173 # 斯博图-B级赛车
+  KartJetNum: 1
+- ID: 80174 # 格瑞-B级赛车
+  KartJetNum: 1
+- ID: 80175 # 拉尔夫-B级赛车
+  KartJetNum: 1
+- ID: 80541 # 猎魂裁决-T2机甲赛车
+  KartJetNum: 1
+- ID: 80542 # 雷瑟之光-S级赛车
+  KartJetNum: 1
+- ID: 80543 # 海神之吻-A级赛车
+  KartJetNum: 1
+- ID: 80544 # 神之翼 -A级赛车
+  KartJetNum: 1
+- ID: 80545 # 利刃黄蜂-A级赛车
+  KartJetNum: 1
+- ID: 80546 # 烈火噬魂-A级赛车
+  KartJetNum: 1
+- ID: 80547 # 幽勒勇士-B级赛车
+  KartJetNum: 1
+- ID: 80548 # 漂流者-B级赛车
+  KartJetNum: 1
+- ID: 80549 # 极速战神-B级赛车
+  KartJetNum: 1
+- ID: 81107 # 地狱天启-A级赛车
+  KartJetNum: 1
+- ID: 81127 # 荣耀霸主-A级赛车
+  KartJetNum: 1
+- ID: 81291 # 擎天战神-T2机甲赛车
+  KartJetNum: 1
+- ID: 81292 # 刑天战斧-T1机甲赛车
+  KartJetNum: 1
+- ID: 81293 # 黑域电魔-S级赛车
+  KartJetNum: 1
+- ID: 81294 # 风驰光影-A级赛车
+  KartJetNum: 1
+- ID: 81295 # 森林守卫-B级赛车
+  KartJetNum: 1
+- ID: 81296 # 嗜血-B级赛车
+  KartJetNum: 1
+- ID: 81297 # 蓝剑-B级赛车
+  KartJetNum: 1
+- ID: 81298 # 幻影蓝魔-A级赛车
+  KartJetNum: 1
+- ID: 81887 # 至尊黑曜-A级赛车
+  KartJetNum: 1
+- ID: 81888 # 黑曜-B级赛车
+  KartJetNum: 1
+- ID: 82109 # 无效-A级赛车
+  KartJetNum: 1
+- ID: 82248 # 雷霆霸主-T2机甲赛车
+  KartJetNum: 1
+- ID: 82249 # 雪域冰魄-S级赛车
+  KartJetNum: 1
+- ID: 82250 # 特性-A级赛车
+  KartJetNum: 1
+- ID: 82251 # 闪电先锋-A级赛车
+  KartJetNum: 1
+- ID: 82252 # 蓝魔尊-A级赛车
+  KartJetNum: 1
+- ID: 82253 # 流金刺客-A级赛车
+  KartJetNum: 1
+- ID: 82254 # Vans-随想-A级赛车
+  KartJetNum: 1
+- ID: 82255 # 狙击警探-B级赛车
+  KartJetNum: 1
+- ID: 82256 # 红梦魇-B级赛车
+  KartJetNum: 1
+- ID: 82257 # 狐蝠杀手-B级赛车
+  KartJetNum: 1
+- ID: 83038 # 猎鹰战神-T2机甲赛车
+  KartJetNum: 1
+- ID: 83039 # 弑火刺客-T1机甲赛车
+  KartJetNum: 1
+- ID: 83040 # 幻灭之翼-A级赛车
+  KartJetNum: 1
+- ID: 83041 # 黑魔爵士-A级赛车
+  KartJetNum: 1
+- ID: 83042 # 终极变形销魂-S级赛车
+  KartJetNum: 1
+- ID: 83043 # 名爵-B级赛车
+  KartJetNum: 1
+- ID: 83044 # 金蝠飞翼-B级赛车
+  KartJetNum: 1
+- ID: 83715 # 九周年黄金剃刀-B级赛车
+  KartJetNum: 1
+- ID: 83718 # 纪念版黄金雷诺-A级赛车
+  KartJetNum: 1
+- ID: 83986 # 凌霜圣使-T2机甲赛车
+  KartJetNum: 1
+- ID: 83987 # 皇庭之战-A级赛车
+  KartJetNum: 1
+- ID: 83988 # 魔龙御使-A级赛车
+  KartJetNum: 1
+- ID: 83989 # GK紫域-B级赛车
+  KartJetNum: 1
+- ID: 83990 # 玫红之舞-B级赛车
+  KartJetNum: 1
+- ID: 83991 # 玄风-B级赛车
+  KartJetNum: 1
+- ID: 84544 # 暗耀之子-A级赛车
+  KartJetNum: 1
+- ID: 84663 # 梦想大Q吧-B级赛车
+  KartJetNum: 1
+- ID: 84664 # 超级战车-A级赛车
+  KartJetNum: 1
+- ID: 84867 # 亡灵收割者-T2机甲赛车
+  KartJetNum: 1
+- ID: 84868 # 侍武之魂-T1机甲赛车
+  KartJetNum: 1
+- ID: 84869 # 暗影龙骑-S级赛车
+  KartJetNum: 1
+- ID: 84870 # 幻影修罗-A级赛车
+  KartJetNum: 1
+- ID: 84871 # 圣光骑士-A级赛车
+  KartJetNum: 1
+- ID: 84872 # 龙啸锋芒-B级赛车
+  KartJetNum: 1
+- ID: 84873 # 裂天战车-B级赛车
+  KartJetNum: 1
+- ID: 84874 # 暗匿行者-B级赛车
+  KartJetNum: 1
+- ID: 85942 # 圣域大天使-T3机甲赛车
+  KartJetNum: 1
+- ID: 85943 # 极影风神-T2机甲赛车
+  KartJetNum: 1
+- ID: 85944 # 啸天神君-T2机甲赛车
+  KartJetNum: 1
+- ID: 85945 # 启灵守护神-T1机甲赛车
+  KartJetNum: 1
+- ID: 85946 # 青瓷·幻想-S级赛车
+  KartJetNum: 1
+- ID: 85947 # 祥瑞·流火-S级赛车
+  KartJetNum: 1
+- ID: 85948 # 玉影·疾风-S级赛车
+  KartJetNum: 1
+- ID: 85949 # 终极紫电神驹-S级赛车
+  KartJetNum: 1
+- ID: 85950 # 啸天雷诺-A级赛车
+  KartJetNum: 1
+- ID: 85951 # 幻风流影-A级赛车
+  KartJetNum: 1
+- ID: 85952 # 蓝魇-B级赛车
+  KartJetNum: 1
+- ID: 85953 # 寒凌-B级赛车
+  KartJetNum: 1
+- ID: 85954 # 剑影-B级赛车
+  KartJetNum: 1
+- ID: 86998 # 疾影M18-S级赛车
+  KartJetNum: 1
+- ID: 86999 # 电玩之魂-A级赛车
+  KartJetNum: 1
+- ID: 87000 # 战绝-B级赛车
+  KartJetNum: 1
+- ID: 87001 # 赤炎-B级赛车
+  KartJetNum: 1
+- ID: 87002 # 风驰噬音-B级赛车
+  KartJetNum: 1
+- ID: 87725 # 苍穹帝王-A级赛车
+  KartJetNum: 1
+- ID: 87726 # 暗狱帝王-A级赛车
+  KartJetNum: 1
+- ID: 87727 # 雷怒帝王-A级赛车
+  KartJetNum: 1
+- ID: 87963 # 极寒风暴-A级赛车
+  KartJetNum: 1
+- ID: 87964 # 极炎风暴-A级赛车
+  KartJetNum: 1
+- ID: 87965 # 岩流风暴-A级赛车
+  KartJetNum: 1
+- ID: 88089 # 荣耀AE86-B级赛车
+  KartJetNum: 1
+- ID: 88090 # 莱瑟K86-A级赛车
+  KartJetNum: 1
+- ID: 88683 # 战地先锋-T1机甲赛车
+  KartJetNum: 1
+- ID: 88684 # 战争之主-T2机甲赛车
+  KartJetNum: 1
+- ID: 88685 # 深海狂鲨-A级赛车
+  KartJetNum: 1
+- ID: 88686 # 复仇豹魂-A级赛车
+  KartJetNum: 1
+- ID: 88691 # XTig-绝地魄-B级赛车
+  KartJetNum: 1
+- ID: 88692 # 昼虎-B级赛车
+  KartJetNum: 1
+- ID: 88693 # 迷影战驱-B级赛车
+  KartJetNum: 1
+- ID: 88723 # 机甲test01-T1机甲赛车
+  KartJetNum: 1
+- ID: 88724 # 机甲test02-T1机甲赛车
+  KartJetNum: 1
+- ID: 88725 # 机甲test03-T1机甲赛车
+  KartJetNum: 1
+- ID: 88726 # 机甲test04-T1机甲赛车
+  KartJetNum: 1
+- ID: 88727 # 赛车test01-S级赛车
+  KartJetNum: 1
+- ID: 88728 # 赛车test02-S级赛车
+  KartJetNum: 1
+- ID: 88729 # 赛车test03-S级赛车
+  KartJetNum: 1
+- ID: 88730 # 赛车test04-S级赛车
+  KartJetNum: 1
+- ID: 88863 # 裂风机械兽-T1机甲赛车
+  KartJetNum: 1
+- ID: 88864 # 炎舞战姬-T2机甲赛车
+  KartJetNum: 1
+- ID: 88865 # 终极爆天甲-S级赛车
+  KartJetNum: 1
+- ID: 88866 # 晶凌玄夜-A级赛车
+  KartJetNum: 1
+- ID: 88867 # 龙鳞之战-A级赛车
+  KartJetNum: 1
+- ID: 88868 # 猩红风暴-B级赛车
+  KartJetNum: 1
+- ID: 88869 # 初号机-XT-B级赛车
+  KartJetNum: 1
+- ID: 88870 # 星脉-B级赛车
+  KartJetNum: 1
+- ID: 89750 # 银天使虎牙定制款-A级赛车
+  KartJetNum: 1
+- ID: 89787 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 89934 # 死神·阿努比斯-T2机甲赛车
+  KartJetNum: 1
+- ID: 89935 # 针尖守卫-T1机甲赛车
+  KartJetNum: 1
+- ID: 89936 # 终极烈焰新星-S级赛车
+  KartJetNum: 1
+- ID: 89937 # 盘古之力-A级赛车
+  KartJetNum: 1
+- ID: 89938 # 十周年鎏金赛车-A级赛车
+  KartJetNum: 1
+- ID: 89939 # 星际传说-A级赛车
+  KartJetNum: 1
+- ID: 89940 # 亡灵剃刀-A级赛车
+  KartJetNum: 1
+- ID: 89941 # 猎影-B级赛车
+  KartJetNum: 1
+- ID: 89942 # 卡瑞斯帕-B级赛车
+  KartJetNum: 1
+- ID: 89943 # 绿冥之心-A级赛车
+  KartJetNum: 1
+- ID: 90944 # 吕布·奉先-T2机甲赛车
+  KartJetNum: 1
+- ID: 90945 # 众神之神-S级赛车
+  KartJetNum: 1
+- ID: 90946 # 赛博朋克-A级赛车
+  KartJetNum: 1
+- ID: 90947 # 幽影骇客-A级赛车
+  KartJetNum: 1
+- ID: 90948 # 夜蝠-B级赛车
+  KartJetNum: 1
+- ID: 90949 # 科尔维特-B级赛车
+  KartJetNum: 1
+- ID: 90950 # 德奥卡特-V9-B级赛车
+  KartJetNum: 1
+- ID: 91068 # 极速灵狐-A级赛车
+  KartJetNum: 1
+- ID: 91069 # 极魂猎豹-A级赛车
+  KartJetNum: 1
+- ID: 91070 # 傲势猎鹰-A级赛车
+  KartJetNum: 1
+- ID: 91720 # 超时空穿梭者-A级赛车
+  KartJetNum: 1
+- ID: 91957 # 终极银天使-S级赛车
+  KartJetNum: 1
+- ID: 91958 # 霸天堡垒-T2机甲赛车
+  KartJetNum: 1
+- ID: 91959 # 圣剑骑士-T1机甲赛车
+  KartJetNum: 1
+- ID: 91960 # 东方之龙-A级赛车
+  KartJetNum: 1
+- ID: 91961 # 残月晓风-A级赛车
+  KartJetNum: 1
+- ID: 91962 # 泣血-B级赛车
+  KartJetNum: 1
+- ID: 91963 # 红缨-B级赛车
+  KartJetNum: 1
+- ID: 91964 # 尘影御风-B级赛车
+  KartJetNum: 1
+- ID: 92841 # 幽冥剑圣-T2机甲赛车
+  KartJetNum: 1
+- ID: 92842 # 异星探索者-A级赛车
+  KartJetNum: 1
+- ID: 92843 # 火神之翼-A级赛车
+  KartJetNum: 1
+- ID: 92844 # 魂魇暗夜-B级赛车
+  KartJetNum: 1
+- ID: 92845 # 苍穹之蓝-B级赛车
+  KartJetNum: 1
+- ID: 92846 # 血煞-B级赛车
+  KartJetNum: 1
+- ID: 92847 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 92848 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 92849 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 92852 # 白玉神驹-A级赛车
+  KartJetNum: 1
+- ID: 93347 # 双人车红-A级赛车
+  KartJetNum: 1
+- ID: 93348 # 双人车黄-A级赛车
+  KartJetNum: 1
+- ID: 93349 # 双人车蓝-A级赛车
+  KartJetNum: 1
+- ID: 93573 # 凌云战机-T1机甲赛车
+  KartJetNum: 1
+- ID: 93574 # 电玩雷诺-A级赛车
+  KartJetNum: 1
+- ID: 93575 # 东方圣诞-A级赛车
+  KartJetNum: 1
+- ID: 93576 # 时之沧影-A级赛车
+  KartJetNum: 1
+- ID: 93577 # 凌天-B级赛车
+  KartJetNum: 1
+- ID: 93578 # 铁血悍将-B级赛车
+  KartJetNum: 1
+- ID: 93579 # 紫魅-B级赛车
+  KartJetNum: 1
+- ID: 94371 # 威霸天-A级赛车
+  KartJetNum: 1
+- ID: 94396 # 幻粼猛禽-A级赛车
+  KartJetNum: 1
+- ID: 94397 # 疾蓝之翼-B级赛车
+  KartJetNum: 1
+- ID: 94425 # 绝地王灵-A级赛车
+  KartJetNum: 1
+- ID: 94428 # 测试用S-S级赛车
+  KartJetNum: 1
+- ID: 94838 # 上古魔尊-T3机甲赛车
+  KartJetNum: 1
+- ID: 94839 # 纪元女神-T2机甲赛车
+  KartJetNum: 1
+- ID: 94840 # 无效ID-T1机甲赛车
+  KartJetNum: 1
+- ID: 94841 # 冠军之魄-S级赛车
+  KartJetNum: 1
+- ID: 94842 # 无垠·幻想-S级赛车
+  KartJetNum: 1
+- ID: 94843 # 如影·疾风-S级赛车
+  KartJetNum: 1
+- ID: 94844 # 世尘·流火-S级赛车
+  KartJetNum: 1
+- ID: 94845 # 荣耀战狮-A级赛车
+  KartJetNum: 1
+- ID: 94846 # 天蓬雷诺-A级赛车
+  KartJetNum: 1
+- ID: 94847 # 大橘车-B级赛车
+  KartJetNum: 1
+- ID: 94848 # 粉红闪电-B级赛车
+  KartJetNum: 1
+- ID: 94849 # 测试用雷诺-A级赛车
+  KartJetNum: 1
+- ID: 95660 # 地狱神影-A级赛车
+  KartJetNum: 1
+- ID: 95682 # 剃刀守卫-T1机甲赛车
+  KartJetNum: 1
+- ID: 95683 # 海神之戟-A级赛车
+  KartJetNum: 1
+- ID: 95684 # 璀璨之星-A级赛车
+  KartJetNum: 1
+- ID: 95685 # 骇客-A级赛车
+  KartJetNum: 1
+- ID: 95686 # 银魅冰焰-B级赛车
+  KartJetNum: 1
+- ID: 95687 # 金色流光-B级赛车
+  KartJetNum: 1
+- ID: 95688 # 圣焰使者-A级赛车
+  KartJetNum: 1
+- ID: 95751 # 赤链之蛇-A级赛车
+  KartJetNum: 1
+- ID: 96480 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 96610 # 炽狼之影-A级赛车
+  KartJetNum: 1
+- ID: 96679 # K-荣耀王爵-A级赛车
+  KartJetNum: 1
+- ID: 96784 # 纪元武神-T2机甲赛车
+  KartJetNum: 1
+- ID: 96785 # 光明之神-S级赛车
+  KartJetNum: 1
+- ID: 96786 # 绿茵王者-A级赛车
+  KartJetNum: 1
+- ID: 96787 # 地狱F22-猛禽-A级赛车
+  KartJetNum: 1
+- ID: 96788 # 破晓者-A级赛车
+  KartJetNum: 1
+- ID: 96789 # 银剑-B级赛车
+  KartJetNum: 1
+- ID: 96790 # 极速超越-B级赛车
+  KartJetNum: 1
+- ID: 97431 # 雷电神王-T2机甲赛车
+  KartJetNum: 1
+- ID: 97474 # 剧情S橘子-S级赛车
+  KartJetNum: 1
+- ID: 97475 # 剧情S白永泰-S级赛车
+  KartJetNum: 1
+- ID: 97476 # 剧情S镜-S级赛车
+  KartJetNum: 1
+- ID: 97535 # 星河猎手-A级赛车
+  KartJetNum: 1
+- ID: 98261 # 武圣·关云长-T2机甲赛车
+  KartJetNum: 1
+- ID: 98262 # 萌猪骑士-T1机甲赛车
+  KartJetNum: 1
+- ID: 98263 # 黑曼巴-S级赛车
+  KartJetNum: 1
+- ID: 98264 # 漫步者-A级赛车
+  KartJetNum: 1
+- ID: 98265 # 魅影王爵-A级赛车
+  KartJetNum: 1
+- ID: 98266 # 破浪者-A级赛车
+  KartJetNum: 1
+- ID: 98267 # 地狱银天使-A级赛车
+  KartJetNum: 1
+- ID: 98268 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 98269 # 蔚空之蓝-B级赛车
+  KartJetNum: 1
+- ID: 98270 # 橘神风暴-B级赛车
+  KartJetNum: 1
+- ID: 98637 # 地狱雷诺-A级赛车
+  KartJetNum: 1
+- ID: 98826 # 猪八戒-T2机甲赛车
+  KartJetNum: 1
+- ID: 98827 # 天启守卫-T1机甲赛车
+  KartJetNum: 1
+- ID: 98828 # 怒海狂鲨-T1机甲赛车
+  KartJetNum: 1
+- ID: 98829 # 海洋之神-S级赛车
+  KartJetNum: 1
+- ID: 98830 # 爆天雷诺-S级赛车
+  KartJetNum: 1
+- ID: 98831 # 炽焰风华-A级赛车
+  KartJetNum: 1
+- ID: 98832 # 星际魔坦-A级赛车
+  KartJetNum: 1
+- ID: 98833 # 嫦娥-A级赛车
+  KartJetNum: 1
+- ID: 98834 # 极速神音-A级赛车
+  KartJetNum: 1
+- ID: 98835 # 甜蜜旋风-B级赛车
+  KartJetNum: 1
+- ID: 98836 # 极速梦想-B级赛车
+  KartJetNum: 1
+- ID: 98837 # 暗黑影爵-A级赛车
+  KartJetNum: 1
+- ID: 98838 # 虎牙先锋-A级赛车
+  KartJetNum: 1
+- ID: 99629 # 星舞者-A级赛车
+  KartJetNum: 1
+- ID: 99841 # 暗秋魅影-A级赛车
+  KartJetNum: 1
+- ID: 99844 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 100046 # 无效ID-T2机甲赛车
+  KartJetNum: 1
+- ID: 100047 # 暗夜猎魔兽-T1机甲赛车
+  KartJetNum: 1
+- ID: 100048 # 净坛使者-S级赛车
+  KartJetNum: 1
+- ID: 100049 # 星际战舰-S级赛车
+  KartJetNum: 1
+- ID: 100050 # 追光者-A级赛车
+  KartJetNum: 1
+- ID: 100051 # 时空之翼-A级赛车
+  KartJetNum: 1
+- ID: 100052 # 蓝冰风暴-A级赛车
+  KartJetNum: 1
+- ID: 100053 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 100054 # 蓝色彗星-B级赛车
+  KartJetNum: 1
+- ID: 100055 # 魅火战车-B级赛车
+  KartJetNum: 1
+- ID: 100669 # 圣金剃刀-A级赛车
+  KartJetNum: 1
+- ID: 100793 # K-荣耀影爵-A级赛车
+  KartJetNum: 1
+- ID: 100899 # 12周年纪念卓越-B级赛车
+  KartJetNum: 1
+- ID: 101884 # 强袭装甲-T2机甲赛车
+  KartJetNum: 1
+- ID: 101885 # 终极黑域电魔-S级赛车
+  KartJetNum: 1
+- ID: 101886 # 12周年赛车-圣耀-A级赛车
+  KartJetNum: 1
+- ID: 101887 # 暗-天蓬-A级赛车
+  KartJetNum: 1
+- ID: 101888 # 圣堂使者-A级赛车
+  KartJetNum: 1
+- ID: 101889 # 极鼠先锋-A级赛车
+  KartJetNum: 1
+- ID: 101890 # 蓝蒂超跑-B级赛车
+  KartJetNum: 1
+- ID: 101891 # 红蒂超跑-B级赛车
+  KartJetNum: 1
+- ID: 101892 # 无效ID-B级赛车
+  KartJetNum: 1
+- ID: 101998 # 魔术师新春版-M2级摩托
+  KartJetNum: 1
+- ID: 101999 # 大黄鸭-B级赛车
+  KartJetNum: 1
+- ID: 102219 # 圣殿剑魂-T3机甲赛车
+  KartJetNum: 1
+- ID: 102220 # 先锋雷诺-A级赛车
+  KartJetNum: 1
+- ID: 102221 # 霹雳鼠卫-T2机甲赛车
+  KartJetNum: 1
+- ID: 102222 # 无效ID-S级赛车
+  KartJetNum: 1
+- ID: 102223 # 灵岚·幻想-S级赛车
+  KartJetNum: 1
+- ID: 102224 # 绯炽·流火-S级赛车
+  KartJetNum: 1
+- ID: 102225 # 青遥·疾风-S级赛车
+  KartJetNum: 1
+- ID: 102226 # 狱火啸天-A级赛车
+  KartJetNum: 1
+- ID: 102227 # 迅捷流星-A级赛车
+  KartJetNum: 1
+- ID: 102228 # 逆鳞风斩-B级赛车
+  KartJetNum: 1
+- ID: 102229 # 驰影-B级赛车
+  KartJetNum: 1
+- ID: 102230 # 紫晶穿梭者-A级赛车
+  KartJetNum: 1
+- ID: 102951 # 双子守护者-T1机甲赛车
+  KartJetNum: 1
+- ID: 103025 # 迅影黄蜂-A级赛车
+  KartJetNum: 1
+- ID: 103164 # SSC-墨蓝魂-A级赛车
+  KartJetNum: 1
+- ID: 104127 # 未来女警-T2机甲赛车
+  KartJetNum: 1
+- ID: 104128 # 雷诺守卫-T1机甲赛车
+  KartJetNum: 1
+- ID: 104129 # X-争锋者-S级赛车
+  KartJetNum: 1
+- ID: 104130 # 无双·赵子龙-T2机甲赛车
+  KartJetNum: 1
+- ID: 104131 # 作废ID-T1机甲赛车
+  KartJetNum: 1
+- ID: 104132 # 飓风雷诺-A级赛车
+  KartJetNum: 1
+- ID: 104133 # 龙飞凤舞-A级赛车
+  KartJetNum: 1
+- ID: 104134 # 恋羽之翼-A级赛车
+  KartJetNum: 1
+- ID: 104135 # 方天画戟-A级赛车
+  KartJetNum: 1
+- ID: 104136 # 沧海-A级赛车
+  KartJetNum: 1
+- ID: 104137 # 苍穹绝影-A级赛车
+  KartJetNum: 1
+- ID: 104138 # 银鼠魅影-B级赛车
+  KartJetNum: 1
+- ID: 104139 # 冲锋战车-B级赛车
+  KartJetNum: 1
+- ID: 104496 # 无效ID-A级赛车
+  KartJetNum: 1
+- ID: 105423 # 赤焰修罗-T2机甲赛车
+  KartJetNum: 1
+- ID: 105424 # 裂空之翼-T2机甲赛车
+  KartJetNum: 1
+- ID: 105425 # 魅影M20-S级赛车
+  KartJetNum: 1
+- ID: 105426 # 都市之影-XP-A级赛车
+  KartJetNum: 1
+- ID: 105427 # 彩虹独角兽-A级赛车
+  KartJetNum: 1
+- ID: 105428 # 粉红女郎超跑-B级赛车
+  KartJetNum: 1
+- ID: 105429 # 地狱霸天虎-B级赛车
+  KartJetNum: 1
+- ID: 105605 # 极影之星-A级赛车
+  KartJetNum: 1
+- ID: 106673 # 智慧之神-S级赛车
+  KartJetNum: 1
+- ID: 106674 # 至尊·爆天甲-S级赛车
+  KartJetNum: 1
+- ID: 106675 # 终极众神之神-S级赛车
+  KartJetNum: 1
+- ID: 106676 # 至尊·盘龙-S级赛车
+  KartJetNum: 1
+- ID: 106677 # 白龙马-T2机甲赛车
+  KartJetNum: 1
+- ID: 106678 # 黄蜂特警-T1机甲赛车
+  KartJetNum: 1
+- ID: 106679 # SPEED幻影20-A级赛车
+  KartJetNum: 1
+- ID: 106680 # 疯狂二哈-A级赛车
+  KartJetNum: 1
+- ID: 106681 # K-荣耀之光-A级赛车
+  KartJetNum: 1
+- ID: 106682 # 超能橘猫-A级赛车
+  KartJetNum: 1
+- ID: 106683 # 赛博战士-A级赛车
+  KartJetNum: 1
+- ID: 106684 # 星辰之语-A级赛车
+  KartJetNum: 1
+- ID: 106685 # 暗夜金刚狼-B级赛车
+  KartJetNum: 1
+- ID: 106686 # 夏日大Q吧-B级赛车
+  KartJetNum: 1
+- ID: 106939 # 先行者雷诺-A级赛车
+  KartJetNum: 1
+- ID: 106998 # SSC-蓝境星矢-A级赛车
+  KartJetNum: 1
+- ID: 107369 # 恶灵骑士-T2机甲赛车
+  KartJetNum: 1
+- ID: 107370 # 至尊·麦凯伦-S级赛车
+  KartJetNum: 1
+- ID: 107371 # F22-雷霆万钧-S级赛车
+  KartJetNum: 1
+- ID: 107372 # AK47·战影-A级赛车
+  KartJetNum: 1
+- ID: 107373 # 逐星者-A级赛车
+  KartJetNum: 1
+- ID: 107374 # 超灵速跑-B级赛车
+  KartJetNum: 1
+- ID: 107375 # 红岩之翼-B级赛车
+  KartJetNum: 1
+- ID: 107376 # 测试ID-A级赛车
+  KartJetNum: 1
+- ID: 108325 # 黔灵-B级赛车
+  KartJetNum: 1
+- ID: 108338 # 恶灵骑士摩托车-M3级摩托
+  KartJetNum: 1
+- ID: 109298 # 利刃天狼-T1机甲赛车
+  KartJetNum: 1
+- ID: 109299 # 代达罗斯-S级赛车
+  KartJetNum: 1
+- ID: 109301 # 加特林·暴风-A级赛车
+  KartJetNum: 1
+- ID: 109302 # 天翼直升机-A级赛车
+  KartJetNum: 1
+- ID: 109303 # 劳斯莱斯QEX-A级赛车
+  KartJetNum: 1
+- ID: 109304 # 蓝影主宰-A级赛车
+  KartJetNum: 1
+- ID: 109305 # 劳斯莱斯曜影-B级赛车
+  KartJetNum: 1
+- ID: 109306 # K-夜之陨星-A级赛车
+  KartJetNum: 1
+- ID: 109350 # 迈凯伦600LT-A级赛车
+  KartJetNum: 1
+- ID: 109396 # 御风歌者-A级赛车
+  KartJetNum: 1
+- ID: 109560 # 圣域炽天使-T3机甲赛车
+  KartJetNum: 1
+- ID: 109561 # 刀锋武姬-T2机甲赛车
+  KartJetNum: 1
+- ID: 109562 # 红莲骑士-T1机甲赛车
+  KartJetNum: 1
+- ID: 109563 # 至尊·涅槃-S级赛车
+  KartJetNum: 1
+- ID: 109564 # 魔王雷诺-A级赛车
+  KartJetNum: 1
+- ID: 109565 # 春影龙翱-A级赛车
+  KartJetNum: 1
+- ID: 109566 # 飞剑太白-A级赛车
+  KartJetNum: 1
+- ID: 109567 # 神风玉堂-A级赛车
+  KartJetNum: 1
+- ID: 109568 # 星空猎手-A级赛车
+  KartJetNum: 1
+- ID: 109569 # 裁决者-A级赛车
+  KartJetNum: 1
+- ID: 109570 # 空天猎霸-A级赛车
+  KartJetNum: 1
+- ID: 109571 # 赛博销魂-A级赛车
+  KartJetNum: 1
+- ID: 109572 # 夕年-B级赛车
+  KartJetNum: 1
+- ID: 109573 # 王权富贵剑-B级赛车
+  KartJetNum: 1
+- ID: 109574 # 魔王骑士-M2级摩托
+  KartJetNum: 1
+- ID: 110872 # 新春神影-A级赛车
+  KartJetNum: 1
+- ID: 110880 # T3座椅-S级赛车
+  KartJetNum: 1
+- ID: 112174 # 跳跳派对车-A级赛车
+  KartJetNum: 1
+- ID: 112175 # 圣辉骑士-T1机甲赛车
+  KartJetNum: 1
+- ID: 112176 # 冥王·哈迪斯-S级赛车
+  KartJetNum: 1
+- ID: 112177 # 血月猛禽-S级赛车
+  KartJetNum: 1
+- ID: 112179 # 绿冥刺客-A级赛车
+  KartJetNum: 1
+- ID: 112180 # 永夜尊主-A级赛车
+  KartJetNum: 1
+- ID: 112181 # 神圣雅典娜-A级赛车
+  KartJetNum: 1
+- ID: 112182 # 烈魂者-A级赛车
+  KartJetNum: 1
+- ID: 112183 # 射手座黄金圣衣-A级赛车
+  KartJetNum: 1
+- ID: 112184 # 德国小斑马-B级赛车
+  KartJetNum: 1
+- ID: 112185 # 黑武者-B级赛车
+  KartJetNum: 1
+- ID: 112277 # 圣斗士星矢-A级赛车
+  KartJetNum: 1
+- ID: 113412 # 沙悟净-T2机甲赛车
+  KartJetNum: 1
+- ID: 113416 # HelloKitty雷诺-A级赛车
+  KartJetNum: 1
+- ID: 113417 # 蓝隐神使-A级赛车
+  KartJetNum: 1
+- ID: 113418 # 星夜之翼-B级赛车
+  KartJetNum: 1
+- ID: 113419 # 雾夜之星-B级赛车
+  KartJetNum: 1
+- ID: 113672 # 派对-超能橘猫-A级赛车
+  KartJetNum: 1
+- ID: 113673 # 熊猫-C级赛车
+  KartJetNum: 1
+- ID: 113674 # 派对-疯狂二哈-A级赛车
+  KartJetNum: 1
+- ID: 113675 # 海盗-C级赛车
+  KartJetNum: 1
+- ID: 113676 # 派对-异星探索者-A级赛车
+  KartJetNum: 1
+- ID: 113677 # 派对-赤涡黑轮-A级赛车
+  KartJetNum: 1
+- ID: 113678 # 派对-地狱F22-猛禽-A级赛车
+  KartJetNum: 1
+- ID: 113679 # 恶灵骑士摩托车-M3级摩托
+  KartJetNum: 1
+- ID: 113680 # 酷橙滑板-L2级滑板
+  KartJetNum: 1
+- ID: 113681 # 破天-B级赛车
+  KartJetNum: 1
+- ID: 113682 # 飞天魔毯-B级赛车
+  KartJetNum: 1
+- ID: 113683 # 飞碟-C级赛车
+  KartJetNum: 1
+- ID: 115156 # 黄金射手座-T2机甲赛车
+  KartJetNum: 1
+- ID: 115157 # 暗黑孙悟空-T2机甲赛车
+  KartJetNum: 1
+- ID: 115158 # 光明守卫-T1机甲赛车
+  KartJetNum: 1
+- ID: 115160 # 至曜·玄武-S级赛车
+  KartJetNum: 1
+- ID: 115161 # 逐浪火烈鸟-A级赛车
+  KartJetNum: 1
+- ID: 115162 # 海派甜心-A级赛车
+  KartJetNum: 1
+- ID: 115163 # 鹊桥仙-A级赛车
+  KartJetNum: 1
+- ID: 115164 # 兰博基尼·传奇-A级赛车
+  KartJetNum: 1
+- ID: 115165 # 千变罗刹-A级赛车
+  KartJetNum: 1
+- ID: 115166 # 爆天雪-S级赛车
+  KartJetNum: 1
+- ID: 115167 # 月光女神X-A级赛车
+  KartJetNum: 1
+- ID: 115168 # 奔雷圣卫-A级赛车
+  KartJetNum: 1
+- ID: 115177 # 虹刺-B级赛车
+  KartJetNum: 1
+- ID: 115178 # 纸盒恐龙-B级赛车
+  KartJetNum: 1
+- ID: 115336 # 作废ID-A级赛车
+  KartJetNum: 1
+- ID: 116732 # 暗黑牛魔王-T2机甲赛车
+  KartJetNum: 1
+- ID: 116733 # 速战先锋-T1机甲赛车
+  KartJetNum: 1
+- ID: 116734 # 爆天电魔-S级赛车
+  KartJetNum: 1
+- ID: 116736 # 踏云鹿灵-A级赛车
+  KartJetNum: 1
+- ID: 116737 # 暗影遮天-A级赛车
+  KartJetNum: 1
+- ID: 116738 # 卧龙雷诺-A级赛车
+  KartJetNum: 1
+- ID: 116739 # 天行者-A级赛车
+  KartJetNum: 1
+- ID: 116741 # 川麻高手-B级赛车
+  KartJetNum: 1
+- ID: 116742 # 睡梦阿狸-B级赛车
+  KartJetNum: 1
+- ID: 116799 # 童梦穿梭者-A级赛车
+  KartJetNum: 1
+- ID: 117932 # 作废id-T1机甲赛车
+  KartJetNum: 1
+- ID: 117933 # 战神天马-T1机甲赛车
+  KartJetNum: 1
+- ID: 117935 # 战争之神-S级赛车
+  KartJetNum: 1
+- ID: 117936 # 甜心狸想-A级赛车
+  KartJetNum: 1
+- ID: 117937 # 灵鹿雪橇-A级赛车
+  KartJetNum: 1
+- ID: 117938 # 阿斯拉达-A级赛车
+  KartJetNum: 1
+- ID: 117939 # 凰呀-A级赛车
+  KartJetNum: 1
+- ID: 117940 # 伊修扎克-兰德尔-B级赛车
+  KartJetNum: 1
+- ID: 117942 # 伊修扎克-新条-B级赛车
+  KartJetNum: 1
+- ID: 117943 # 鎏金玉魂-A级赛车
+  KartJetNum: 1
+- ID: 117944 # 赤焰天启-A级赛车
+  KartJetNum: 1
+- ID: 117945 # 冥霄-A级赛车
+  KartJetNum: 1
+- ID: 117946 # 幻蓝啸影-B级赛车
+  KartJetNum: 1
+- ID: 118638 # 双生战姬-T2机甲赛车
+  KartJetNum: 1
+- ID: 118643 # N-A级赛车
+  KartJetNum: 1
+- ID: 119058 # 上古之神-T3机甲赛车
+  KartJetNum: 1
+- ID: 119059 # 至曜·影虎-S级赛车
+  KartJetNum: 1
+- ID: 119060 # 白金虎王-T2机甲赛车
+  KartJetNum: 1
+- ID: 119061 # 幻音女王-T2机甲赛车
+  KartJetNum: 1
+- ID: 119067 # 特洛伊之眼-S级赛车
+  KartJetNum: 1
+- ID: 119068 # 布亦乐虎-B级赛车
+  KartJetNum: 1
+- ID: 119069 # 旺旺-B级赛车
+  KartJetNum: 1
+- ID: 119070 # 蓝翔挖掘机-B级赛车
+  KartJetNum: 1
+- ID: 119071 # 神威战虎-A级赛车
+  KartJetNum: 1
+- ID: 119072 # 幽灵海盗船-A级赛车
+  KartJetNum: 1
+- ID: 119073 # 虎跃祥云-A级赛车
+  KartJetNum: 1
+- ID: 119074 # 虎王雷诺-A级赛车
+  KartJetNum: 1
+- ID: 119075 # 小橘子专属A车-A级赛车
+  KartJetNum: 1
+- ID: 119076 # 缤纷神驹-A级赛车
+  KartJetNum: 1
+- ID: 120646 # 镇海之戟-S级赛车
+  KartJetNum: 1
+- ID: 120647 # 春樱舞者-A级赛车
+  KartJetNum: 1
+- ID: 120648 # 暗羽魔影-A级赛车
+  KartJetNum: 1
+- ID: 120649 # 句芒光影-A级赛车
+  KartJetNum: 1
+- ID: 120650 # 幻橙疾影-A级赛车
+  KartJetNum: 1
+- ID: 120651 # 无尽狱甲-A级赛车
+  KartJetNum: 1
+- ID: 120652 # 御炎神兵-A级赛车
+  KartJetNum: 1
+- ID: 120653 # 金刚铠影-B级赛车
+  KartJetNum: 1
+- ID: 120654 # 萌菜出击-B级赛车
+  KartJetNum: 1
+- ID: 120655 # 黄金神兽装甲-T1机甲赛车
+  KartJetNum: 1
+- ID: 120656 # 镇魔天王-T2机甲赛车
+  KartJetNum: 1
+- ID: 121861 # 电玩特工-A级赛车
+  KartJetNum: 1
+- ID: 121862 # SSC-银天使-A级赛车
+  KartJetNum: 1
+- ID: 121863 # 火箭-高级-B级赛车
+  KartJetNum: 1
+- ID: 121864 # 追星者-B级赛车
+  KartJetNum: 1
+- ID: 122196 # 至尊帝王·心悦会员-S级赛车
+  KartJetNum: 1
+- ID: 122197 # 星际探索者-T1机甲赛车
+  KartJetNum: 1
+- ID: 122198 # 神威·马超-T2机甲赛车
+  KartJetNum: 1
+- ID: 122201 # 超星战神-A级赛车
+  KartJetNum: 1
+- ID: 122202 # 祝融神影-A级赛车
+  KartJetNum: 1
+- ID: 122203 # 白影神驹·赵云-A级赛车
+  KartJetNum: 1
+- ID: 122204 # 星际雷诺-A级赛车
+  KartJetNum: 1
+- ID: 122205 # 星河战刃-A级赛车
+  KartJetNum: 1
+- ID: 122206 # 烈域使者-T2机甲赛车
+  KartJetNum: 1
+- ID: 122207 # 逐浪独角兽-B级赛车
+  KartJetNum: 1
+- ID: 122208 # 速魔-B级赛车
+  KartJetNum: 1
+- ID: 122209 # 消除联萌-B级赛车
+  KartJetNum: 1
+- ID: 122210 # 沙漠王子-A级赛车
+  KartJetNum: 1
+- ID: 122211 # 问天-异星探索者-A级赛车
+  KartJetNum: 1
+- ID: 123228 # 航天逐梦-B级赛车
+  KartJetNum: 1
+- ID: 123497 # 虚空魔王-T2机甲赛车
+  KartJetNum: 1
+- ID: 123498 # 黄河魂·九鼎-T1机甲赛车
+  KartJetNum: 1
+- ID: 123499 # 炼狱之刃-S级赛车
+  KartJetNum: 1
+- ID: 123500 # 作废id-S级赛车
+  KartJetNum: 1
+- ID: 123504 # 火神之刃-A级赛车
+  KartJetNum: 1
+- ID: 123505 # 西游·白龙马-A级赛车
+  KartJetNum: 1
+- ID: 123507 # 蓐收雷诺-A级赛车
+  KartJetNum: 1
+- ID: 123508 # 柯尼塞格-A级赛车
+  KartJetNum: 1
+- ID: 123509 # 筋斗云-A级赛车
+  KartJetNum: 1
+- ID: 123510 # 美猴王-B级赛车
+  KartJetNum: 1
+- ID: 123511 # 白桃恋人-B级赛车
+  KartJetNum: 1
+- ID: 123512 # 悟空-T2机甲赛车
+  KartJetNum: 1
+- ID: 123514 # 超核玩家·逐魂者-S级赛车
+  KartJetNum: 1
+- ID: 124677 # 战斗暴龙兽-T2机甲赛车
+  KartJetNum: 1
+- ID: 124678 # 钢铁加鲁鲁-T2机甲赛车
+  KartJetNum: 1
+- ID: 124679 # 万里江山-S级赛车
+  KartJetNum: 1
+- ID: 124681 # 华夏巨轮-A级赛车
+  KartJetNum: 1
+- ID: 124682 # 暗影猎手-A级赛车
+  KartJetNum: 1
+- ID: 124683 # 炽热Q吧-A级赛车
+  KartJetNum: 1
+- ID: 124684 # 赤霄御影-A级赛车
+  KartJetNum: 1
+- ID: 124685 # 星煌-A级赛车
+  KartJetNum: 1
+- ID: 124687 # 巴达兽-B级赛车
+  KartJetNum: 1
+- ID: 124688 # 数码暴龙兽-B级赛车
+  KartJetNum: 1
+- ID: 124689 # 鲤鱼-B级赛车
+  KartJetNum: 1
+- ID: 126345 # 源极之星EXA-T2机甲赛车
+  KartJetNum: 1
+- ID: 126346 # 幻音兔女郎-T2机甲赛车
+  KartJetNum: 1
+- ID: 126347 # 极星之翼-S级赛车
+  KartJetNum: 1
+- ID: 126348 # 幻变速灵-A级赛车
+  KartJetNum: 1
+- ID: 126349 # 萌兔雷诺-A级赛车
+  KartJetNum: 1
+- ID: 126350 # 玄冥穿梭者-A级赛车
+  KartJetNum: 1
+- ID: 126351 # 穹音星鲸-A级赛车
+  KartJetNum: 1
+- ID: 126352 # 冰魂-A级赛车
+  KartJetNum: 1
+- ID: 126353 # 萌兔甜心号-B级赛车
+  KartJetNum: 1
+- ID: 126354 # 春野小Q-B级赛车
+  KartJetNum: 1
+- ID: 126532 # 帝皇侠-S级赛车
+  KartJetNum: 1
+- ID: 127366 # 闪耀之星-A级赛车
+  KartJetNum: 1
+- ID: 127409 # 神圣天使兽-A级赛车
+  KartJetNum: 1
+- ID: 127438 # 六道神尊-T3机甲赛车
+  KartJetNum: 1
+- ID: 127442 # 特性飞机车-A级赛车
+  KartJetNum: 1
+- ID: 127524 # 时序使者-A级赛车
+  KartJetNum: 1
+- ID: 127619 # 敦煌云影-A级赛车
+  KartJetNum: 1
+- ID: 127620 # 童心之翼-A级赛车
+  KartJetNum: 1
+- ID: 127621 # 五菱宏光-B级赛车
+  KartJetNum: 1
+- ID: 127622 # 宅急送电瓶车-M2级摩托
+  KartJetNum: 1
+- ID: 129099 # 至尊·火麒麟-S级赛车
+  KartJetNum: 1
+- ID: 129287 # 阿尔法之芯-S级赛车
+  KartJetNum: 1
+- ID: 129289 # 赤兔4代Pro-A级赛车
+  KartJetNum: 1
+- ID: 129290 # SPD·星梦-A级赛车
+  KartJetNum: 1
+- ID: 129291 # 鸿焰战驹-A级赛车
+  KartJetNum: 1
+- ID: 129292 # 驭龙雷诺-A级赛车
+  KartJetNum: 1
+- ID: 129293 # 貂蝉·闭月-A级赛车
+  KartJetNum: 1
+- ID: 129294 # 炎龙驹-B级赛车
+  KartJetNum: 1
+- ID: 129297 # 颜团子小摩托-M2级摩托
+  KartJetNum: 1

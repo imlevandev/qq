@@ -1,0 +1,9738 @@
+- ID: 10020 # 新手赛车-D级赛车 
+  Type: EAIT_CAR
+  Mess: D级赛车
+  Name: 新手赛车
+- ID: 10024 # 战车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 战车
+- ID: 10028 # 流体-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 流体
+- ID: 10070 # 挑战者-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 挑战者
+- ID: 10071 # 子弹-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 子弹
+- ID: 10076 # 幻影-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 幻影
+- ID: 10092 # 闪电-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 闪电
+- ID: 10181 # 渡鸦-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 渡鸦
+- ID: 10182 # 虹-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 虹
+- ID: 10187 # 不死鸟-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 不死鸟
+- ID: 10205 # 反物质-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 反物质
+- ID: 10206 # 鬼怪-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 鬼怪
+- ID: 10228 # 樱-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 樱
+- ID: 10229 # 刺客-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 刺客
+- ID: 10230 # 金刚-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 金刚
+- ID: 10250 # 岩石-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 岩石
+- ID: 10251 # 蔷薇-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 蔷薇
+- ID: 10319 # 黑风暴-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 黑风暴
+- ID: 10320 # 矩阵-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 矩阵
+- ID: 10321 # 猎豹-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 猎豹
+- ID: 10424 # 女武神-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 女武神
+- ID: 10476 # 福-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 福
+- ID: 10534 # 爱神之心-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 爱神之心
+- ID: 10535 # 爱神之吻-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 爱神之吻
+- ID: 10589 # 烈焰-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 烈焰
+- ID: 10590 # 剃刀-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 剃刀
+- ID: 10630 # 狂徒-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 狂徒
+- ID: 10631 # 白鲨-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 白鲨
+- ID: 10649 # 解放-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 解放
+- ID: 10650 # 龙车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 龙车
+- ID: 10698 # 旋涡-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 旋涡
+- ID: 10699 # 高压-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 高压
+- ID: 10986 # 火石-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 火石
+- ID: 10987 # 天龙-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 天龙
+- ID: 10988 # 紫罗兰-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 紫罗兰
+- ID: 10989 # 雄鹰-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 雄鹰
+- ID: 10990 # 火花-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 火花
+- ID: 10991 # 熊猫-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 熊猫
+- ID: 10992 # 暗风暴-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 暗风暴
+- ID: 10993 # 傀儡-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 傀儡
+- ID: 10994 # 忍者-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 忍者
+- ID: 11143 # 白星-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 白星
+- ID: 11144 # 蓝焰-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 蓝焰
+- ID: 11145 # 龙舟-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 龙舟
+- ID: 11146 # 拦路虎-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 拦路虎
+- ID: 11147 # 针尖-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 针尖
+- ID: 11178 # 积木-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 积木
+- ID: 11235 # 噪音-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 噪音
+- ID: 11236 # 抓地虎-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 抓地虎
+- ID: 11237 # 影刺客-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 影刺客
+- ID: 11238 # 狐蝠-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 狐蝠
+- ID: 11239 # 格兰-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 格兰
+- ID: 11352 # 流火-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 流火
+- ID: 11371 # 炽天使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 炽天使
+- ID: 11372 # 冰峰-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 冰峰
+- ID: 11373 # 奶牛-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 奶牛
+- ID: 11374 # 雷神-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 雷神
+- ID: 11375 # 小哈-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 小哈
+- ID: 11376 # 暴风雪-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 暴风雪
+- ID: 11869 # 海盗-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 海盗
+- ID: 11870 # 坦克-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 坦克
+- ID: 11871 # 羚羊-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 羚羊
+- ID: 11872 # 卓越-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 卓越
+- ID: 11873 # 沸点-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 沸点
+- ID: 11874 # 爱神之吻X-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 爱神之吻X
+- ID: 11875 # 爱神之心X-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 爱神之心X
+- ID: 11957 # 湮灭-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 湮灭
+- ID: 11958 # 闪灵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 闪灵
+- ID: 11959 # 大熊-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 大熊
+- ID: 12035 # 哈雷-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 哈雷
+- ID: 12036 # 方程式-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 方程式
+- ID: 12042 # 迷你电动车-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 迷你电动车
+- ID: 12256 # 极速-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 极速
+- ID: 12257 # 魅蓝战魂-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 魅蓝战魂
+- ID: 12258 # 维纳斯-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 维纳斯
+- ID: 12259 # 圣徒-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 圣徒
+- ID: 12260 # 超兔-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 超兔
+- ID: 12263 # 风掣跑车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 风掣跑车
+- ID: 12264 # 狂风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 狂风
+- ID: 12296 # 悟空-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 悟空
+- ID: 12361 # Acer急速天使-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: Acer急速天使
+- ID: 12460 # 救护车-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 救护车
+- ID: 12461 # 火狐-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 火狐
+- ID: 12462 # 暗影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗影
+- ID: 12463 # 零点-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 零点
+- ID: 12464 # 皮卡-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 皮卡
+- ID: 12465 # 灵动跑车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 灵动跑车
+- ID: 12466 # 天秤-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 天秤
+- ID: 12467 # 天蝎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 天蝎
+- ID: 12720 # 雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷诺
+- ID: 12823 # 幻想-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻想
+- ID: 12824 # 火钻-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 火钻
+- ID: 12825 # 剑鲨-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 剑鲨
+- ID: 12826 # 摩羯-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 摩羯
+- ID: 12827 # 射手-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 射手
+- ID: 12828 # 南瓜车-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 南瓜车
+- ID: 12829 # 消防车-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 消防车
+- ID: 12946 # 冰魄-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 冰魄
+- ID: 12948 # 风行者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 风行者
+- ID: 13178 # 神圣天使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 神圣天使
+- ID: 13179 # 堕落天使-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 堕落天使
+- ID: 13307 # 奔驰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 奔驰
+- ID: 13308 # 光速-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 光速
+- ID: 13309 # 甲壳虫-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 甲壳虫
+- ID: 13310 # 公牛-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 公牛
+- ID: 13311 # 珍珠-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 珍珠
+- ID: 13312 # 极光-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 极光
+- ID: 13313 # 尖叫-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 尖叫
+- ID: 13314 # 雷霆-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷霆
+- ID: 13315 # 水瓶-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 水瓶
+- ID: 13316 # 影驰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 影驰
+- ID: 13317 # 筋斗云-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 筋斗云
+- ID: 13322 # 雪橇车-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 雪橇车
+- ID: 13378 # 巨蟹-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 巨蟹
+- ID: 13379 # 苍鹰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 苍鹰
+- ID: 13532 # 刀锋-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 刀锋
+- ID: 13703 # S白金剃刀-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: S白金剃刀
+- ID: 13705 # 铁骑-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 铁骑
+- ID: 13706 # 祥云-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 祥云
+- ID: 13710 # 企鹅仔仔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 企鹅仔仔
+- ID: 13711 # 企鹅囡囡-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 企鹅囡囡
+- ID: 13802 # 阿波罗-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 阿波罗
+- ID: 13856 # 星河-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 星河
+- ID: 13902 # 圣骑士-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 圣骑士
+- ID: 13937 # 大Q吧-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 大Q吧
+- ID: 14098 # 高速火-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 高速火
+- ID: 14099 # 海鸥-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 海鸥
+- ID: 14100 # 掘地鼠-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 掘地鼠
+- ID: 14101 # 麒麟-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 麒麟
+- ID: 14102 # 丘比特-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 丘比特
+- ID: 14103 # 七彩云-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 七彩云
+- ID: 14104 # 蓝魔-M1级摩托 
+  Type: EAIT_CAR
+  Mess: M1级摩托
+  Name: 蓝魔
+- ID: 14105 # 刺虎-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 刺虎
+- ID: 14106 # S黑金剃刀-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: S黑金剃刀
+- ID: 14107 # S黄金剃刀-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: S黄金剃刀
+- ID: 14302 # 天启-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 天启
+- ID: 14314 # 帝企鹅King-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 帝企鹅King
+- ID: 14315 # 帝企鹅Queen-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 帝企鹅Queen
+- ID: 14336 # 飞天猫皮皮-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 飞天猫皮皮
+- ID: 14337 # 飞天猫萌萌-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 飞天猫萌萌
+- ID: 14485 # 罗莎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 罗莎
+- ID: 14486 # 变色龙-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 变色龙
+- ID: 14487 # 冰刃-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 冰刃
+- ID: 14488 # 疾风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 疾风
+- ID: 14489 # 威骋-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 威骋
+- ID: 14490 # 旋风-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 旋风
+- ID: 14491 # 白羊-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 白羊
+- ID: 14705 # 红魔-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红魔
+- ID: 14706 # 锦鲤-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 锦鲤
+- ID: 14725 # 小鸭糖糖-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小鸭糖糖
+- ID: 14726 # 小鸭菲菲-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小鸭菲菲
+- ID: 14735 # 飞天魔毯-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 飞天魔毯
+- ID: 14833 # 炎爆-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 炎爆
+- ID: 14951 # 风影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 风影
+- ID: 14952 # 桀骜-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 桀骜
+- ID: 14953 # 金牛-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金牛
+- ID: 14954 # 雷凌-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 雷凌
+- ID: 14955 # 双子-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 双子
+- ID: 14956 # 飕酷-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 飕酷
+- ID: 14957 # 星锐-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 星锐
+- ID: 14958 # 婴儿车-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 婴儿车
+- ID: 14959 # 月光女神-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 月光女神
+- ID: 15224 # 魔法扫帚-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 魔法扫帚
+- ID: 15225 # 飞碟-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 飞碟
+- ID: 15234 # 羊驼草草-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 羊驼草草
+- ID: 15235 # 羊驼妮妮-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 羊驼妮妮
+- ID: 15430 # 白马王子-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 白马王子
+- ID: 15431 # 冰箭-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 冰箭
+- ID: 15432 # 海浪-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 海浪
+- ID: 15433 # 烈火-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 烈火
+- ID: 15434 # 联想-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 联想
+- ID: 15435 # 银河-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 银河
+- ID: 15453 # 圣斗士-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 圣斗士
+- ID: 15454 # 飞天战龙-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 飞天战龙
+- ID: 15455 # 巨蝠王-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 巨蝠王
+- ID: 15456 # 追魂者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 追魂者
+- ID: 15983 # 绿色美年达-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 绿色美年达
+- ID: 15984 # 橙色美年达-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 橙色美年达
+- ID: 15985 # 暗夜-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗夜
+- ID: 15986 # 大黄蜂-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 大黄蜂
+- ID: 15987 # 独角兽-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 独角兽
+- ID: 15988 # 红蜘蛛-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红蜘蛛
+- ID: 15989 # 火影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 火影
+- ID: 15990 # 蓝龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蓝龙
+- ID: 15991 # 怒焰-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 怒焰
+- ID: 15992 # 雪暴鬣鹰-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 雪暴鬣鹰
+- ID: 16332 # 忍者兔MICO-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 忍者兔MICO
+- ID: 16333 # 忍者兔MIMO-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 忍者兔MIMO
+- ID: 16561 # 霸天虎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 霸天虎
+- ID: 16562 # 烽火-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 烽火
+- ID: 16563 # 金刚狼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金刚狼
+- ID: 16564 # 酷派-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 酷派
+- ID: 16565 # 狂飙-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 狂飙
+- ID: 16566 # 凌云-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 凌云
+- ID: 16567 # 锐速-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 锐速
+- ID: 16568 # 威震天-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 威震天
+- ID: 16569 # 影舞者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 影舞者
+- ID: 16570 # 云雀-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 云雀
+- ID: 16571 # 战隼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 战隼
+- ID: 16572 # 逐魂者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 逐魂者
+- ID: 16713 # 熊猫憨憨-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 熊猫憨憨
+- ID: 16714 # 熊猫夏夏-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 熊猫夏夏
+- ID: 17072 # 暴龙希亚-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 暴龙希亚
+- ID: 17073 # 暴龙塔萨-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 暴龙塔萨
+- ID: 17102 # 大霸王-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 大霸王
+- ID: 17103 # 飞火-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 飞火
+- ID: 17104 # 尖峰-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 尖峰
+- ID: 17105 # 蝰蛇-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蝰蛇
+- ID: 17106 # 雷克斯-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷克斯
+- ID: 17107 # 脉冲-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 脉冲
+- ID: 17108 # 双头鲨-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 双头鲨
+- ID: 17109 # 嬉皮士-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 嬉皮士
+- ID: 17110 # 雅典娜-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雅典娜
+- ID: 17354 # 天机线-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 天机线
+- ID: 17659 # AE86-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: AE86
+- ID: 17660 # 冲云霄-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 冲云霄
+- ID: 17661 # 黑夜传说-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑夜传说
+- ID: 17662 # 狙击手-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 狙击手
+- ID: 17663 # 傀儡师-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 傀儡师
+- ID: 17664 # 雷达-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 雷达
+- ID: 17665 # 梅丽号-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 梅丽号
+- ID: 17666 # 魅影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 魅影
+- ID: 17667 # 瑞瑟-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 瑞瑟
+- ID: 17668 # 审判者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 审判者
+- ID: 17709 # 魔术师-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 魔术师
+- ID: 17910 # 雪人布鲁-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雪人布鲁
+- ID: 17911 # 雪人瑞蒂-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雪人瑞蒂
+- ID: 17919 # 飞虎王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 飞虎王
+- ID: 17923 # 酷橙滑板-L2级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L2级滑板
+  Name: 酷橙滑板
+- ID: 17933 # 双周年赛车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 双周年赛车
+- ID: 17937 # 蛋熊哒哒-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 蛋熊哒哒
+- ID: 17938 # 蛋熊饭饭-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 蛋熊饭饭
+- ID: 18169 # 大板-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 大板
+- ID: 18170 # 虎虎生威-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 虎虎生威
+- ID: 18172 # 莱瑟XA-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 莱瑟XA
+- ID: 18173 # 马赫6-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 马赫6
+- ID: 18174 # 无限-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 无限
+- ID: 18175 # 星舰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 星舰
+- ID: 18176 # 驯鹿雪橇-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 驯鹿雪橇
+- ID: 18177 # 银翼杀手-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银翼杀手
+- ID: 18178 # 玉麒麟-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 玉麒麟
+- ID: 18179 # S黄金追魂-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: S黄金追魂
+- ID: 18643 # 黄金神兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 黄金神兽
+- ID: 18759 # 阿尔法-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 阿尔法
+- ID: 18760 # 暴风勇士-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 暴风勇士
+- ID: 18761 # 疯狂卡丁-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 疯狂卡丁
+- ID: 18762 # 鲸鲨-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 鲸鲨
+- ID: 18763 # 红色彗星-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红色彗星
+- ID: 18764 # 警车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 警车
+- ID: 18765 # 飞跃-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞跃
+- ID: 18766 # 莲花-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 莲花
+- ID: 18767 # 麦凯伦-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 麦凯伦
+- ID: 18768 # 沙漠之狐-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 沙漠之狐
+- ID: 18769 # 石中剑-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 石中剑
+- ID: 18770 # 袭影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 袭影
+- ID: 18932 # 冲刺-L3级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L3级滑板
+  Name: 冲刺
+- ID: 18933 # 风速-L2级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L2级滑板
+  Name: 风速
+- ID: 18934 # 招财猫-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 招财猫
+- ID: 19294 # 瑞龙-L0级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L0级滑板
+  Name: 瑞龙
+- ID: 19295 # 暴徒-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暴徒
+- ID: 19296 # 财付通-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 财付通
+- ID: 19297 # 风剑-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 风剑
+- ID: 19298 # 风怒-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 风怒
+- ID: 19299 # 火鸟-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 火鸟
+- ID: 19300 # 飓风-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 飓风
+- ID: 19301 # 流星-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 流星
+- ID: 19302 # 甜心号-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 甜心号
+- ID: 19303 # 音速战神-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 音速战神
+- ID: 19304 # 银电-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银电
+- ID: 19390 # 豚鼠小夜-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 豚鼠小夜
+- ID: 19391 # 豚鼠小米-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 豚鼠小米
+- ID: 19614 # K24-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: K24
+- ID: 19615 # 毁灭公爵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 毁灭公爵
+- ID: 19616 # 白彗星-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 白彗星
+- ID: 19617 # 悍马-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 悍马
+- ID: 19618 # 雷蛇-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 雷蛇
+- ID: 19619 # 超越-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 超越
+- ID: 19620 # 帝王-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 帝王
+- ID: 19621 # 翼刃-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 翼刃
+- ID: 19622 # 小飞侠-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 小飞侠
+- ID: 19623 # 骑士-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 骑士
+- ID: 19624 # 飞鱼-L2级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L2级滑板
+  Name: 飞鱼
+- ID: 19625 # 末日之刃-L1级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L1级滑板
+  Name: 末日之刃
+- ID: 19701 # 甜心熊小风-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 甜心熊小风
+- ID: 19702 # 甜心熊小雅-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 甜心熊小雅
+- ID: 19951 # 针尖王者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 针尖王者
+- ID: 19952 # 末路狂花-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 末路狂花
+- ID: 19953 # 桀豹-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 桀豹
+- ID: 19954 # 风暴-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 风暴
+- ID: 19955 # 雷曼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 雷曼
+- ID: 19956 # 火箭-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 火箭
+- ID: 19957 # 尖啸-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 尖啸
+- ID: 19958 # 榴弹-M3级摩托 
+  Type: EAIT_CAR
+  Mess: M3级摩托
+  Name: 榴弹
+- ID: 19963 # 黑鹰-L3级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L3级滑板
+  Name: 黑鹰
+- ID: 19964 # 金雕-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 金雕
+- ID: 19965 # 天狼星-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 天狼星
+- ID: 20123 # 晴天猪淘淘-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 晴天猪淘淘
+- ID: 20124 # 晴天猪彤彤-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 晴天猪彤彤
+- ID: 20125 # 光天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 光天使
+- ID: 20237 # 圣光使者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 圣光使者
+- ID: 20238 # 激流-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 激流
+- ID: 20239 # 赛威尔-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赛威尔
+- ID: 20240 # 寒冰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 寒冰
+- ID: 20241 # 剑虎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 剑虎
+- ID: 20242 # 狂雷-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 狂雷
+- ID: 20243 # 凯旋-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 凯旋
+- ID: 20244 # 通天晓-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 通天晓
+- ID: 20357 # 蓝隐-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蓝隐
+- ID: 20358 # 小飞象波波-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小飞象波波
+- ID: 20359 # 小飞象丹丹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小飞象丹丹
+- ID: 20360 # 兔美-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 兔美
+- ID: 20453 # 黑骑士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑骑士
+- ID: 20454 # 猎鹰-L3级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L3级滑板
+  Name: 猎鹰
+- ID: 20471 # 沙皇-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 沙皇
+- ID: 20664 # 白金神兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 白金神兽
+- ID: 20674 # 魔剑-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 魔剑
+- ID: 20676 # QQ会员精灵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: QQ会员精灵
+- ID: 20677 # Q吧战神-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: Q吧战神
+- ID: 20678 # 320赛车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 320赛车
+- ID: 20679 # 灵鲨-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 灵鲨
+- ID: 20761 # 天使之心-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 天使之心
+- ID: 20762 # 风之子-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 风之子
+- ID: 20763 # 飞翼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞翼
+- ID: 20764 # SUV-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: SUV
+- ID: 20771 # 捣蛋鼠耗耗-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 捣蛋鼠耗耗
+- ID: 20772 # 捣蛋鼠伊伊-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 捣蛋鼠伊伊
+- ID: 20776 # 流光-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 流光
+- ID: 20777 # 帕加尼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 帕加尼
+- ID: 20778 # 天使之翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 天使之翼
+- ID: 20983 # 冰蝠影影-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 冰蝠影影
+- ID: 20985 # 火蝠峰峰-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 火蝠峰峰
+- ID: 21079 # 米格-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 米格
+- ID: 21080 # 浮宫魅影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 浮宫魅影
+- ID: 21081 # 威龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 威龙
+- ID: 21082 # 银蛇-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银蛇
+- ID: 21083 # 火种-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 火种
+- ID: 21084 # 穆斯-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 穆斯
+- ID: 21085 # 女妖-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 女妖
+- ID: 21086 # 诸神之剑-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 诸神之剑
+- ID: 21087 # 展翅-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 展翅
+- ID: 21263 # 乘风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 乘风
+- ID: 21264 # 电掣-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 电掣
+- ID: 21265 # 天妖-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 天妖
+- ID: 21266 # 星梦-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星梦
+- ID: 21267 # 锋行-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 锋行
+- ID: 21268 # 幻火-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 幻火
+- ID: 21270 # 龙炽-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 龙炽
+- ID: 21319 # 雾之战车-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 雾之战车
+- ID: 21327 # 闪电幽灵razor-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 闪电幽灵razor
+- ID: 21328 # 心电幽灵heart-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 心电幽灵heart
+- ID: 21576 # 暴龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暴龙
+- ID: 21577 # 飞跃雷克-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞跃雷克
+- ID: 21578 # 曙光伯爵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 曙光伯爵
+- ID: 21579 # 银龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银龙
+- ID: 21580 # 赤凰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 赤凰
+- ID: 21581 # 剑齿虎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 剑齿虎
+- ID: 21582 # 金焰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金焰
+- ID: 21583 # 奔雷-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 奔雷
+- ID: 21586 # 灰原喵小毅-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 灰原喵小毅
+- ID: 21587 # 希良喵小喏-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 希良喵小喏
+- ID: 21593 # 星之精灵-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 星之精灵
+- ID: 21597 # 圣诞麋鹿-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 圣诞麋鹿
+- ID: 21887 # 雪橇麋鹿Vivi-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雪橇麋鹿Vivi
+- ID: 21888 # 雪橇麋鹿Cici-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雪橇麋鹿Cici
+- ID: 21900 # 太空隼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 太空隼
+- ID: 21901 # 穿梭者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 穿梭者
+- ID: 21902 # 飞舰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞舰
+- ID: 21903 # 箭影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 箭影
+- ID: 21904 # 骏驰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 骏驰
+- ID: 21905 # 绿鹰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 绿鹰
+- ID: 21906 # 迪卡-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 迪卡
+- ID: 21907 # 绿风-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 绿风
+- ID: 21908 # 白龙-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 白龙
+- ID: 21961 # 巅峰黑夜-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 巅峰黑夜
+- ID: 22097 # 鬼战刀-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 鬼战刀
+- ID: 22098 # 金星-L2级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L2级滑板
+  Name: 金星
+- ID: 22099 # 科帕奇-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 科帕奇
+- ID: 22100 # 拉瓦扎-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 拉瓦扎
+- ID: 22101 # 幽灵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幽灵
+- ID: 22102 # 帕萨特-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 帕萨特
+- ID: 22103 # 智能-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 智能
+- ID: 22118 # NOBLE-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: NOBLE
+- ID: 22119 # 祥兔-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 祥兔
+- ID: 22326 # 翼虎-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 翼虎
+- ID: 22345 # 小兔仙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小兔仙
+- ID: 22346 # 兔爷儿-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 兔爷儿
+- ID: 22526 # 紫电神驹-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 紫电神驹
+- ID: 22538 # 雷克-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷克
+- ID: 22633 # GT-1-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: GT-1
+- ID: 22634 # 天籁-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 天籁
+- ID: 22635 # 领主-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 领主
+- ID: 22636 # K34-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: K34
+- ID: 22637 # 圣龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 圣龙
+- ID: 22638 # 昊锐-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 昊锐
+- ID: 22639 # 灵跃-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 灵跃
+- ID: 22640 # 激光-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 激光
+- ID: 22641 # 赤兔-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 赤兔
+- ID: 22652 # NPC摩托-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: NPC摩托
+- ID: 22790 # 小灰灰-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小灰灰
+- ID: 22791 # 小黑黑-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小黑黑
+- ID: 22795 # 草莓赛车-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 草莓赛车
+- ID: 23007 # 银天使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银天使
+- ID: 23008 # 雷速-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷速
+- ID: 23009 # 尊驰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 尊驰
+- ID: 23010 # 凯撒-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 凯撒
+- ID: 23011 # 剑锋-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 剑锋
+- ID: 23012 # 蕾丝-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蕾丝
+- ID: 23013 # 双鱼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 双鱼
+- ID: 23014 # 战蝠-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 战蝠
+- ID: 23015 # 暗夜极光-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 暗夜极光
+- ID: 23016 # 小绵羊-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 小绵羊
+- ID: 23019 # 姜饼小子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 姜饼小子
+- ID: 23020 # 姜饼女王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 姜饼女王
+- ID: 23056 # 劲霸-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 劲霸
+- ID: 23057 # 凌烈-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 凌烈
+- ID: 23058 # 追风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 追风
+- ID: 23059 # 崩雷-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 崩雷
+- ID: 23060 # 黑爵士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑爵士
+- ID: 23061 # 疾电-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 疾电
+- ID: 23062 # 灵翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 灵翼
+- ID: 23063 # 异域使者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 异域使者
+- ID: 23227 # 海公主玛娜菲-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 海公主玛娜菲
+- ID: 23228 # 海精灵菲奥奈-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 海精灵菲奥奈
+- ID: 23232 # 赛事专用剃刀-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 赛事专用剃刀
+- ID: 23233 # 水晶-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 水晶
+- ID: 23234 # 蓝鲸-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 蓝鲸
+- ID: 23347 # 津波-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 津波
+- ID: 23370 # 捕猎者-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 捕猎者
+- ID: 23371 # 银光-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银光
+- ID: 23372 # 红焰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 红焰
+- ID: 23373 # 圣殿骑士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 圣殿骑士
+- ID: 23374 # 夜魔-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 夜魔
+- ID: 23375 # 睿翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 睿翼
+- ID: 23376 # 狼蛛-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 狼蛛
+- ID: 23377 # 神农驾-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 神农驾
+- ID: 23378 # 十字先锋-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 十字先锋
+- ID: 23379 # 爱神丘比特-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 爱神丘比特
+- ID: 23380 # 天使丘比特-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 天使丘比特
+- ID: 23455 # 战神-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 战神
+- ID: 23457 # 罗技冰痕-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 罗技冰痕
+- ID: 23458 # 红色蔷薇-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红色蔷薇
+- ID: 23459 # 金钢-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金钢
+- ID: 23460 # 勒芒-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 勒芒
+- ID: 23461 # 赛博-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 赛博
+- ID: 23462 # 黑豹-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 黑豹
+- ID: 23647 # 霹雳天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 霹雳天使
+- ID: 23666 # 疾驰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 疾驰
+- ID: 23671 # 飞艇-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞艇
+- ID: 23672 # 浮越-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 浮越
+- ID: 23673 # 黑风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑风
+- ID: 23674 # 未来-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 未来
+- ID: 23675 # 黑山妖-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黑山妖
+- ID: 23676 # 箭矢-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 箭矢
+- ID: 23677 # 金翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金翼
+- ID: 23678 # 擎天柱-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 擎天柱
+- ID: 23679 # 红豆-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 红豆
+- ID: 23832 # 可爱熊乐乐-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 可爱熊乐乐
+- ID: 23833 # 可爱熊小凯-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 可爱熊小凯
+- ID: 23980 # 猛兽-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 猛兽
+- ID: 23982 # 伏地魔-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 伏地魔
+- ID: 23984 # 飞龙流火-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞龙流火
+- ID: 23985 # 科曼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 科曼
+- ID: 23986 # K64-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: K64
+- ID: 23987 # 汉堡-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 汉堡
+- ID: 23988 # 疾速-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 疾速
+- ID: 23989 # 蓝箭-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝箭
+- ID: 23990 # 布丁-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 布丁
+- ID: 23991 # 白舰-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 白舰
+- ID: 24144 # 企鹅公主天天-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 企鹅公主天天
+- ID: 24145 # 企鹅王子君君-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 企鹅王子君君
+- ID: 24146 # 幽浮-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 幽浮
+- ID: 24206 # 火星-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 火星
+- ID: 24207 # 飞驰疾风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞驰疾风
+- ID: 24208 # 银电王子-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银电王子
+- ID: 24209 # 转子马达-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 转子马达
+- ID: 24210 # 黑峰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黑峰
+- ID: 24211 # 夜精灵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 夜精灵
+- ID: 24212 # 硬顶老爷车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 硬顶老爷车
+- ID: 24213 # 银魔-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银魔
+- ID: 24214 # 魅族者-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 魅族者
+- ID: 24215 # 瓦而基里-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 瓦而基里
+- ID: 24328 # 魔法精灵奈叶-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 魔法精灵奈叶
+- ID: 24329 # 魔法精灵尤诺-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 魔法精灵尤诺
+- ID: 24402 # 极致幻想-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极致幻想
+- ID: 24403 # 帝龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 帝龙
+- ID: 24404 # 烈光-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈光
+- ID: 24405 # 追猎者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 追猎者
+- ID: 24406 # 白灵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 白灵
+- ID: 24407 # 蓝光-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝光
+- ID: 24408 # 紫宵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 紫宵
+- ID: 24409 # 南瓜精灵-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 南瓜精灵
+- ID: 24410 # 风之使者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 风之使者
+- ID: 24411 # 破浪-L2级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L2级滑板
+  Name: 破浪
+- ID: 24586 # 南瓜小妖瞳瞳-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 南瓜小妖瞳瞳
+- ID: 24587 # 南瓜小妖淘淘-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 南瓜小妖淘淘
+- ID: 24603 # 红炽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 红炽
+- ID: 24604 # QQ会员专属赛车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: QQ会员专属赛车
+- ID: 24605 # 猫车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 猫车
+- ID: 24606 # li-黄色调-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: li-黄色调
+- ID: 24607 # 粉红豹-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 粉红豹
+- ID: 24626 # 变形销魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 变形销魂
+- ID: 24627 # li-蓝色调-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: li-蓝色调
+- ID: 24829 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 24859 # 纪念版白银雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 纪念版白银雷诺
+- ID: 24881 # 忍者兔MICO_test-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 忍者兔MICO_test
+- ID: 24882 # 霹雳天使_test-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 霹雳天使_test
+- ID: 24884 # 忍者兔MICO_test2-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 忍者兔MICO_test2
+- ID: 24885 # 霹雳天使_test2-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 霹雳天使_test2
+- ID: 24899 # 樱冥殿-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 樱冥殿
+- ID: 24900 # 流光速-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 流光速
+- ID: 24924 # 时空战舰-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 时空战舰
+- ID: 24925 # 炽烈-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 炽烈
+- ID: 24926 # 黄金版帝王-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黄金版帝王
+- ID: 24927 # 火焰者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 火焰者
+- ID: 24928 # 四周年专属赛车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 四周年专属赛车
+- ID: 24929 # 驰速-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 驰速
+- ID: 24930 # 番石榴-L2级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L2级滑板
+  Name: 番石榴
+- ID: 24931 # 暗程-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 暗程
+- ID: 24934 # 蓝魔鬼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝魔鬼
+- ID: 24935 # 红闪电-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红闪电
+- ID: 24936 # 劳伦斯-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 劳伦斯
+- ID: 25336 # 机器兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 机器兔
+- ID: 25337 # 飞火龙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 飞火龙
+- ID: 25393 # 黑色闪电-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑色闪电
+- ID: 25394 # 北极光-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 北极光
+- ID: 25395 # 赤焰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赤焰
+- ID: 25397 # 绿光使者-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 绿光使者
+- ID: 25398 # 青锋剃刀-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 青锋剃刀
+- ID: 25400 # 卫兵-L2级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L2级滑板
+  Name: 卫兵
+- ID: 25617 # 橙光-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 橙光
+- ID: 25618 # 火焰侠-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 火焰侠
+- ID: 25620 # 深水炸弹-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 深水炸弹
+- ID: 25621 # 御龙战车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 御龙战车
+- ID: 25622 # 侦察者-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 侦察者
+- ID: 25623 # 红色精灵-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 红色精灵
+- ID: 25717 # 龙胆逆鳞-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 龙胆逆鳞
+- ID: 25860 # 愚人小狐狸仙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 愚人小狐狸仙
+- ID: 25861 # 愚人小狐狸爷-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 愚人小狐狸爷
+- ID: 25868 # 雷诺-机关炮-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷诺-机关炮
+- ID: 25869 # 雷诺-狼蛛-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷诺-狼蛛
+- ID: 25870 # 雷诺-瓦利-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷诺-瓦利
+- ID: 25871 # 卓越-火影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 卓越-火影
+- ID: 25872 # 卓越-血鲨-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 卓越-血鲨
+- ID: 25881 # 速腾-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 速腾
+- ID: 25882 # 无及黑-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无及黑
+- ID: 25883 # 玄武-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 玄武
+- ID: 25884 # 海神-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 海神
+- ID: 25885 # 黄钻专属锐变-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黄钻专属锐变
+- ID: 25886 # 通灵剃刀-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 通灵剃刀
+- ID: 25887 # 蓝芽-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 蓝芽
+- ID: 26077 # 红毛使者-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 红毛使者
+- ID: 26111 # 美人鱼-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 美人鱼
+- ID: 26121 # 红锐-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红锐
+- ID: 26122 # 银星-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银星
+- ID: 26123 # 金凯德-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金凯德
+- ID: 26144 # 至尊帝王-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 至尊帝王
+- ID: 26145 # 菲尼迪-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 菲尼迪
+- ID: 26146 # 霸主-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 霸主
+- ID: 26147 # 全民专属流光-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 全民专属流光
+- ID: 26148 # 佩剑-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 佩剑
+- ID: 26149 # SSC专属天启-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: SSC专属天启
+- ID: 26150 # SSC专属K24-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: SSC专属K24
+- ID: 26151 # 蓝博-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝博
+- ID: 26152 # 土鲁克-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 土鲁克
+- ID: 26153 # 沙尘-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 沙尘
+- ID: 26154 # 湾岸-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 湾岸
+- ID: 26155 # 全民专属智能-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 全民专属智能
+- ID: 26156 # 古玩-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 古玩
+- ID: 26323 # 考拉公主-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 考拉公主
+- ID: 26324 # 考拉王子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 考拉王子
+- ID: 26576 # 银魂斗士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银魂斗士
+- ID: 26577 # 菲利克斯-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 菲利克斯
+- ID: 26578 # 风之弧度-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 风之弧度
+- ID: 26579 # 指挥官-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 指挥官
+- ID: 26580 # 巨颚-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 巨颚
+- ID: 26581 # 迫击炮-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 迫击炮
+- ID: 26582 # 杀戮甲虫-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 杀戮甲虫
+- ID: 26583 # 熔岩怪-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 熔岩怪
+- ID: 26584 # 冰魔-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 冰魔
+- ID: 26585 # 手术刀-L2级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L2级滑板
+  Name: 手术刀
+- ID: 26613 # 胜利天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 胜利天使
+- ID: 26634 # 黄金米格-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黄金米格
+- ID: 26661 # 光武士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 光武士
+- ID: 26662 # 狂风猎手款-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 狂风猎手款
+- ID: 26663 # 削风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 削风
+- ID: 26664 # 雏菊-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 雏菊
+- ID: 26665 # 尊爵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 尊爵
+- ID: 26666 # 电亟-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 电亟
+- ID: 26667 # 天使之翼猎手款-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 天使之翼猎手款
+- ID: 26668 # 银貂-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银貂
+- ID: 26669 # AE86猎手款-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: AE86猎手款
+- ID: 26670 # 冰块-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 冰块
+- ID: 26900 # 凤凰精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 凤凰精灵
+- ID: 26901 # 凤凰精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 凤凰精灵
+- ID: 26929 # 耀世-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 耀世
+- ID: 26930 # 钢铁雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 钢铁雷诺
+- ID: 26931 # 雷神之怒-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 雷神之怒
+- ID: 26951 # 箭羽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 箭羽
+- ID: 26952 # 黑驰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑驰
+- ID: 26953 # 300W纪念车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 300W纪念车
+- ID: 26954 # 光芒-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 光芒
+- ID: 26955 # 惊雷-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 惊雷
+- ID: 26956 # 炫魔-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 炫魔
+- ID: 26957 # 菲尔德-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 菲尔德
+- ID: 26958 # 斯科特-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 斯科特
+- ID: 26959 # 布万加-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 布万加
+- ID: 27206 # 黑暗风暴-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 黑暗风暴
+- ID: 27219 # 光明骑士-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 光明骑士
+- ID: 27233 # 惊涛-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 惊涛
+- ID: 27234 # 比亚迪E6-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 比亚迪E6
+- ID: 27235 # 皎月-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 皎月
+- ID: 27236 # 落日-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 落日
+- ID: 27237 # 风姿-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 风姿
+- ID: 27238 # 雷特-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 雷特
+- ID: 27239 # 风神Arai-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 风神Arai
+- ID: 27240 # 贝克-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 贝克
+- ID: 27241 # 火灵-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 火灵
+- ID: 27449 # 铠甲小子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 铠甲小子
+- ID: 27519 # 沙暴-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 沙暴
+- ID: 27520 # 青蜂侠-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 青蜂侠
+- ID: 27565 # 铁拳-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 铁拳
+- ID: 27588 # 金锐-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 金锐
+- ID: 27589 # 欧迪-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 欧迪
+- ID: 27590 # 锐变-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 锐变
+- ID: 27591 # 卡帕-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 卡帕
+- ID: 27592 # 米迦勒-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 米迦勒
+- ID: 27593 # 翼神Q-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 翼神Q
+- ID: 27594 # 汉斯-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 汉斯
+- ID: 27595 # 绿雁-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 绿雁
+- ID: 27596 # 闪电龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 闪电龙
+- ID: 27597 # 风道-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 风道
+- ID: 27598 # 啸风绝影-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 啸风绝影
+- ID: 28094 # 飞马-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 飞马
+- ID: 28095 # 烈焰魔甲龙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 烈焰魔甲龙
+- ID: 28096 # 咕噜星-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 咕噜星
+- ID: 28097 # 咕噜心-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 咕噜心
+- ID: 28098 # 流风Arai-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 流风Arai
+- ID: 28099 # 梦魇-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 梦魇
+- ID: 28101 # 凌风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 凌风
+- ID: 28102 # 和风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 和风
+- ID: 28103 # 飞焰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞焰
+- ID: 28104 # 五周年纪念赛车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 五周年纪念赛车
+- ID: 28105 # 蛇年车魁蛇-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蛇年车魁蛇
+- ID: 28106 # 幻影绝迹-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻影绝迹
+- ID: 28107 # 幻想蓝凌-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻想蓝凌
+- ID: 28108 # 疾风骏逸-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 疾风骏逸
+- ID: 28109 # 流火勋爵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 流火勋爵
+- ID: 28110 # 烈焰新星-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 烈焰新星
+- ID: 28656 # 焰之星-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 焰之星
+- ID: 28657 # 蓝兽剑影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蓝兽剑影
+- ID: 28658 # 银闪-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银闪
+- ID: 28659 # 飞启-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞启
+- ID: 28660 # 驰锐-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 驰锐
+- ID: 28661 # 蓝鲨-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蓝鲨
+- ID: 28662 # 摄魂-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 摄魂
+- ID: 28663 # 剔魄-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 剔魄
+- ID: 28664 # 飞度-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 飞度
+- ID: 28665 # 刀狐-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 刀狐
+- ID: 28712 # 熊星人小宝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 熊星人小宝
+- ID: 28713 # 熊星人小爱-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 熊星人小爱
+- ID: 28756 # 草系精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 草系精灵
+- ID: 28757 # 火系精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 火系精灵
+- ID: 28758 # 水系精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 水系精灵
+- ID: 28778 # 朱雀-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 朱雀
+- ID: 28779 # 锋速-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 锋速
+- ID: 28780 # 银影侠-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银影侠
+- ID: 28782 # 黑夜游侠-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑夜游侠
+- ID: 28783 # 绝尘-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 绝尘
+- ID: 28784 # 赛睿之星-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 赛睿之星
+- ID: 28785 # 夜微-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 夜微
+- ID: 28786 # 紫色意志-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 紫色意志
+- ID: 28787 # MINI-X-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: MINI-X
+- ID: 28788 # 流金爵士-D级赛车 
+  Type: EAIT_CAR
+  Mess: D级赛车
+  Name: 流金爵士
+- ID: 29363 # 冲锋战神-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 冲锋战神
+- ID: 29364 # 伏龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 伏龙
+- ID: 29365 # 巨蝎-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 巨蝎
+- ID: 29366 # 火焰狂狮-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 火焰狂狮
+- ID: 29367 # 红细胞-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红细胞
+- ID: 29368 # 绿箭侠-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 绿箭侠
+- ID: 29369 # 新年魅影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 新年魅影
+- ID: 29370 # 黑风Arai-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黑风Arai
+- ID: 29426 # 飞天猪猪侠-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 飞天猪猪侠
+- ID: 29427 # 飞天猪小妹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 飞天猪小妹
+- ID: 29440 # 猛禽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 猛禽
+- ID: 30109 # 极速光电-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极速光电
+- ID: 30110 # 幽灵猎手-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幽灵猎手
+- ID: 30111 # 闪耀雷霆-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 闪耀雷霆
+- ID: 30112 # 蓝色武士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蓝色武士
+- ID: 30113 # 雷光紫电-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷光紫电
+- ID: 30115 # 合金-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 合金
+- ID: 30116 # 奇迹之翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 奇迹之翼
+- ID: 30117 # 深海之星-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 深海之星
+- ID: 30118 # 复仇天使-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 复仇天使
+- ID: 30458 # 小橘子天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小橘子天使
+- ID: 30459 # 帅气小正太-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 帅气小正太
+- ID: 30460 # 萌动小萝莉-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 萌动小萝莉
+- ID: 30808 # 速度之魔-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 速度之魔
+- ID: 30809 # 枪骑兵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 枪骑兵
+- ID: 30810 # 风之利刃-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 风之利刃
+- ID: 30811 # 绿色游侠-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 绿色游侠
+- ID: 30812 # 紫剑兽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 紫剑兽
+- ID: 30813 # 金甲武士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 金甲武士
+- ID: 30814 # 邮政专属天启-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 邮政专属天启
+- ID: 30815 # 技术大师专属赛车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 技术大师专属赛车
+- ID: 30816 # 银灵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银灵
+- ID: 30817 # 蓝影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝影
+- ID: 30818 # 火舞-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 火舞
+- ID: 30819 # 黑麒麟-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黑麒麟
+- ID: 30838 # 海的女儿-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 海的女儿
+- ID: 30890 # 雷霆机甲-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 雷霆机甲
+- ID: 30891 # 噬魂剃刀-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 噬魂剃刀
+- ID: 30892 # 灵动幻影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 灵动幻影
+- ID: 30893 # 飓风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飓风
+- ID: 30894 # 银翼刺客-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银翼刺客
+- ID: 30895 # 地震-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 地震
+- ID: 30896 # 异动-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 异动
+- ID: 30897 # 银光闪电侠-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银光闪电侠
+- ID: 30898 # 卡尔森-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 卡尔森
+- ID: 30899 # 粉红佳人-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 粉红佳人
+- ID: 31179 # 松小鼠尼克-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 松小鼠尼克
+- ID: 31570 # 绿影幽灵-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 绿影幽灵
+- ID: 31571 # 风火轮-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 风火轮
+- ID: 31572 # 赛睿之焱-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赛睿之焱
+- ID: 31573 # 飞沙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞沙
+- ID: 31574 # 暗夜精灵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗夜精灵
+- ID: 31575 # 银狐-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银狐
+- ID: 31576 # 雷电-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 雷电
+- ID: 31577 # 白色骑士-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 白色骑士
+- ID: 31578 # 巨齿兽-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 巨齿兽
+- ID: 31905 # 变色炎龙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 变色炎龙
+- ID: 31906 # 蝴蝶仙子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 蝴蝶仙子
+- ID: 31913 # 罗刹-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 罗刹
+- ID: 31914 # 黄金雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黄金雷诺
+- ID: 31915 # 黄金针尖-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黄金针尖
+- ID: 31916 # 白银帝王-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 白银帝王
+- ID: 31917 # 黑夜传奇-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑夜传奇
+- ID: 31918 # 银电销魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银电销魂
+- ID: 31919 # 绿剑销魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 绿剑销魂
+- ID: 31920 # 捍卫者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 捍卫者
+- ID: 31921 # 青冥-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 青冥
+- ID: 31922 # 赛德克-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 赛德克
+- ID: 31923 # 神盾-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 神盾
+- ID: 31924 # 风影Arai-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 风影Arai
+- ID: 31925 # 克尔维特-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 克尔维特
+- ID: 31940 # 极速轮滑-K0级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K0级轮滑
+  Name: 极速轮滑
+- ID: 31941 # 极速轮滑-K0级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K0级轮滑
+  Name: 极速轮滑
+- ID: 31942 # 银质幻想-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 银质幻想
+- ID: 31943 # 金灿幻想-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 金灿幻想
+- ID: 31944 # 火轮风速-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 火轮风速
+- ID: 31945 # 梦影风速-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 梦影风速
+- ID: 31946 # 黑暗风速-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 黑暗风速
+- ID: 31947 # 云蕾风速-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 云蕾风速
+- ID: 31948 # 闪电天使-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 闪电天使
+- ID: 31949 # 雪翼天使-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 雪翼天使
+- ID: 31950 # 雷音天使-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 雷音天使
+- ID: 31951 # 恋恋天使-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 恋恋天使
+- ID: 32266 # 梅花仙鹿-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 梅花仙鹿
+- ID: 32267 # 黄金飞马-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 黄金飞马
+- ID: 32268 # 纪念版胜利天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 纪念版胜利天使
+- ID: 32269 # 纪念版霹雳天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 纪念版霹雳天使
+- ID: 32406 # 黄蜂战神-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 黄蜂战神
+- ID: 32407 # 绝影神驹-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 绝影神驹
+- ID: 32408 # 铁甲巨龙-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 铁甲巨龙
+- ID: 32409 # 烈火战车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈火战车
+- ID: 32410 # 霸气坦克-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 霸气坦克
+- ID: 32411 # 青旗战马-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 青旗战马
+- ID: 32412 # 烈焰铠甲-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈焰铠甲
+- ID: 32413 # 疾风幽灵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 疾风幽灵
+- ID: 32414 # 幻想躁动-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻想躁动
+- ID: 32415 # 流火炎魔-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 流火炎魔
+- ID: 32416 # 六周年纪念赛车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 六周年纪念赛车
+- ID: 32417 # 情侣贵族专属车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 情侣贵族专属车
+- ID: 32418 # 白鸽-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 白鸽
+- ID: 32419 # 黑贝-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黑贝
+- ID: 32420 # 萨摩-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 萨摩
+- ID: 32421 # 哥萨克-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 哥萨克
+- ID: 32422 # 情侣贵族专属宠-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 情侣贵族专属宠
+- ID: 32423 # 双子宠物-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 双子宠物
+- ID: 32440 # 雷电精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雷电精灵
+- ID: 32819 # 海神之刺-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 海神之刺
+- ID: 32820 # F22-猛禽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: F22-猛禽
+- ID: 32821 # 雷霆先锋-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷霆先锋
+- ID: 32822 # 曼陀罗-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 曼陀罗
+- ID: 32823 # 锯齿-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 锯齿
+- ID: 32824 # 圣光雪狐-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 圣光雪狐
+- ID: 32825 # 艾瑞克-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 艾瑞克
+- ID: 32826 # 猎杀-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 猎杀
+- ID: 32827 # 狂野噪音-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 狂野噪音
+- ID: 32828 # 卡顿-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 卡顿
+- ID: 32829 # 飞天喵星人-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 飞天喵星人
+- ID: 32836 # 星射银芒-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 星射银芒
+- ID: 32838 # 蔚海之语-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 蔚海之语
+- ID: 32840 # 黄金铠甲-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 黄金铠甲
+- ID: 32842 # 魔幻公主-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 魔幻公主
+- ID: 33226 # 苍冥神鸢-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 苍冥神鸢
+- ID: 33227 # 灵尾狐-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 灵尾狐
+- ID: 33257 # 战魂-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 战魂
+- ID: 33258 # 修罗战神-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 修罗战神
+- ID: 33259 # 收割者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 收割者
+- ID: 33260 # 幻影绝尘-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻影绝尘
+- ID: 33261 # 烈焰火龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈焰火龙
+- ID: 33262 # 极地狼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极地狼
+- ID: 33263 # 冰裂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 冰裂
+- ID: 33264 # 森曼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 森曼
+- ID: 33265 # 幽芒-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 幽芒
+- ID: 33266 # 蓝色魔盒-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝色魔盒
+- ID: 33267 # 合金弹头-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 合金弹头
+- ID: 33268 # 纪念版穿梭者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 纪念版穿梭者
+- ID: 33269 # 全民专属翼刃-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 全民专属翼刃
+- ID: 33270 # 全民专属彗星-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 全民专属彗星
+- ID: 33271 # 火箭杀手-R级赛车 
+  Type: EAIT_CAR
+  Mess: R级赛车
+  Name: 火箭杀手
+- ID: 33272 # 刀锋杀手-R级赛车 
+  Type: EAIT_CAR
+  Mess: R级赛车
+  Name: 刀锋杀手
+- ID: 33273 # 公路杀手-R级赛车 
+  Type: EAIT_CAR
+  Mess: R级赛车
+  Name: 公路杀手
+- ID: 33275 # 火之焰-R级赛车 
+  Type: EAIT_CAR
+  Mess: R级赛车
+  Name: 火之焰
+- ID: 33290 # 宠物33290-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33290
+- ID: 33291 # 宠物33291-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33291
+- ID: 33292 # 宠物33292-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33292
+- ID: 33293 # 宠物33293-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33293
+- ID: 33294 # 宠物33294-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33294
+- ID: 33295 # 宠物33295-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33295
+- ID: 33296 # 宠物33296-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33296
+- ID: 33297 # 宠物33297-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33297
+- ID: 33298 # 宠物33298-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33298
+- ID: 33299 # 宠物33299-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33299
+- ID: 33300 # 宠物33300-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33300
+- ID: 33301 # 宠物33301-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33301
+- ID: 33302 # 宠物33302-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33302
+- ID: 33303 # 宠物33303-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33303
+- ID: 33304 # 宠物33304-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33304
+- ID: 33305 # 宠物33305-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33305
+- ID: 33306 # 宠物33306-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33306
+- ID: 33307 # 宠物33307-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33307
+- ID: 33308 # 宠物33308-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33308
+- ID: 33309 # 宠物33309-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33309
+- ID: 33310 # 宠物33310-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33310
+- ID: 33311 # 宠物33311-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33311
+- ID: 33312 # 宠物33312-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33312
+- ID: 33313 # 宠物33313-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33313
+- ID: 33314 # 宠物33314-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33314
+- ID: 33315 # 宠物33315-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33315
+- ID: 33316 # 宠物33316-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33316
+- ID: 33317 # 宠物33317-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33317
+- ID: 33318 # 宠物33318-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33318
+- ID: 33319 # 宠物33319-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33319
+- ID: 33320 # 宠物33320-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33320
+- ID: 33321 # 宠物33321-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33321
+- ID: 33322 # 宠物33322-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33322
+- ID: 33323 # 宠物33323-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33323
+- ID: 33324 # 宠物33324-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33324
+- ID: 33325 # 宠物33325-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33325
+- ID: 33326 # 宠物33326-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33326
+- ID: 33327 # 宠物33327-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33327
+- ID: 33328 # 宠物33328-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33328
+- ID: 33329 # 宠物33329-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33329
+- ID: 33330 # 宠物33330-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33330
+- ID: 33331 # 宠物33331-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33331
+- ID: 33332 # 宠物33332-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33332
+- ID: 33333 # 宠物33333-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33333
+- ID: 33334 # 宠物33334-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33334
+- ID: 33335 # 宠物33335-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33335
+- ID: 33336 # 宠物33336-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33336
+- ID: 33337 # 宠物33337-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33337
+- ID: 33338 # 宠物33338-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33338
+- ID: 33339 # 宠物33339-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33339
+- ID: 33340 # 宠物33340-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宠物33340
+- ID: 33738 # 公爵德古拉-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 公爵德古拉
+- ID: 33739 # 唐韵鼠小弟-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 唐韵鼠小弟
+- ID: 33740 # 粉恋小天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 粉恋小天使
+- ID: 33741 # 弹丸冷兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 弹丸冷兔
+- ID: 33742 # 无效ID-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 无效ID
+- ID: 33743 # 无效ID-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 无效ID
+- ID: 33744 # 无效ID-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 无效ID
+- ID: 33788 # 末日使者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 末日使者
+- ID: 33789 # 御剑游侠-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 御剑游侠
+- ID: 33790 # 烈焰战魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈焰战魂
+- ID: 33791 # 寒冰战士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 寒冰战士
+- ID: 33792 # 金电黄蜂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 金电黄蜂
+- ID: 33793 # 听风者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 听风者
+- ID: 33794 # 无效ID-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 无效ID
+- ID: 33795 # 魅影剃刀-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 魅影剃刀
+- ID: 33796 # 战龙在天-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 战龙在天
+- ID: 33821 # 风动蓝影-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 风动蓝影
+- ID: 33823 # 懵懂熊猫-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 懵懂熊猫
+- ID: 33894 # 暗影刺客-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 暗影刺客
+- ID: 33895 # 紫焰战神-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 紫焰战神
+- ID: 34299 # 钢铁侠-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 钢铁侠
+- ID: 34300 # 萌态小子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 萌态小子
+- ID: 34393 # 神影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 神影
+- ID: 34394 # 幻蓝地魔-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻蓝地魔
+- ID: 34395 # 锋速蓝影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 锋速蓝影
+- ID: 34396 # 酷暑-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 酷暑
+- ID: 34397 # 清风绿茵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 清风绿茵
+- ID: 34398 # 神龙炎兽-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 神龙炎兽
+- ID: 34399 # 烈鸟毒刺-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 烈鸟毒刺
+- ID: 34406 # 绿影极速-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 绿影极速
+- ID: 34408 # 灵动嫣然 -K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 灵动嫣然 
+- ID: 34410 # 暗夜魅影-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 暗夜魅影
+- ID: 34412 # 梦语凝辰-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 梦语凝辰
+- ID: 34834 # 莲爱天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 莲爱天使
+- ID: 34835 # 紫蝶仙灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 紫蝶仙灵
+- ID: 34836 # 寒冰神兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 寒冰神兽
+- ID: 34837 # 憨态企鹅-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 憨态企鹅
+- ID: 34843 # 金甲战盔-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 金甲战盔
+- ID: 34845 # 童趣喵呜-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 童趣喵呜
+- ID: 34847 # 火焰骑士-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 火焰骑士
+- ID: 34849 # 四叶草之恋-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 四叶草之恋
+- ID: 34850 # 绿影骑士-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 绿影骑士
+- ID: 34851 # 闪电风暴-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 闪电风暴
+- ID: 34852 # 极速之流-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极速之流
+- ID: 34853 # 荣耀黄蜂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 荣耀黄蜂
+- ID: 34858 # 灵幻橙风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 灵幻橙风
+- ID: 34859 # 霹雳火-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 霹雳火
+- ID: 34860 # 劳德曼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 劳德曼
+- ID: 34861 # 青灵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 青灵
+- ID: 34862 # 巴鲁斯-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 巴鲁斯
+- ID: 34865 # 流影霸主-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 流影霸主
+- ID: 60027 # 破天-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 破天
+- ID: 60031 # 黄金乘风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黄金乘风
+- ID: 60032 # 黄金圣使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黄金圣使
+- ID: 60033 # 黄金剃刀-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黄金剃刀
+- ID: 60034 # 黄金卓越-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黄金卓越
+- ID: 60059 # 九尾灵狐-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 九尾灵狐
+- ID: 60425 # 白羊萝莉-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 白羊萝莉
+- ID: 60426 # 南瓜宝宝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 南瓜宝宝
+- ID: 60429 # 噬魂金甲-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 噬魂金甲
+- ID: 60430 # 炼狱使者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 炼狱使者
+- ID: 60435 # 烈火疾电-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈火疾电
+- ID: 60436 # 神光绿影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 神光绿影
+- ID: 60437 # 炎火-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 炎火
+- ID: 60438 # 灵魅风影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 灵魅风影
+- ID: 60440 # 黑影梦幻-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 黑影梦幻
+- ID: 60442 # 紫魅之音-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 紫魅之音
+- ID: 60444 # 蔚蓝奇迹-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 蔚蓝奇迹
+- ID: 60446 # 彩蝶飞仙-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 彩蝶飞仙
+- ID: 60447 # 粉钻专属赛车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 粉钻专属赛车
+- ID: 60448 # 蓝钻专属赛车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝钻专属赛车
+- ID: 62747 # 海神奈伊-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 海神奈伊
+- ID: 62748 # 白勇太-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 白勇太
+- ID: 62749 # 假面骑士猫-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 假面骑士猫
+- ID: 62750 # 乔治王子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 乔治王子
+- ID: 62751 # 米娅公主-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 米娅公主
+- ID: 62764 # 暗影行者-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 暗影行者
+- ID: 62766 # 萌动灵兔-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 萌动灵兔
+- ID: 62768 # 蓝影雪魅-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 蓝影雪魅
+- ID: 62770 # 御霞粉飞-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 御霞粉飞
+- ID: 62771 # 圣天使-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 圣天使
+- ID: 62772 # 暗夜幽灵-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 暗夜幽灵
+- ID: 62773 # 战争雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 战争雷诺
+- ID: 62774 # 银翼杀手-刺陵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银翼杀手-刺陵
+- ID: 62775 # 飞翼Q吧-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞翼Q吧
+- ID: 62776 # 傲势-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 傲势
+- ID: 62777 # 雾海飞鹰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雾海飞鹰
+- ID: 62778 # 橙风四驱-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 橙风四驱
+- ID: 62779 # 利剑-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 利剑
+- ID: 62780 # 叱焰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 叱焰
+- ID: 62823 # 萌酷小熊-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 萌酷小熊
+- ID: 62844 # 小龙人精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小龙人精灵
+- ID: 62845 # 小龙女精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小龙女精灵
+- ID: 62862 # 七周年专属纪念赛车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 七周年专属纪念赛车
+- ID: 63391 # 水灵天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 水灵天使
+- ID: 63392 # 战神狮王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 战神狮王
+- ID: 63393 # 百变阿狸-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 百变阿狸
+- ID: 63394 # 小黄人-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小黄人
+- ID: 63422 # 暗金光芒-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 暗金光芒
+- ID: 63424 # 雪舞冰峦-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 雪舞冰峦
+- ID: 63426 # 闪耀金速-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 闪耀金速
+- ID: 63428 # 萤漪圣光-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 萤漪圣光
+- ID: 63429 # 终极幻影-T3机甲赛车 
+  Type: EAIT_CAR
+  Mess: T3机甲赛车
+  Name: 终极幻影
+- ID: 63430 # 闪电侠-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 闪电侠
+- ID: 63431 # 赤道极光-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 赤道极光
+- ID: 63432 # 月光女神-银月-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 月光女神-银月
+- ID: 63433 # 银天使-逆光-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银天使-逆光
+- ID: 63434 # 战地之王-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 战地之王
+- ID: 63435 # 七周年纪念赛车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 七周年纪念赛车
+- ID: 63436 # 黑金-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑金
+- ID: 63437 # 听海-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 听海
+- ID: 63438 # 镜花蓝影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 镜花蓝影
+- ID: 63439 # 绿影怪兽-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 绿影怪兽
+- ID: 63440 # 金典风暴-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金典风暴
+- ID: 63482 # 黑暗骑士-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 黑暗骑士
+- ID: 63501 # 七周年荣耀赛车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 七周年荣耀赛车
+- ID: 63509 # 火焰传说-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 火焰传说
+- ID: 63545 # 海洋精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 海洋精灵
+- ID: 63689 # 城邦守护兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 城邦守护兽
+- ID: 63690 # 灵菇土拨鼠-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 灵菇土拨鼠
+- ID: 63691 # 蓝钻布鲁王子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 蓝钻布鲁王子
+- ID: 63693 # 寒影凌速-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 寒影凌速
+- ID: 63695 # 幻紫凝心-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 幻紫凝心
+- ID: 63697 # 金甲四驱-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 金甲四驱
+- ID: 63699 # 灿金奢茫-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 灿金奢茫
+- ID: 63700 # 圣白独角兽-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 圣白独角兽
+- ID: 63701 # 火焰独角兽-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 火焰独角兽
+- ID: 63702 # 金焰战神-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 金焰战神
+- ID: 63703 # 天启-肃杀-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 天启-肃杀
+- ID: 63704 # 幻灵奇迹-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻灵奇迹
+- ID: 63705 # 银魂捷豹-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 银魂捷豹
+- ID: 63707 # 银电幻想-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银电幻想
+- ID: 63708 # 荧素疾风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 荧素疾风
+- ID: 63709 # 炽焰流火-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 炽焰流火
+- ID: 63710 # 异动卡丁车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 异动卡丁车
+- ID: 63711 # 炫金-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 炫金
+- ID: 63712 # 银河传说-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银河传说
+- ID: 64296 # 羊年专属雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 羊年专属雷诺
+- ID: 64870 # 功夫熊猫-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 功夫熊猫
+- ID: 64872 # 绿茵驰梦-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 绿茵驰梦
+- ID: 64874 # 粉蝶笙妤-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 粉蝶笙妤
+- ID: 64876 # 幻幽星空-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 幻幽星空
+- ID: 64878 # 晨瓣菲菲-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 晨瓣菲菲
+- ID: 64879 # 暗夜王爵-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 暗夜王爵
+- ID: 64880 # 烈焰销魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈焰销魂
+- ID: 64881 # 恶魔信使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 恶魔信使
+- ID: 64882 # 枫林-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 枫林
+- ID: 64883 # 银豹-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银豹
+- ID: 64884 # 金殿魅影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金殿魅影
+- ID: 64885 # 海翔-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 海翔
+- ID: 64972 # 猎豹_改装-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 猎豹_改装
+- ID: 64973 # 劳伦斯_改装-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 劳伦斯_改装
+- ID: 64974 # 刺客_改装-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 刺客_改装
+- ID: 64975 # 流光速_改装-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 流光速_改装
+- ID: 64976 # 樱冥殿_改装-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 樱冥殿_改装
+- ID: 64977 # 青锋剃刀_改装-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 青锋剃刀_改装
+- ID: 64978 # 阿波罗_改装-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 阿波罗_改装
+- ID: 64979 # 蝰蛇_改装-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蝰蛇_改装
+- ID: 64980 # 太空準_改装-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 太空準_改装
+- ID: 64981 # 青蜂侠_改装-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 青蜂侠_改装
+- ID: 64982 # 朱雀_改装-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 朱雀_改装
+- ID: 64983 # 战魂_改装-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 战魂_改装
+- ID: 64984 # 黑暗风暴_改装-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 黑暗风暴_改装
+- ID: 64985 # 暗夜影速_改装-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 暗夜影速_改装
+- ID: 64986 # 圣天使_改装-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 圣天使_改装
+- ID: 64987 # S白金剃刀_改装-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: S白金剃刀_改装
+- ID: 64988 # 迈凯伦_改装-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 迈凯伦_改装
+- ID: 64989 # 风怒_改装-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 风怒_改装
+- ID: 64993 # 黄金天使之翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黄金天使之翼
+- ID: 65096 # 王者狮鹫-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 王者狮鹫
+- ID: 65097 # 柯基犬-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 柯基犬
+- ID: 65098 # 美国队长-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 美国队长
+- ID: 65099 # 通灵忍者-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 通灵忍者
+- ID: 65100 # 超能大白-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 超能大白
+- ID: 65102 # 黑影狂蛇-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 黑影狂蛇
+- ID: 65104 # 玉琼晴空-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 玉琼晴空
+- ID: 65106 # 麦影利刃-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 麦影利刃
+- ID: 65108 # 桃夭暖弦-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 桃夭暖弦
+- ID: 65109 # 银凌闪电-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 银凌闪电
+- ID: 65110 # 怒焰飞跃-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 怒焰飞跃
+- ID: 65111 # 黄金霸天虎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黄金霸天虎
+- ID: 65116 # 银电青锋-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银电青锋
+- ID: 65117 # 金甲战狼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金甲战狼
+- ID: 65118 # 海洋之心-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 海洋之心
+- ID: 65686 # 流光劲驰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 流光劲驰
+- ID: 65849 # 初音天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 初音天使
+- ID: 65850 # 仙人掌小呆-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 仙人掌小呆
+- ID: 65852 # 蔚然成风-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 蔚然成风
+- ID: 65854 # 欣雨矜柔-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 欣雨矜柔
+- ID: 65856 # 凌云尘宵-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 凌云尘宵
+- ID: 65858 # 流莺梦语-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 流莺梦语
+- ID: 65859 # 水晶先锋-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 水晶先锋
+- ID: 65864 # 巅峰战刀-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 巅峰战刀
+- ID: 65865 # 烈焰骑兵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈焰骑兵
+- ID: 65866 # 极影刺客-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极影刺客
+- ID: 65869 # 蓝翱海域-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝翱海域
+- ID: 65870 # 炽焰展飞-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 炽焰展飞
+- ID: 65871 # 黑色荣耀-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黑色荣耀
+- ID: 66525 # 黄金帝企鹅-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 黄金帝企鹅
+- ID: 66585 # 冰灵龙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 冰灵龙
+- ID: 66586 # 银魂豹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 银魂豹
+- ID: 66587 # 闪电皮卡丘-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 闪电皮卡丘
+- ID: 66588 # 金狮燎原-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 金狮燎原
+- ID: 66589 # 嗨皮猴-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 嗨皮猴
+- ID: 66591 # 沧凝情心-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 沧凝情心
+- ID: 66593 # 玲珑桃卉-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 玲珑桃卉
+- ID: 66595 # 墨纨尘音-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 墨纨尘音
+- ID: 66597 # 琉璃仙音-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 琉璃仙音
+- ID: 66598 # 紫铭-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 紫铭
+- ID: 66599 # 机械战警-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 机械战警
+- ID: 66600 # 至尊王者剃刀-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 至尊王者剃刀
+- ID: 66601 # 金影狮王-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 金影狮王
+- ID: 66602 # 影流阿尔法-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 影流阿尔法
+- ID: 66604 # 刀锋魅影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 刀锋魅影
+- ID: 66605 # 紫魅-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 紫魅
+- ID: 66606 # 杀人蜂-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 杀人蜂
+- ID: 66607 # 速鲨-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 速鲨
+- ID: 67305 # 纪念版圣殿骑士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 纪念版圣殿骑士
+- ID: 67341 # 炫风专属乘风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 炫风专属乘风
+- ID: 67487 # 暴风狼-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 暴风狼
+- ID: 67488 # 萌音天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 萌音天使
+- ID: 67489 # 小公举-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小公举
+- ID: 67490 # 外星人憨豆-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 外星人憨豆
+- ID: 67491 # 缘梦天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 缘梦天使
+- ID: 67492 # 红帽萌兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 红帽萌兔
+- ID: 68087 # 花样少年-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 花样少年
+- ID: 68089 # 花样少女-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 花样少女
+- ID: 68091 # 冲上云霄-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冲上云霄
+- ID: 68093 # 冲上云霄-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冲上云霄
+- ID: 68094 # 神龙骑士-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 神龙骑士
+- ID: 68095 # 零羽天使-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 零羽天使
+- ID: 68096 # 月影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 月影
+- ID: 68097 # 蝙蝠战车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蝙蝠战车
+- ID: 68098 # 金钻女神-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 金钻女神
+- ID: 68099 # F22-战鹰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: F22-战鹰
+- ID: 68100 # 利刃针尖-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 利刃针尖
+- ID: 68101 # 绝迹-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 绝迹
+- ID: 68102 # 血影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 血影
+- ID: 68103 # 青蜂勇士-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 青蜂勇士
+- ID: 68114 # 双星宝贝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 双星宝贝
+- ID: 68124 # 仙灵处女-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 仙灵处女
+- ID: 68192 # 火焰奇兵-D级赛车 
+  Type: EAIT_CAR
+  Mess: D级赛车
+  Name: 火焰奇兵
+- ID: 68635 # 棕魅灵猫轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 棕魅灵猫轮滑
+- ID: 68637 # 棕魅萌兔轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 棕魅萌兔轮滑
+- ID: 68639 # 金曳锦瑟轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 金曳锦瑟轮滑
+- ID: 68641 # 金蝶安年轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 金蝶安年轮滑
+- ID: 68642 # 末界战神-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 末界战神
+- ID: 68643 # 终极暴风雪-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极暴风雪
+- ID: 68644 # 超能战车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 超能战车
+- ID: 68645 # 天秤灵越-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 天秤灵越
+- ID: 68646 # 天蝎荣耀-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 天蝎荣耀
+- ID: 68647 # 飞虎雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞虎雷诺
+- ID: 68648 # 风驰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 风驰
+- ID: 68649 # 炎啸-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 炎啸
+- ID: 68650 # 月影绿魔-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 月影绿魔
+- ID: 68651 # 正义先锋专属赛车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 正义先锋专属赛车
+- ID: 68652 # 极速狂徒专属赛车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 极速狂徒专属赛车
+- ID: 68713 # 仙缘灵鹤-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 仙缘灵鹤
+- ID: 68714 # 扑克国王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 扑克国王
+- ID: 68715 # 爱心王后-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 爱心王后
+- ID: 68716 # 铠甲天秤-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 铠甲天秤
+- ID: 68717 # 浴火天蝎-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 浴火天蝎
+- ID: 68718 # 月夜精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 月夜精灵
+- ID: 68719 # 熊猫萌宝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 熊猫萌宝
+- ID: 68727 # 火线追击-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 火线追击
+- ID: 69194 # 极地冰熊-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 极地冰熊
+- ID: 69195 # 绯樱萝莉-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 绯樱萝莉
+- ID: 69196 # 小王子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小王子
+- ID: 69197 # 狂热射手-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 狂热射手
+- ID: 69198 # 步哨鼠米诺-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 步哨鼠米诺
+- ID: 69200 # 空灵蓝音-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 空灵蓝音
+- ID: 69202 # 空灵粉婳-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 空灵粉婳
+- ID: 69204 # 超能战靴-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 超能战靴
+- ID: 69206 # 黄金战靴-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 黄金战靴
+- ID: 69207 # 天姬-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 天姬
+- ID: 69208 # 刺弦射手-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 刺弦射手
+- ID: 69209 # 星河战警-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星河战警
+- ID: 69210 # 御魂使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 御魂使
+- ID: 69211 # 炽热月神-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 炽热月神
+- ID: 69212 # 啸影公爵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 啸影公爵
+- ID: 69213 # 布鲁斯沃特-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 布鲁斯沃特
+- ID: 69214 # 炫影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 炫影
+- ID: 70017 # 仙宫兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 仙宫兔
+- ID: 70018 # 扑克鬼爵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 扑克鬼爵
+- ID: 70019 # 龙猫骑士-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 龙猫骑士
+- ID: 70020 # 亦幻水瓶-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 亦幻水瓶
+- ID: 70021 # 雷炎摩羯-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雷炎摩羯
+- ID: 70022 # 乐师希瑞-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 乐师希瑞
+- ID: 70039 # 欢欣圣诞轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 欢欣圣诞轮滑
+- ID: 70041 # 欢馨圣诞轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 欢馨圣诞轮滑
+- ID: 70043 # 雪语圣铃轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 雪语圣铃轮滑
+- ID: 70045 # 雪语圣铃轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 雪语圣铃轮滑
+- ID: 70046 # 御皇铠甲-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 御皇铠甲
+- ID: 70047 # 终极麦凯伦-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极麦凯伦
+- ID: 70048 # 金幻水瓶-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 金幻水瓶
+- ID: 70049 # 翼刃摩羯-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 翼刃摩羯
+- ID: 70050 # 8周年纪念剃刀-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 8周年纪念剃刀
+- ID: 70051 # 皇爵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 皇爵
+- ID: 70052 # 维克多-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 维克多
+- ID: 70053 # 史前蛇影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 史前蛇影
+- ID: 70054 # 凌威-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 凌威
+- ID: 70715 # 星光穿梭者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星光穿梭者
+- ID: 71452 # 神谕天尊-T3机甲赛车 
+  Type: EAIT_CAR
+  Mess: T3机甲赛车
+  Name: 神谕天尊
+- ID: 71453 # 怒魂-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 怒魂
+- ID: 71454 # 刀锋神兵-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 刀锋神兵
+- ID: 71455 # 圣枪-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 圣枪
+- ID: 71456 # 小橘子纪念A车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 小橘子纪念A车
+- ID: 71457 # 白勇太纪念A车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 白勇太纪念A车
+- ID: 71458 # 大圣雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 大圣雷诺
+- ID: 71459 # 赤涡黑轮-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赤涡黑轮
+- ID: 71460 # 逆鳞双鱼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 逆鳞双鱼
+- ID: 71461 # 傲血流火-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 傲血流火
+- ID: 71462 # 肃杀疾风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 肃杀疾风
+- ID: 71463 # 越泽幻想-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 越泽幻想
+- ID: 71464 # 鸿黎耀世-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 鸿黎耀世
+- ID: 71465 # 荒原之翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 荒原之翼
+- ID: 71466 # 魅域-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 魅域
+- ID: 71468 # 蓝域飞越轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 蓝域飞越轮滑
+- ID: 71470 # 紫光觉翅轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 紫光觉翅轮滑
+- ID: 71472 # 迷彩之轮-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 迷彩之轮
+- ID: 71474 # 迷彩之影-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 迷彩之影
+- ID: 71549 # 九霄龙王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 九霄龙王
+- ID: 71550 # 齐天大圣-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 齐天大圣
+- ID: 71551 # 变色飞马-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 变色飞马
+- ID: 71552 # 纪念版光天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 纪念版光天使
+- ID: 71553 # 纪念版飞虎王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 纪念版飞虎王
+- ID: 71554 # 小帅GG-宠物 
+  Type: EAIT_BABY
+  Mess: 宠物
+  Name: 小帅GG
+- ID: 71555 # 小花MM-宠物 
+  Type: EAIT_BABY
+  Mess: 宠物
+  Name: 小花MM
+- ID: 71556 # 涵情双鱼-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 涵情双鱼
+- ID: 71557 # 游泳员哈尼-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 游泳员哈尼
+- ID: 71588 # 异形杀戮-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 异形杀戮
+- ID: 72264 # 一阶月兔精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 一阶月兔精灵
+- ID: 72266 # 樱本幻魂-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 樱本幻魂
+- ID: 72267 # 傲血白羊-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 傲血白羊
+- ID: 72268 # 小独角仙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小独角仙
+- ID: 72270 # 蕉萌童趣轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 蕉萌童趣轮滑
+- ID: 72272 # 蕉萌童悠轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 蕉萌童悠轮滑
+- ID: 72274 # 蔚蓝星海轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 蔚蓝星海轮滑
+- ID: 72276 # 蔚蓝星恋轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 蔚蓝星恋轮滑
+- ID: 72277 # 激刃-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 激刃
+- ID: 72278 # 血月-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 血月
+- ID: 72279 # 锐意白羊-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 锐意白羊
+- ID: 72280 # 圣银-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 圣银
+- ID: 72281 # 紫夜-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 紫夜
+- ID: 72282 # 魅袭-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 魅袭
+- ID: 72719 # 雪豹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雪豹
+- ID: 72720 # 冥想双子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 冥想双子
+- ID: 72721 # 战将金牛-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 战将金牛
+- ID: 72722 # 小红帽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小红帽
+- ID: 72724 # 巧克萌宠轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 巧克萌宠轮滑
+- ID: 72726 # 巧克萌宠轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 巧克萌宠轮滑
+- ID: 72728 # 机械灵域轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 机械灵域轮滑
+- ID: 72730 # 机械灵域轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 机械灵域轮滑
+- ID: 72732 # 冰雪异域轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冰雪异域轮滑
+- ID: 72734 # 冰雪异域轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冰雪异域轮滑
+- ID: 72736 # 烈火钢侠轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 烈火钢侠轮滑
+- ID: 72738 # 神冰凛冽轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 神冰凛冽轮滑
+- ID: 72739 # 深渊武士-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 深渊武士
+- ID: 72740 # 神影之尊-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 神影之尊
+- ID: 72741 # X-先驱者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: X-先驱者
+- ID: 72742 # 幻域王者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻域王者
+- ID: 72747 # 火烈鸟-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 火烈鸟
+- ID: 72748 # 极影锋行-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 极影锋行
+- ID: 72749 # 越野者-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 越野者
+- ID: 73220 # 爵战金牛-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 爵战金牛
+- ID: 73221 # 魅域双子-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 魅域双子
+- ID: 73485 # 银天使-圣光-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银天使-圣光
+- ID: 73517 # 全民专属伏地魔-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 全民专属伏地魔
+- ID: 73518 # 全民专属红色彗星-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 全民专属红色彗星
+- ID: 73674 # 至善巨蟹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 至善巨蟹
+- ID: 73675 # 青丘灵狐-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 青丘灵狐
+- ID: 73676 # 小鼠兜吉-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小鼠兜吉
+- ID: 73677 # 黄金圣狐-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 黄金圣狐
+- ID: 73689 # 金叶璀璨轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 金叶璀璨轮滑
+- ID: 73691 # 粉星闪耀轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 粉星闪耀轮滑
+- ID: 73693 # 鎏金先锋轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 鎏金先锋轮滑
+- ID: 73695 # 星耀先驱轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 星耀先驱轮滑
+- ID: 73696 # 超能英雄-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 超能英雄
+- ID: 73697 # 斗战胜佛-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 斗战胜佛
+- ID: 73698 # 猎狩巨蟹-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 猎狩巨蟹
+- ID: 73699 # 幻能白金-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻能白金
+- ID: 73700 # 幻能黄金-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻能黄金
+- ID: 73701 # 炎溟-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 炎溟
+- ID: 73702 # 莫柯瑞萨-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 莫柯瑞萨
+- ID: 73703 # 暗夜尊影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 暗夜尊影
+- ID: 74153 # 美人鱼至尊纪念版-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 美人鱼至尊纪念版
+- ID: 74348 # 梅花仙鹿典藏版-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 梅花仙鹿典藏版
+- ID: 74349 # 草帽路飞-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 草帽路飞
+- ID: 74350 # 魔法紫灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 魔法紫灵
+- ID: 74351 # 糯米团子 -宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 糯米团子 
+- ID: 74353 # 绿意空灵轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 绿意空灵轮滑
+- ID: 74355 # 翠玉蝶心轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 翠玉蝶心轮滑
+- ID: 74357 # 金翼闪耀轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 金翼闪耀轮滑
+- ID: 74359 # 金翼闪耀轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 金翼闪耀轮滑
+- ID: 74360 # 绝地战士-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 绝地战士
+- ID: 74361 # 孙悟空-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 孙悟空
+- ID: 74362 # 爆天甲-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 爆天甲
+- ID: 74363 # 终极鬼战刀-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极鬼战刀
+- ID: 74364 # 8周年烈焰纪念版-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 8周年烈焰纪念版
+- ID: 74369 # 锐爪-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 锐爪
+- ID: 74370 # 蓝炎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝炎
+- ID: 74371 # 炬魄擎风-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 炬魄擎风
+- ID: 74732 # 考拉王子珍藏版-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 考拉王子珍藏版
+- ID: 74733 # 战神熊猫-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 战神熊猫
+- ID: 74808 # 蓝翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝翼
+- ID: 74809 # 玫翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 玫翼
+- ID: 74877 # 极限忍者轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 极限忍者轮滑
+- ID: 74879 # 银秘侠客轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 银秘侠客轮滑
+- ID: 74881 # 冰晶雪域轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冰晶雪域轮滑
+- ID: 74883 # 冰晶雪域轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冰晶雪域轮滑
+- ID: 74884 # 金甲狮王-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 金甲狮王
+- ID: 74885 # 超能特警-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 超能特警
+- ID: 74894 # 水粼逆寒-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 水粼逆寒
+- ID: 74895 # 炎御飞龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 炎御飞龙
+- ID: 74896 # 丛林战警-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 丛林战警
+- ID: 74897 # 雪域极光-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 雪域极光
+- ID: 74898 # 攀岩者-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 攀岩者
+- ID: 74959 # 盖世龙王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 盖世龙王
+- ID: 74960 # 蓝冥武士-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 蓝冥武士
+- ID: 74961 # 绿冥仙子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 绿冥仙子
+- ID: 74962 # 战斗小僵尸-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 战斗小僵尸
+- ID: 74963 # 芭比兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 芭比兔
+- ID: 74965 # 熊本熊-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 熊本熊
+- ID: 75577 # 暗夜黄蜂-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 暗夜黄蜂
+- ID: 75585 # 穿梭者-车王纪念版-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 穿梭者-车王纪念版
+- ID: 75771 # 金甲圣狮-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 金甲圣狮
+- ID: 75772 # 万能叮当猫-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 万能叮当猫
+- ID: 75773 # 救世超人-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 救世超人
+- ID: 75774 # 萌兔船长-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 萌兔船长
+- ID: 75800 # 银夜绅士-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 银夜绅士
+- ID: 75802 # 恋粉萌兔-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 恋粉萌兔
+- ID: 75804 # 海蓝之梦轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 海蓝之梦轮滑
+- ID: 75806 # 樱粉之梦轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 樱粉之梦轮滑
+- ID: 75807 # 鬼武者-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 鬼武者
+- ID: 75808 # 终极针尖王者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极针尖王者
+- ID: 75809 # 刺甲黄金龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 刺甲黄金龙
+- ID: 75810 # 浴火粉凰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 浴火粉凰
+- ID: 75811 # 极地冰凤-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极地冰凤
+- ID: 75812 # 心悦猛禽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 心悦猛禽
+- ID: 75813 # 蓝域擎天-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝域擎天
+- ID: 75814 # 焰齿钻轮-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 焰齿钻轮
+- ID: 75815 # 极速之光-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 极速之光
+- ID: 75821 # 幻想战神-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 幻想战神
+- ID: 75822 # 疾风战神-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 疾风战神
+- ID: 75823 # 流火战神-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 流火战神
+- ID: 76200 # 魔甲战神-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 魔甲战神
+- ID: 76300 # 烈刃-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈刃
+- ID: 76467 # 孔雀翎王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 孔雀翎王
+- ID: 76468 # 森林先知-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 森林先知
+- ID: 76470 # 金甲战士-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 金甲战士
+- ID: 76472 # 粉梦公主-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 粉梦公主
+- ID: 76474 # 绿影无垠-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 绿影无垠
+- ID: 76476 # 楚梦私语-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 楚梦私语
+- ID: 76477 # 白虎战神-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 白虎战神
+- ID: 76478 # 钢铁先驱-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 钢铁先驱
+- ID: 76479 # 爱心丘比特-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 爱心丘比特
+- ID: 76480 # 烈日战甲-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 烈日战甲
+- ID: 76481 # 风驰电掣-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 风驰电掣
+- ID: 76482 # 紫色闪电-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 紫色闪电
+- ID: 76483 # 方块公主-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 方块公主
+- ID: 76484 # 梅花王子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 梅花王子
+- ID: 76964 # 蓝瘦香菇-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 蓝瘦香菇
+- ID: 77192 # 森林鹿后-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 森林鹿后
+- ID: 77193 # 萌兔绅士-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 萌兔绅士
+- ID: 77194 # 吸血鼠爵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 吸血鼠爵
+- ID: 77228 # 流金龙翔轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 流金龙翔轮滑
+- ID: 77230 # 蝶粉翼动轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 蝶粉翼动轮滑
+- ID: 77232 # 蓝瑟冰尧轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 蓝瑟冰尧轮滑
+- ID: 77234 # 梦幻瑶烨轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 梦幻瑶烨轮滑
+- ID: 77235 # 守护者-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 守护者
+- ID: 77236 # 终极猛兽-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极猛兽
+- ID: 77237 # 帝铠炎龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 帝铠炎龙
+- ID: 77238 # 幻耀之钻-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻耀之钻
+- ID: 77239 # 闪光-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 闪光
+- ID: 77240 # 蓝瑟-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝瑟
+- ID: 77241 # 爵克-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 爵克
+- ID: 78105 # 九周年纪念企鹅-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 九周年纪念企鹅
+- ID: 78106 # 怒焰极光-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 怒焰极光
+- ID: 78273 # 王爵精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 王爵精灵
+- ID: 78274 # 浴血火凤-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 浴血火凤
+- ID: 78275 # 凝语依依-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 凝语依依
+- ID: 78276 # 九天玄灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 九天玄灵
+- ID: 78277 # 热恋宝贝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 热恋宝贝
+- ID: 78278 # 焰火朱雀-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 焰火朱雀
+- ID: 78279 # 萌兔公主-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 萌兔公主
+- ID: 78280 # 小橘子纪念版-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小橘子纪念版
+- ID: 78281 # 白勇太纪念版-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 白勇太纪念版
+- ID: 78282 # 小黄鸡-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小黄鸡
+- ID: 78283 # 疯狂可达鸭-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 疯狂可达鸭
+- ID: 78285 # 青岚明阳轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 青岚明阳轮滑
+- ID: 78287 # 澹雅姝情轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 澹雅姝情轮滑
+- ID: 78289 # 泓涵腾逸轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 泓涵腾逸轮滑
+- ID: 78291 # 泓涵腾逸轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 泓涵腾逸轮滑
+- ID: 78292 # 创世之神-T3机甲赛车 
+  Type: EAIT_CAR
+  Mess: T3机甲赛车
+  Name: 创世之神
+- ID: 78293 # 白金守护神-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 白金守护神
+- ID: 78294 # 黄金守护神-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 黄金守护神
+- ID: 78295 # 至尊青龙-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 至尊青龙
+- ID: 78296 # 毁灭者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 毁灭者
+- ID: 78297 # 凤凰雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 凤凰雷诺
+- ID: 78298 # 极速光天使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极速光天使
+- ID: 78299 # 极战幻夜-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极战幻夜
+- ID: 78300 # 流火王者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 流火王者
+- ID: 78301 # 幻想王者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻想王者
+- ID: 78302 # 疾风王者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 疾风王者
+- ID: 78303 # 九周年极限赛车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 九周年极限赛车
+- ID: 78304 # 欧罗拉-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 欧罗拉
+- ID: 78305 # 落海-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 落海
+- ID: 78306 # 零枫-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 零枫
+- ID: 78765 # 黑魂之翼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑魂之翼
+- ID: 78900 # 小蜜蜂布丁-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小蜜蜂布丁
+- ID: 78901 # 草莓甜心-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 草莓甜心
+- ID: 78902 # 萌鹿芮芮-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 萌鹿芮芮
+- ID: 78904 # 青柠冰霜轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 青柠冰霜轮滑
+- ID: 78906 # 蓝莓冰霜轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 蓝莓冰霜轮滑
+- ID: 78908 # 冰青玉凝轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冰青玉凝轮滑
+- ID: 78910 # 冰莓诺莹轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冰莓诺莹轮滑
+- ID: 78911 # 玄武之魂-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 玄武之魂
+- ID: 78912 # Noble-激光-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: Noble-激光
+- ID: 78913 # 霹雳战驱-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 霹雳战驱
+- ID: 78914 # 闪雷-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 闪雷
+- ID: 78915 # 博塞亚-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 博塞亚
+- ID: 78916 # 青枫-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 青枫
+- ID: 80148 # 白雪公主-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 白雪公主
+- ID: 80149 # 小狐女-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小狐女
+- ID: 80150 # 海盗小鼠-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 海盗小鼠
+- ID: 80152 # 金澜行迹轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 金澜行迹轮滑
+- ID: 80154 # 金澜行迹轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 金澜行迹轮滑
+- ID: 80156 # 迷情幻想轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 迷情幻想轮滑
+- ID: 80158 # 迷情幻想轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 迷情幻想轮滑
+- ID: 80159 # 无影之刃-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 无影之刃
+- ID: 80160 # 赤焰战神-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 赤焰战神
+- ID: 80161 # 地狱火-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 地狱火
+- ID: 80162 # 绝尘龙影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 绝尘龙影
+- ID: 80163 # 幻影游侠-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻影游侠
+- ID: 80168 # 星驰逐风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星驰逐风
+- ID: 80169 # 幻橙荣耀-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻橙荣耀
+- ID: 80170 # 荣耀伯爵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 荣耀伯爵
+- ID: 80171 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 80172 # 御风-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 御风
+- ID: 80173 # 斯博图-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 斯博图
+- ID: 80174 # 格瑞-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 格瑞
+- ID: 80175 # 拉尔夫-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 拉尔夫
+- ID: 80371 # 星光小橘子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 星光小橘子
+- ID: 80502 # 甜心护士小爱-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 甜心护士小爱
+- ID: 80503 # 马戏皇后小圆-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 马戏皇后小圆
+- ID: 80504 # 邮差尼柏-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 邮差尼柏
+- ID: 80506 # 金辉琉闪轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 金辉琉闪轮滑
+- ID: 80508 # 碧月争辉轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 碧月争辉轮滑
+- ID: 80510 # 雷鸣之厉轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 雷鸣之厉轮滑
+- ID: 80512 # 雷鸣之厉轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 雷鸣之厉轮滑
+- ID: 80541 # 猎魂裁决-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 猎魂裁决
+- ID: 80542 # 雷瑟之光-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 雷瑟之光
+- ID: 80543 # 海神之吻-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 海神之吻
+- ID: 80544 # 神之翼 -A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 神之翼 
+- ID: 80545 # 利刃黄蜂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 利刃黄蜂
+- ID: 80546 # 烈火噬魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈火噬魂
+- ID: 80547 # 幽勒勇士-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 幽勒勇士
+- ID: 80548 # 漂流者-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 漂流者
+- ID: 80549 # 极速战神-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 极速战神
+- ID: 81107 # 地狱天启-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 地狱天启
+- ID: 81127 # 荣耀霸主-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 荣耀霸主
+- ID: 81279 # 海豚小帅-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 海豚小帅
+- ID: 81280 # 特鲁格-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 特鲁格
+- ID: 81281 # 火影猫女-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 火影猫女
+- ID: 81282 # 可爱猿大威-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 可爱猿大威
+- ID: 81284 # 季晚空城轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 季晚空城轮滑
+- ID: 81286 # 季晚空城轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 季晚空城轮滑
+- ID: 81288 # 荷凉音弦轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 荷凉音弦轮滑
+- ID: 81290 # 柠离音浅轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 柠离音浅轮滑
+- ID: 81291 # 擎天战神-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 擎天战神
+- ID: 81292 # 刑天战斧-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 刑天战斧
+- ID: 81293 # 黑域电魔-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 黑域电魔
+- ID: 81294 # 风驰光影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 风驰光影
+- ID: 81295 # 森林守卫-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 森林守卫
+- ID: 81296 # 嗜血-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 嗜血
+- ID: 81297 # 蓝剑-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝剑
+- ID: 81298 # 幻影蓝魔-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻影蓝魔
+- ID: 81887 # 至尊黑曜-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 至尊黑曜
+- ID: 81888 # 黑曜-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黑曜
+- ID: 81889 # 神气牛牛-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 神气牛牛
+- ID: 82109 # 无效-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效
+- ID: 82211 # 懵懂喵星人-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 懵懂喵星人
+- ID: 82212 # 潜水咕咕鸡-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 潜水咕咕鸡
+- ID: 82213 # 飞行员小翼-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 飞行员小翼
+- ID: 82238 # 小鹿GG-宠物 
+  Type: EAIT_BABY
+  Mess: 宠物
+  Name: 小鹿GG
+- ID: 82239 # 小爱MM-宠物 
+  Type: EAIT_BABY
+  Mess: 宠物
+  Name: 小爱MM
+- ID: 82241 # 魅蓝骷髅轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 魅蓝骷髅轮滑
+- ID: 82243 # 紫夜骷髅轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 紫夜骷髅轮滑
+- ID: 82245 # 烈焰飞龙轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 烈焰飞龙轮滑
+- ID: 82247 # 冰魄灵龙轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冰魄灵龙轮滑
+- ID: 82248 # 雷霆霸主-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 雷霆霸主
+- ID: 82249 # 雪域冰魄-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 雪域冰魄
+- ID: 82250 # 特性-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 特性
+- ID: 82251 # 闪电先锋-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 闪电先锋
+- ID: 82252 # 蓝魔尊-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蓝魔尊
+- ID: 82253 # 流金刺客-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 流金刺客
+- ID: 82254 # Vans-随想-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: Vans-随想
+- ID: 82255 # 狙击警探-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 狙击警探
+- ID: 82256 # 红梦魇-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红梦魇
+- ID: 82257 # 狐蝠杀手-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 狐蝠杀手
+- ID: 83027 # 花楹公主-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 花楹公主
+- ID: 83028 # 月宫小仙子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 月宫小仙子
+- ID: 83029 # 糖果熊妙妙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 糖果熊妙妙
+- ID: 83031 # 祥云秘境轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 祥云秘境轮滑
+- ID: 83033 # 祥云秘境轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 祥云秘境轮滑
+- ID: 83035 # 金狮法驰轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 金狮法驰轮滑
+- ID: 83037 # 烈火雄鹰轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 烈火雄鹰轮滑
+- ID: 83038 # 猎鹰战神-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 猎鹰战神
+- ID: 83039 # 弑火刺客-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 弑火刺客
+- ID: 83040 # 幻灭之翼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻灭之翼
+- ID: 83041 # 黑魔爵士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 黑魔爵士
+- ID: 83042 # 终极变形销魂-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极变形销魂
+- ID: 83043 # 名爵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 名爵
+- ID: 83044 # 金蝠飞翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金蝠飞翼
+- ID: 83715 # 九周年黄金剃刀-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 九周年黄金剃刀
+- ID: 83718 # 纪念版黄金雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 纪念版黄金雷诺
+- ID: 83975 # 灭世龙王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 灭世龙王
+- ID: 83976 # 黑魔小子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 黑魔小子
+- ID: 83977 # 鹦鹉小弟-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 鹦鹉小弟
+- ID: 83979 # 绿萌豆豆轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 绿萌豆豆轮滑
+- ID: 83981 # 紫俏豆豆轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 紫俏豆豆轮滑
+- ID: 83983 # 清谷亘永轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 清谷亘永轮滑
+- ID: 83985 # 赢粉之光轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 赢粉之光轮滑
+- ID: 83986 # 凌霜圣使-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 凌霜圣使
+- ID: 83987 # 皇庭之战-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 皇庭之战
+- ID: 83988 # 魔龙御使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 魔龙御使
+- ID: 83989 # GK紫域-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: GK紫域
+- ID: 83990 # 玫红之舞-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 玫红之舞
+- ID: 83991 # 玄风-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 玄风
+- ID: 84544 # 暗耀之子-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗耀之子
+- ID: 84663 # 梦想大Q吧-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 梦想大Q吧
+- ID: 84664 # 超级战车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 超级战车
+- ID: 84782 # 青鸾依依-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 青鸾依依
+- ID: 84783 # 雪精灵艾伦-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雪精灵艾伦
+- ID: 84784 # 绅士猪总管-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 绅士猪总管
+- ID: 84785 # 卡布比-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 卡布比
+- ID: 84860 # 浅心蓝染-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 浅心蓝染
+- ID: 84862 # 浅心粉濡-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 浅心粉濡
+- ID: 84864 # 淳心奥缘-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 淳心奥缘
+- ID: 84866 # 淳心奥缘-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 淳心奥缘
+- ID: 84867 # 亡灵收割者-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 亡灵收割者
+- ID: 84868 # 侍武之魂-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 侍武之魂
+- ID: 84869 # 暗影龙骑-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 暗影龙骑
+- ID: 84870 # 幻影修罗-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻影修罗
+- ID: 84871 # 圣光骑士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 圣光骑士
+- ID: 84872 # 龙啸锋芒-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 龙啸锋芒
+- ID: 84873 # 裂天战车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 裂天战车
+- ID: 84874 # 暗匿行者-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 暗匿行者
+- ID: 85672 # 花匠小犬-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 花匠小犬
+- ID: 85919 # 寿司小太郎-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 寿司小太郎
+- ID: 85920 # 狱炎圣冰兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 狱炎圣冰兽
+- ID: 85922 # 仙宫灵鹿-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 仙宫灵鹿
+- ID: 85923 # 蒲公英仙子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 蒲公英仙子
+- ID: 85924 # 冰魄白虎-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 冰魄白虎
+- ID: 85925 # 蓝剑武士-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 蓝剑武士
+- ID: 85926 # 教练鲨先生-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 教练鲨先生
+- ID: 85927 # 绒球咩咩-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 绒球咩咩
+- ID: 85928 # 萨摩君-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 萨摩君
+- ID: 85929 # 新年萌宝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 新年萌宝
+- ID: 85930 # 新年萌宝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 新年萌宝
+- ID: 85932 # 锦衣童子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 锦衣童子
+- ID: 85933 # 珞芙猫-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 珞芙猫
+- ID: 85935 # 仙铃轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 仙铃轮滑
+- ID: 85937 # 仙铃轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 仙铃轮滑
+- ID: 85939 # 红舞狮轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 红舞狮轮滑
+- ID: 85941 # 金虎头轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 金虎头轮滑
+- ID: 85942 # 圣域大天使-T3机甲赛车 
+  Type: EAIT_CAR
+  Mess: T3机甲赛车
+  Name: 圣域大天使
+- ID: 85943 # 极影风神-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 极影风神
+- ID: 85944 # 啸天神君-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 啸天神君
+- ID: 85945 # 启灵守护神-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 启灵守护神
+- ID: 85946 # 青瓷·幻想-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 青瓷·幻想
+- ID: 85947 # 祥瑞·流火-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 祥瑞·流火
+- ID: 85948 # 玉影·疾风-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 玉影·疾风
+- ID: 85949 # 终极紫电神驹-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极紫电神驹
+- ID: 85950 # 啸天雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 啸天雷诺
+- ID: 85951 # 幻风流影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻风流影
+- ID: 85952 # 蓝魇-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝魇
+- ID: 85953 # 寒凌-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 寒凌
+- ID: 85954 # 剑影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 剑影
+- ID: 86697 # 吉利鼠小弟-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 吉利鼠小弟
+- ID: 86703 # 掌飞白勇太-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 掌飞白勇太
+- ID: 86987 # 花仙子露娜-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 花仙子露娜
+- ID: 86988 # 花精灵安迪-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 花精灵安迪
+- ID: 86989 # 魔术蛙杰克-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 魔术蛙杰克
+- ID: 86991 # 翱翔天际轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 翱翔天际轮滑
+- ID: 86993 # 粉羽甜心轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 粉羽甜心轮滑
+- ID: 86995 # 璀璨年华轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 璀璨年华轮滑
+- ID: 86997 # 黑暗暴风轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 黑暗暴风轮滑
+- ID: 86998 # 疾影M18-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 疾影M18
+- ID: 86999 # 电玩之魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 电玩之魂
+- ID: 87000 # 战绝-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 战绝
+- ID: 87001 # 赤炎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 赤炎
+- ID: 87002 # 风驰噬音-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 风驰噬音
+- ID: 87725 # 苍穹帝王-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 苍穹帝王
+- ID: 87726 # 暗狱帝王-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗狱帝王
+- ID: 87727 # 雷怒帝王-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 雷怒帝王
+- ID: 87963 # 极寒风暴-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极寒风暴
+- ID: 87964 # 极炎风暴-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极炎风暴
+- ID: 87965 # 岩流风暴-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 岩流风暴
+- ID: 88071 # 绿宝兔仙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 绿宝兔仙
+- ID: 88072 # 樱花仙子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 樱花仙子
+- ID: 88073 # 夏日橘宝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 夏日橘宝
+- ID: 88074 # 乐派猴-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 乐派猴
+- ID: 88076 # 木之本樱轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 木之本樱轮滑
+- ID: 88078 # 锡磬凉薄轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 锡磬凉薄轮滑
+- ID: 88080 # 彦虹魅影轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 彦虹魅影轮滑
+- ID: 88082 # 青靓瞳裳轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 青靓瞳裳轮滑
+- ID: 88089 # 荣耀AE86-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 荣耀AE86
+- ID: 88090 # 莱瑟K86-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 莱瑟K86
+- ID: 88683 # 战地先锋-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 战地先锋
+- ID: 88684 # 战争之主-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 战争之主
+- ID: 88685 # 深海狂鲨-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 深海狂鲨
+- ID: 88686 # 复仇豹魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 复仇豹魂
+- ID: 88691 # XTig-绝地魄-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: XTig-绝地魄
+- ID: 88692 # 昼虎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 昼虎
+- ID: 88693 # 迷影战驱-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 迷影战驱
+- ID: 88723 # 机甲test01-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 机甲test01
+- ID: 88724 # 机甲test02-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 机甲test02
+- ID: 88725 # 机甲test03-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 机甲test03
+- ID: 88726 # 机甲test04-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 机甲test04
+- ID: 88727 # 赛车test01-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 赛车test01
+- ID: 88728 # 赛车test02-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 赛车test02
+- ID: 88729 # 赛车test03-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 赛车test03
+- ID: 88730 # 赛车test04-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 赛车test04
+- ID: 88863 # 裂风机械兽-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 裂风机械兽
+- ID: 88864 # 炎舞战姬-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 炎舞战姬
+- ID: 88865 # 终极爆天甲-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极爆天甲
+- ID: 88866 # 晶凌玄夜-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 晶凌玄夜
+- ID: 88867 # 龙鳞之战-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 龙鳞之战
+- ID: 88868 # 猩红风暴-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 猩红风暴
+- ID: 88869 # 初号机-XT-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 初号机-XT
+- ID: 88870 # 星脉-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 星脉
+- ID: 88943 # 玉女潇潇-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 玉女潇潇
+- ID: 88944 # 蒙面小魔女-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 蒙面小魔女
+- ID: 88945 # 机械皮卡喵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 机械皮卡喵
+- ID: 88947 # 梦契异世轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 梦契异世轮滑
+- ID: 88949 # 梦契异世轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 梦契异世轮滑
+- ID: 88951 # 星宙极速轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 星宙极速轮滑
+- ID: 88953 # 星宙极速轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 星宙极速轮滑
+- ID: 89732 # 北冥圣鲲-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 北冥圣鲲
+- ID: 89733 # 苍穹圣鲲-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 苍穹圣鲲
+- ID: 89750 # 银天使虎牙定制款-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 银天使虎牙定制款
+- ID: 89787 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 89922 # 海滩兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 海滩兔
+- ID: 89923 # 西瓜王子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 西瓜王子
+- ID: 89924 # 奇诺船长-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 奇诺船长
+- ID: 89925 # 7号球员·白勇太-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 7号球员·白勇太
+- ID: 89927 # 疾雷暗影轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 疾雷暗影轮滑
+- ID: 89929 # 疾闪橙星轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 疾闪橙星轮滑
+- ID: 89931 # 生化科技轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 生化科技轮滑
+- ID: 89933 # 生化科技轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 生化科技轮滑
+- ID: 89934 # 死神·阿努比斯-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 死神·阿努比斯
+- ID: 89935 # 针尖守卫-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 针尖守卫
+- ID: 89936 # 终极烈焰新星-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极烈焰新星
+- ID: 89937 # 盘古之力-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 盘古之力
+- ID: 89938 # 十周年鎏金赛车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 十周年鎏金赛车
+- ID: 89939 # 星际传说-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星际传说
+- ID: 89940 # 亡灵剃刀-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 亡灵剃刀
+- ID: 89941 # 猎影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 猎影
+- ID: 89942 # 卡瑞斯帕-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 卡瑞斯帕
+- ID: 89943 # 绿冥之心-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 绿冥之心
+- ID: 90644 # 月宫小玉兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 月宫小玉兔
+- ID: 90932 # 华裳云鬟-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 华裳云鬟
+- ID: 90933 # 纨绔小正太-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 纨绔小正太
+- ID: 90934 # 赫瑞宝贝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 赫瑞宝贝
+- ID: 90937 # 摩卡迪斯轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 摩卡迪斯轮滑
+- ID: 90939 # 摩卡迪斯轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 摩卡迪斯轮滑
+- ID: 90941 # 灏然率音轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 灏然率音轮滑
+- ID: 90943 # 灏然率音轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 灏然率音轮滑
+- ID: 90944 # 吕布·奉先-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 吕布·奉先
+- ID: 90945 # 众神之神-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 众神之神
+- ID: 90946 # 赛博朋克-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赛博朋克
+- ID: 90947 # 幽影骇客-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幽影骇客
+- ID: 90948 # 夜蝠-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 夜蝠
+- ID: 90949 # 科尔维特-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 科尔维特
+- ID: 90950 # 德奥卡特-V9-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 德奥卡特-V9
+- ID: 91068 # 极速灵狐-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极速灵狐
+- ID: 91069 # 极魂猎豹-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极魂猎豹
+- ID: 91070 # 傲势猎鹰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 傲势猎鹰
+- ID: 91720 # 超时空穿梭者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 超时空穿梭者
+- ID: 91945 # 赏金猫女郎-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 赏金猫女郎
+- ID: 91946 # 排球狐宝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 排球狐宝
+- ID: 91947 # 狸猫侠士-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 狸猫侠士
+- ID: 91948 # 灵鼓虎王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 灵鼓虎王
+- ID: 91950 # 鱼唇之吻轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 鱼唇之吻轮滑
+- ID: 91952 # 鱼唇之吻轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 鱼唇之吻轮滑
+- ID: 91954 # 遥望星空轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 遥望星空轮滑
+- ID: 91956 # 遥望星空轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 遥望星空轮滑
+- ID: 91957 # 终极银天使-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极银天使
+- ID: 91958 # 霸天堡垒-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 霸天堡垒
+- ID: 91959 # 圣剑骑士-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 圣剑骑士
+- ID: 91960 # 东方之龙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 东方之龙
+- ID: 91961 # 残月晓风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 残月晓风
+- ID: 91962 # 泣血-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 泣血
+- ID: 91963 # 红缨-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红缨
+- ID: 91964 # 尘影御风-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 尘影御风
+- ID: 92809 # 艾萌兔兔酱-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 艾萌兔兔酱
+- ID: 92810 # 时光爱丽丝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 时光爱丽丝
+- ID: 92811 # 翰辰龙王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 翰辰龙王
+- ID: 92812 # 竹取豚鼠-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 竹取豚鼠
+- ID: 92813 # 太空嘻哈猴-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 太空嘻哈猴
+- ID: 92814 # 园丁旦旦-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 园丁旦旦
+- ID: 92834 # 继海往梦轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 继海往梦轮滑
+- ID: 92836 # 继海往梦轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 继海往梦轮滑
+- ID: 92838 # 巅峰电音轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 巅峰电音轮滑
+- ID: 92840 # 巅峰电音轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 巅峰电音轮滑
+- ID: 92841 # 幽冥剑圣-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 幽冥剑圣
+- ID: 92842 # 异星探索者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 异星探索者
+- ID: 92843 # 火神之翼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 火神之翼
+- ID: 92844 # 魂魇暗夜-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 魂魇暗夜
+- ID: 92845 # 苍穹之蓝-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 苍穹之蓝
+- ID: 92846 # 血煞-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 血煞
+- ID: 92847 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 92848 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 92849 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 92852 # 白玉神驹-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 白玉神驹
+- ID: 93347 # 双人车红-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 双人车红
+- ID: 93348 # 双人车黄-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 双人车黄
+- ID: 93349 # 双人车蓝-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 双人车蓝
+- ID: 93403 # 护航兔-11-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 护航兔-11
+- ID: 93549 # 凝露精灵珞丽丝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 凝露精灵珞丽丝
+- ID: 93550 # 圣鸢天使艾思睿-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 圣鸢天使艾思睿
+- ID: 93551 # 霸气金枭-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 霸气金枭
+- ID: 93552 # 丰收树灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 丰收树灵
+- ID: 93553 # 猪猪船长-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 猪猪船长
+- ID: 93554 # 招财哈士奇-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 招财哈士奇
+- ID: 93555 # 梅灵婉香-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 梅灵婉香
+- ID: 93566 # 迷迭空间轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 迷迭空间轮滑
+- ID: 93568 # 迷迭空间轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 迷迭空间轮滑
+- ID: 93570 # 寻影逐梦轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 寻影逐梦轮滑
+- ID: 93572 # 寻影逐梦轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 寻影逐梦轮滑
+- ID: 93573 # 凌云战机-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 凌云战机
+- ID: 93574 # 电玩雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 电玩雷诺
+- ID: 93575 # 东方圣诞-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 东方圣诞
+- ID: 93576 # 时之沧影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 时之沧影
+- ID: 93577 # 凌天-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 凌天
+- ID: 93578 # 铁血悍将-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 铁血悍将
+- ID: 93579 # 紫魅-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 紫魅
+- ID: 94371 # 威霸天-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 威霸天
+- ID: 94396 # 幻粼猛禽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻粼猛禽
+- ID: 94397 # 疾蓝之翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 疾蓝之翼
+- ID: 94425 # 绝地王灵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 绝地王灵
+- ID: 94428 # 测试用S-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 测试用S
+- ID: 94600 # 新春小猪-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 新春小猪
+- ID: 94811 # 电玩少女-哆咪酱-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 电玩少女-哆咪酱
+- ID: 94812 # 机械暴龙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 机械暴龙
+- ID: 94813 # 暗豹法老-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 暗豹法老
+- ID: 94814 # 海盗猪小弟-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 海盗猪小弟
+- ID: 94815 # 战甲机械猪-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 战甲机械猪
+- ID: 94816 # 梦幻魔龙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 梦幻魔龙
+- ID: 94827 # 部落射手小分队-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 部落射手小分队
+- ID: 94829 # 花神精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 花神精灵
+- ID: 94831 # 彩虹小猪轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 彩虹小猪轮滑
+- ID: 94833 # 彩虹小猪轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 彩虹小猪轮滑
+- ID: 94835 # 魅梦轮回轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 魅梦轮回轮滑
+- ID: 94837 # 魅梦轮回轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 魅梦轮回轮滑
+- ID: 94838 # 上古魔尊-T3机甲赛车 
+  Type: EAIT_CAR
+  Mess: T3机甲赛车
+  Name: 上古魔尊
+- ID: 94839 # 纪元女神-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 纪元女神
+- ID: 94840 # 无效ID-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 无效ID
+- ID: 94841 # 冠军之魄-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 冠军之魄
+- ID: 94842 # 无垠·幻想-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 无垠·幻想
+- ID: 94843 # 如影·疾风-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 如影·疾风
+- ID: 94844 # 世尘·流火-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 世尘·流火
+- ID: 94845 # 荣耀战狮-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 荣耀战狮
+- ID: 94846 # 天蓬雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 天蓬雷诺
+- ID: 94847 # 大橘车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 大橘车
+- ID: 94848 # 粉红闪电-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 粉红闪电
+- ID: 94849 # 测试用雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 测试用雷诺
+- ID: 94912 # 俏皮小曲童-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 俏皮小曲童
+- ID: 95660 # 地狱神影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 地狱神影
+- ID: 95671 # 午后茶会爱丽丝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 午后茶会爱丽丝
+- ID: 95672 # 侦探小分队-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 侦探小分队
+- ID: 95673 # 印第安猪猪-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 印第安猪猪
+- ID: 95675 # 汪星畅想轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 汪星畅想轮滑
+- ID: 95677 # 喵星幻想轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 喵星幻想轮滑
+- ID: 95679 # 宫廷御刃轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 宫廷御刃轮滑
+- ID: 95681 # 花落纷良轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 花落纷良轮滑
+- ID: 95682 # 剃刀守卫-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 剃刀守卫
+- ID: 95683 # 海神之戟-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 海神之戟
+- ID: 95684 # 璀璨之星-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 璀璨之星
+- ID: 95685 # 骇客-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 骇客
+- ID: 95686 # 银魅冰焰-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银魅冰焰
+- ID: 95687 # 金色流光-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金色流光
+- ID: 95688 # 圣焰使者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 圣焰使者
+- ID: 95751 # 赤链之蛇-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赤链之蛇
+- ID: 96447 # 学院小橘子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 学院小橘子
+- ID: 96480 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 96610 # 炽狼之影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 炽狼之影
+- ID: 96679 # K-荣耀王爵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: K-荣耀王爵
+- ID: 96771 # 猫女小护士-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 猫女小护士
+- ID: 96772 # 柠趣喵小妹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 柠趣喵小妹
+- ID: 96773 # 柠趣喵小弟-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 柠趣喵小弟
+- ID: 96774 # 百步穿杨小蓝帽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 百步穿杨小蓝帽
+- ID: 96775 # 酣睡小梦魔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 酣睡小梦魔
+- ID: 96777 # 西部牛仔轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 西部牛仔轮滑
+- ID: 96779 # 西部女郎轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 西部女郎轮滑
+- ID: 96781 # 风落羽伤轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 风落羽伤轮滑
+- ID: 96783 # 风落花溅轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 风落花溅轮滑
+- ID: 96784 # 纪元武神-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 纪元武神
+- ID: 96785 # 光明之神-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 光明之神
+- ID: 96786 # 绿茵王者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 绿茵王者
+- ID: 96787 # 地狱F22-猛禽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 地狱F22-猛禽
+- ID: 96788 # 破晓者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 破晓者
+- ID: 96789 # 银剑-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银剑
+- ID: 96790 # 极速超越-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 极速超越
+- ID: 97431 # 雷电神王-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 雷电神王
+- ID: 97474 # 剧情S橘子-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 剧情S橘子
+- ID: 97475 # 剧情S白永泰-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 剧情S白永泰
+- ID: 97476 # 剧情S镜-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 剧情S镜
+- ID: 97535 # 星河猎手-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星河猎手
+- ID: 97556 # 星之天狼-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 星之天狼
+- ID: 98261 # 武圣·关云长-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 武圣·关云长
+- ID: 98262 # 萌猪骑士-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 萌猪骑士
+- ID: 98263 # 黑曼巴-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 黑曼巴
+- ID: 98264 # 漫步者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 漫步者
+- ID: 98265 # 魅影王爵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 魅影王爵
+- ID: 98266 # 破浪者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 破浪者
+- ID: 98267 # 地狱银天使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 地狱银天使
+- ID: 98268 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 98269 # 蔚空之蓝-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蔚空之蓝
+- ID: 98270 # 橘神风暴-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 橘神风暴
+- ID: 98272 # 烈火如新轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 烈火如新轮滑
+- ID: 98274 # 烈火如新轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 烈火如新轮滑
+- ID: 98276 # 天使恶魔轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 天使恶魔轮滑
+- ID: 98278 # 天使恶魔轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 天使恶魔轮滑
+- ID: 98339 # 河童精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 河童精灵
+- ID: 98340 # 绮梦精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 绮梦精灵
+- ID: 98341 # 水手鸽小妹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 水手鸽小妹
+- ID: 98637 # 地狱雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 地狱雷诺
+- ID: 98790 # 天蓬元帅-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 天蓬元帅
+- ID: 98791 # 白翎雀王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 白翎雀王
+- ID: 98792 # 草莓小妹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 草莓小妹
+- ID: 98793 # 銮星占卜师-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 銮星占卜师
+- ID: 98819 # 萌乔小鹿轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 萌乔小鹿轮滑
+- ID: 98821 # 萌乔小鹿轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 萌乔小鹿轮滑
+- ID: 98823 # 暗夜角骑士轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 暗夜角骑士轮滑
+- ID: 98825 # 星栾独角兽轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 星栾独角兽轮滑
+- ID: 98826 # 猪八戒-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 猪八戒
+- ID: 98827 # 天启守卫-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 天启守卫
+- ID: 98828 # 怒海狂鲨-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 怒海狂鲨
+- ID: 98829 # 海洋之神-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 海洋之神
+- ID: 98830 # 爆天雷诺-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 爆天雷诺
+- ID: 98831 # 炽焰风华-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 炽焰风华
+- ID: 98832 # 星际魔坦-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星际魔坦
+- ID: 98833 # 嫦娥-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 嫦娥
+- ID: 98834 # 极速神音-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极速神音
+- ID: 98835 # 甜蜜旋风-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 甜蜜旋风
+- ID: 98836 # 极速梦想-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 极速梦想
+- ID: 98837 # 暗黑影爵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗黑影爵
+- ID: 98838 # 虎牙先锋-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 虎牙先锋
+- ID: 99629 # 星舞者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星舞者
+- ID: 99841 # 暗秋魅影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗秋魅影
+- ID: 99844 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 100035 # 迷幻海妖-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 迷幻海妖
+- ID: 100036 # 幽冥玄武-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 幽冥玄武
+- ID: 100037 # 海豹嘟嘟-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 海豹嘟嘟
+- ID: 100039 # 青柠萌心-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 青柠萌心
+- ID: 100041 # 柠乐青春-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 柠乐青春
+- ID: 100043 # 蓝星羽捷轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 蓝星羽捷轮滑
+- ID: 100045 # 蓝星羽捷轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 蓝星羽捷轮滑
+- ID: 100046 # 无效ID-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 无效ID
+- ID: 100047 # 暗夜猎魔兽-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 暗夜猎魔兽
+- ID: 100048 # 净坛使者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 净坛使者
+- ID: 100049 # 星际战舰-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 星际战舰
+- ID: 100050 # 追光者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 追光者
+- ID: 100051 # 时空之翼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 时空之翼
+- ID: 100052 # 蓝冰风暴-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蓝冰风暴
+- ID: 100053 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 100054 # 蓝色彗星-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝色彗星
+- ID: 100055 # 魅火战车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 魅火战车
+- ID: 100669 # 圣金剃刀-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 圣金剃刀
+- ID: 100793 # K-荣耀影爵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: K-荣耀影爵
+- ID: 100853 # 极星公主米娜-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 极星公主米娜
+- ID: 100854 # 大队长洋洋-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 大队长洋洋
+- ID: 100855 # 花嫁丽娜-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 花嫁丽娜
+- ID: 100857 # 无效ID-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 无效ID
+- ID: 100859 # 无效ID-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 无效ID
+- ID: 100861 # 蝶羽幻影轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 蝶羽幻影轮滑
+- ID: 100863 # 蝶羽幻影轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 蝶羽幻影轮滑
+- ID: 100899 # 12周年纪念卓越-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 12周年纪念卓越
+- ID: 101884 # 强袭装甲-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 强袭装甲
+- ID: 101885 # 终极黑域电魔-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极黑域电魔
+- ID: 101886 # 12周年赛车-圣耀-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 12周年赛车-圣耀
+- ID: 101887 # 暗-天蓬-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗-天蓬
+- ID: 101888 # 圣堂使者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 圣堂使者
+- ID: 101889 # 极鼠先锋-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极鼠先锋
+- ID: 101890 # 蓝蒂超跑-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝蒂超跑
+- ID: 101891 # 红蒂超跑-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红蒂超跑
+- ID: 101892 # 无效ID-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 无效ID
+- ID: 101995 # 新春枫华轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 新春枫华轮滑
+- ID: 101997 # 新春枫华轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 新春枫华轮滑
+- ID: 101998 # 魔术师新春版-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 魔术师新春版
+- ID: 101999 # 大黄鸭-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 大黄鸭
+- ID: 102012 # 新春福运鼠-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 新春福运鼠
+- ID: 102195 # 圣光大天使-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 圣光大天使
+- ID: 102196 # 鸿运春鲤-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 鸿运春鲤
+- ID: 102197 # 子鼠灵韵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 子鼠灵韵
+- ID: 102198 # 乐享舞狮队-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 乐享舞狮队
+- ID: 102199 # 浪漫花童-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 浪漫花童
+- ID: 102200 # 机械鼠小弟-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 机械鼠小弟
+- ID: 102201 # 武士犬奇奇-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 武士犬奇奇
+- ID: 102202 # 神龟阿忍-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 神龟阿忍
+- ID: 102203 # 御龙魔法师-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 御龙魔法师
+- ID: 102216 # 柯跶战纪轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 柯跶战纪轮滑
+- ID: 102218 # 柯跶战纪轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 柯跶战纪轮滑
+- ID: 102219 # 圣殿剑魂-T3机甲赛车 
+  Type: EAIT_CAR
+  Mess: T3机甲赛车
+  Name: 圣殿剑魂
+- ID: 102220 # 先锋雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 先锋雷诺
+- ID: 102221 # 霹雳鼠卫-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 霹雳鼠卫
+- ID: 102222 # 无效ID-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 无效ID
+- ID: 102223 # 灵岚·幻想-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 灵岚·幻想
+- ID: 102224 # 绯炽·流火-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 绯炽·流火
+- ID: 102225 # 青遥·疾风-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 青遥·疾风
+- ID: 102226 # 狱火啸天-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 狱火啸天
+- ID: 102227 # 迅捷流星-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 迅捷流星
+- ID: 102228 # 逆鳞风斩-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 逆鳞风斩
+- ID: 102229 # 驰影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 驰影
+- ID: 102230 # 紫晶穿梭者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 紫晶穿梭者
+- ID: 102937 # 地狱龙王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 地狱龙王
+- ID: 102951 # 双子守护者-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 双子守护者
+- ID: 103025 # 迅影黄蜂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 迅影黄蜂
+- ID: 103027 # 电音悠比-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 电音悠比
+- ID: 103164 # SSC-墨蓝魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: SSC-墨蓝魂
+- ID: 103404 # 喜乐汤圆-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 喜乐汤圆
+- ID: 103405 # 伊贺忍狐-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 伊贺忍狐
+- ID: 103406 # 导弹萌龙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 导弹萌龙
+- ID: 103408 # 异次风纪轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 异次风纪轮滑
+- ID: 103410 # 异次原樱轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 异次原樱轮滑
+- ID: 104127 # 未来女警-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 未来女警
+- ID: 104128 # 雷诺守卫-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 雷诺守卫
+- ID: 104129 # X-争锋者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: X-争锋者
+- ID: 104130 # 无双·赵子龙-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 无双·赵子龙
+- ID: 104131 # 作废ID-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 作废ID
+- ID: 104132 # 飓风雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飓风雷诺
+- ID: 104133 # 龙飞凤舞-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 龙飞凤舞
+- ID: 104134 # 恋羽之翼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 恋羽之翼
+- ID: 104135 # 方天画戟-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 方天画戟
+- ID: 104136 # 沧海-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 沧海
+- ID: 104137 # 苍穹绝影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 苍穹绝影
+- ID: 104138 # 银鼠魅影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 银鼠魅影
+- ID: 104139 # 冲锋战车-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 冲锋战车
+- ID: 104496 # 无效ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无效ID
+- ID: 104738 # 炽焰机甲龙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 炽焰机甲龙
+- ID: 104739 # 小吕布-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小吕布
+- ID: 104740 # 沁灵雪女-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 沁灵雪女
+- ID: 104742 # 暗曜伯爵轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 暗曜伯爵轮滑
+- ID: 104744 # 哥特萝莉轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 哥特萝莉轮滑
+- ID: 105423 # 赤焰修罗-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 赤焰修罗
+- ID: 105424 # 裂空之翼-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 裂空之翼
+- ID: 105425 # 魅影M20-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 魅影M20
+- ID: 105426 # 都市之影-XP-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 都市之影-XP
+- ID: 105427 # 彩虹独角兽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 彩虹独角兽
+- ID: 105428 # 粉红女郎超跑-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 粉红女郎超跑
+- ID: 105429 # 地狱霸天虎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 地狱霸天虎
+- ID: 105605 # 极影之星-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 极影之星
+- ID: 106558 # 游鸿蓝鲸-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 游鸿蓝鲸
+- ID: 106559 # 芙蓉仙子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 芙蓉仙子
+- ID: 106560 # 沙滩小分队-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 沙滩小分队
+- ID: 106561 # 妖狐武士-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 妖狐武士
+- ID: 106562 # 恶魔小侦探-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 恶魔小侦探
+- ID: 106563 # 辛巴狮王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 辛巴狮王
+- ID: 106569 # 极光花语-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 极光花语
+- ID: 106571 # 极光破冰-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 极光破冰
+- ID: 106673 # 智慧之神-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 智慧之神
+- ID: 106674 # 至尊·爆天甲-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 至尊·爆天甲
+- ID: 106675 # 终极众神之神-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 终极众神之神
+- ID: 106676 # 至尊·盘龙-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 至尊·盘龙
+- ID: 106677 # 白龙马-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 白龙马
+- ID: 106678 # 黄蜂特警-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 黄蜂特警
+- ID: 106679 # SPEED幻影20-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: SPEED幻影20
+- ID: 106680 # 疯狂二哈-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 疯狂二哈
+- ID: 106681 # K-荣耀之光-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: K-荣耀之光
+- ID: 106682 # 超能橘猫-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 超能橘猫
+- ID: 106683 # 赛博战士-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赛博战士
+- ID: 106684 # 星辰之语-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星辰之语
+- ID: 106685 # 暗夜金刚狼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 暗夜金刚狼
+- ID: 106686 # 夏日大Q吧-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 夏日大Q吧
+- ID: 106938 # 贪食玉兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 贪食玉兔
+- ID: 106939 # 先行者雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 先行者雷诺
+- ID: 106998 # SSC-蓝境星矢-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: SSC-蓝境星矢
+- ID: 107362 # 旋风少女-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 旋风少女
+- ID: 107363 # 天堂之音-里拉-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 天堂之音-里拉
+- ID: 107364 # 枭教授-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 枭教授
+- ID: 107366 # 夏日橙橘轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 夏日橙橘轮滑
+- ID: 107368 # 冰镇西瓜轮滑-K1级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K1级轮滑
+  Name: 冰镇西瓜轮滑
+- ID: 107369 # 恶灵骑士-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 恶灵骑士
+- ID: 107370 # 至尊·麦凯伦-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 至尊·麦凯伦
+- ID: 107371 # F22-雷霆万钧-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: F22-雷霆万钧
+- ID: 107372 # AK47·战影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: AK47·战影
+- ID: 107373 # 逐星者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 逐星者
+- ID: 107374 # 超灵速跑-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 超灵速跑
+- ID: 107375 # 红岩之翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 红岩之翼
+- ID: 107376 # 测试ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 测试ID
+- ID: 107398 # 测试作废ID-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 测试作废ID
+- ID: 108325 # 黔灵-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黔灵
+- ID: 108338 # 恶灵骑士摩托车-M3级摩托 
+  Type: EAIT_CAR
+  Mess: M3级摩托
+  Name: 恶灵骑士摩托车
+- ID: 108454 # 双生幽狼-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 双生幽狼
+- ID: 108455 # 北极兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 北极兔
+- ID: 108456 # 神笔牛牛-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 神笔牛牛
+- ID: 108457 # 正义兔女侠-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 正义兔女侠
+- ID: 108458 # 小貂蝉-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小貂蝉
+- ID: 108459 # 幽山雪豹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 幽山雪豹
+- ID: 109298 # 利刃天狼-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 利刃天狼
+- ID: 109299 # 代达罗斯-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 代达罗斯
+- ID: 109301 # 加特林·暴风-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 加特林·暴风
+- ID: 109302 # 天翼直升机-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 天翼直升机
+- ID: 109303 # 劳斯莱斯QEX-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 劳斯莱斯QEX
+- ID: 109304 # 蓝影主宰-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蓝影主宰
+- ID: 109305 # 劳斯莱斯曜影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 劳斯莱斯曜影
+- ID: 109306 # K-夜之陨星-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: K-夜之陨星
+- ID: 109350 # 迈凯伦600LT-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 迈凯伦600LT
+- ID: 109392 # 酷酷淡紫轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 酷酷淡紫轮滑
+- ID: 109394 # 萌萌渐影轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 萌萌渐影轮滑
+- ID: 109396 # 御风歌者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 御风歌者
+- ID: 109419 # 青瓷牛牛-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 青瓷牛牛
+- ID: 109553 # 暗影主宰-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 暗影主宰
+- ID: 109554 # 幻魅双生子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 幻魅双生子
+- ID: 109555 # 月蛾仙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 月蛾仙
+- ID: 109556 # 哪吒三太子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 哪吒三太子
+- ID: 109557 # 小白龙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小白龙
+- ID: 109559 # 梦幻精灵卡子件-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 梦幻精灵卡子件
+- ID: 109560 # 圣域炽天使-T3机甲赛车 
+  Type: EAIT_CAR
+  Mess: T3机甲赛车
+  Name: 圣域炽天使
+- ID: 109561 # 刀锋武姬-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 刀锋武姬
+- ID: 109562 # 红莲骑士-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 红莲骑士
+- ID: 109563 # 至尊·涅槃-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 至尊·涅槃
+- ID: 109564 # 魔王雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 魔王雷诺
+- ID: 109565 # 春影龙翱-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 春影龙翱
+- ID: 109566 # 飞剑太白-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 飞剑太白
+- ID: 109567 # 神风玉堂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 神风玉堂
+- ID: 109568 # 星空猎手-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星空猎手
+- ID: 109569 # 裁决者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 裁决者
+- ID: 109570 # 空天猎霸-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 空天猎霸
+- ID: 109571 # 赛博销魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赛博销魂
+- ID: 109572 # 夕年-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 夕年
+- ID: 109573 # 王权富贵剑-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 王权富贵剑
+- ID: 109574 # 魔王骑士-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 魔王骑士
+- ID: 110709 # 爆天甲-朋克-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天甲-朋克
+- ID: 110710 # 至尊-冰凤-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 至尊-冰凤
+- ID: 110711 # 众神之神-麒麟-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 众神之神-麒麟
+- ID: 110713 # 雪域王座轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 雪域王座轮滑
+- ID: 110715 # 冰雪奇缘轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冰雪奇缘轮滑
+- ID: 110872 # 新春神影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 新春神影
+- ID: 110880 # T3座椅-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: T3座椅
+- ID: 112107 # 锦鲤仙子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 锦鲤仙子
+- ID: 112108 # 雪山鹿灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雪山鹿灵
+- ID: 112109 # 傲世青龙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 傲世青龙
+- ID: 112174 # 跳跳派对车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 跳跳派对车
+- ID: 112175 # 圣辉骑士-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 圣辉骑士
+- ID: 112176 # 冥王·哈迪斯-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 冥王·哈迪斯
+- ID: 112177 # 血月猛禽-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 血月猛禽
+- ID: 112178 # 暗黑波塞冬-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 暗黑波塞冬
+- ID: 112179 # 绿冥刺客-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 绿冥刺客
+- ID: 112180 # 永夜尊主-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 永夜尊主
+- ID: 112181 # 神圣雅典娜-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 神圣雅典娜
+- ID: 112182 # 烈魂者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 烈魂者
+- ID: 112183 # 射手座黄金圣衣-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 射手座黄金圣衣
+- ID: 112184 # 德国小斑马-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 德国小斑马
+- ID: 112185 # 黑武者-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 黑武者
+- ID: 112220 # 紫晶幻梦轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 紫晶幻梦轮滑
+- ID: 112222 # 炫金狂想轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 炫金狂想轮滑
+- ID: 112277 # 圣斗士星矢-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 圣斗士星矢
+- ID: 112695 # 未来之光-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 未来之光
+- ID: 112894 # HelloKitty猫-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: HelloKitty猫
+- ID: 112895 # 赏金猎人-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 赏金猎人
+- ID: 112896 # 白泽仙兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 白泽仙兽
+- ID: 112898 # 流火炫金轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 流火炫金轮滑
+- ID: 112900 # 流火炫金轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 流火炫金轮滑
+- ID: 113412 # 沙悟净-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 沙悟净
+- ID: 113413 # S青龙偃月刀-关羽-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: S青龙偃月刀-关羽
+- ID: 113414 # 射手座-艾俄罗斯-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 射手座-艾俄罗斯
+- ID: 113415 # 智慧之神Kitty限定-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 智慧之神Kitty限定
+- ID: 113416 # HelloKitty雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: HelloKitty雷诺
+- ID: 113417 # 蓝隐神使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蓝隐神使
+- ID: 113418 # 星夜之翼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 星夜之翼
+- ID: 113419 # 雾夜之星-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 雾夜之星
+- ID: 113672 # 派对-超能橘猫-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 派对-超能橘猫
+- ID: 113673 # 熊猫-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 熊猫
+- ID: 113674 # 派对-疯狂二哈-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 派对-疯狂二哈
+- ID: 113675 # 海盗-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 海盗
+- ID: 113676 # 派对-异星探索者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 派对-异星探索者
+- ID: 113677 # 派对-赤涡黑轮-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 派对-赤涡黑轮
+- ID: 113678 # 派对-地狱F22-猛禽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 派对-地狱F22-猛禽
+- ID: 113679 # 恶灵骑士摩托车-M3级摩托 
+  Type: EAIT_CAR
+  Mess: M3级摩托
+  Name: 恶灵骑士摩托车
+- ID: 113680 # 酷橙滑板-L2级滑板 
+  Type: EAIT_CAR 
+  GameType: 1
+  Mess: L2级滑板
+  Name: 酷橙滑板
+- ID: 113681 # 破天-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 破天
+- ID: 113682 # 飞天魔毯-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 飞天魔毯
+- ID: 113683 # 飞碟-C级赛车 
+  Type: EAIT_CAR
+  Mess: C级赛车
+  Name: 飞碟
+- ID: 113906 # 仙兽-白虎-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 仙兽-白虎
+- ID: 113907 # 花木兰-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 花木兰
+- ID: 113908 # 毛球小花仙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 毛球小花仙
+- ID: 113909 # 苗族阿妹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 苗族阿妹
+- ID: 113910 # 小关羽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小关羽
+- ID: 113911 # 甜筒小兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 甜筒小兔
+- ID: 115156 # 黄金射手座-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 黄金射手座
+- ID: 115157 # 暗黑孙悟空-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 暗黑孙悟空
+- ID: 115158 # 光明守卫-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 光明守卫
+- ID: 115159 # 黑域电魔-张飞-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 黑域电魔-张飞
+- ID: 115160 # 至曜·玄武-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 至曜·玄武
+- ID: 115161 # 逐浪火烈鸟-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 逐浪火烈鸟
+- ID: 115162 # 海派甜心-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 海派甜心
+- ID: 115163 # 鹊桥仙-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 鹊桥仙
+- ID: 115164 # 兰博基尼·传奇-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 兰博基尼·传奇
+- ID: 115165 # 千变罗刹-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 千变罗刹
+- ID: 115166 # 爆天雪-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 爆天雪
+- ID: 115167 # 月光女神X-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 月光女神X
+- ID: 115168 # 奔雷圣卫-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 奔雷圣卫
+- ID: 115170 # 清宫阿哥K2轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 清宫阿哥K2轮滑
+- ID: 115172 # 清宫格格K2轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 清宫格格K2轮滑
+- ID: 115177 # 虹刺-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 虹刺
+- ID: 115178 # 纸盒恐龙-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 纸盒恐龙
+- ID: 115336 # 作废ID-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 作废ID
+- ID: 115359 # 雷诺传奇皮肤测试-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 雷诺传奇皮肤测试
+- ID: 115423 # 三星堆青铜卫士-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 三星堆青铜卫士
+- ID: 115749 # 笔墨扶摇-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 笔墨扶摇
+- ID: 115750 # 笔墨丹青-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 笔墨丹青
+- ID: 115751 # 汪汪激斗犬-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 汪汪激斗犬
+- ID: 116729 # 纪元光影轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 纪元光影轮滑
+- ID: 116731 # 纪元光影轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 纪元光影轮滑
+- ID: 116732 # 暗黑牛魔王-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 暗黑牛魔王
+- ID: 116733 # 速战先锋-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 速战先锋
+- ID: 116734 # 爆天电魔-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 爆天电魔
+- ID: 116735 # 爆天甲-黄忠-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天甲-黄忠
+- ID: 116736 # 踏云鹿灵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 踏云鹿灵
+- ID: 116737 # 暗影遮天-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗影遮天
+- ID: 116738 # 卧龙雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 卧龙雷诺
+- ID: 116739 # 天行者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 天行者
+- ID: 116740 # 黑夜传说-曜影-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 黑夜传说-曜影
+- ID: 116741 # 川麻高手-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 川麻高手
+- ID: 116742 # 睡梦阿狸-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 睡梦阿狸
+- ID: 116799 # 童梦穿梭者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 童梦穿梭者
+- ID: 116904 # 浮梦飞马-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 浮梦飞马
+- ID: 116905 # 英勇小海盗-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 英勇小海盗
+- ID: 116906 # 侦探少女-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 侦探少女
+- ID: 116907 # 活力阿狸-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 活力阿狸
+- ID: 116908 # 哮天犬-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 哮天犬
+- ID: 116909 # 申公豹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 申公豹
+- ID: 116910 # 牛魔王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 牛魔王
+- ID: 116911 # 小赵云-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小赵云
+- ID: 116912 # 小张飞-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小张飞
+- ID: 116913 # 吉祥小虎-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 吉祥小虎
+- ID: 117929 # 黑蝠冥影轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 黑蝠冥影轮滑
+- ID: 117931 # 黑蝠冥影轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 黑蝠冥影轮滑
+- ID: 117932 # 作废id-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 作废id
+- ID: 117933 # 战神天马-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 战神天马
+- ID: 117934 # 麦凯伦-赵云-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 麦凯伦-赵云
+- ID: 117935 # 战争之神-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 战争之神
+- ID: 117936 # 甜心狸想-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 甜心狸想
+- ID: 117937 # 灵鹿雪橇-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 灵鹿雪橇
+- ID: 117938 # 阿斯拉达-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 阿斯拉达
+- ID: 117939 # 凰呀-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 凰呀
+- ID: 117940 # 伊修扎克-兰德尔-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 伊修扎克-兰德尔
+- ID: 117941 # 众神之神-星云-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 众神之神-星云
+- ID: 117942 # 伊修扎克-新条-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 伊修扎克-新条
+- ID: 117943 # 鎏金玉魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 鎏金玉魂
+- ID: 117944 # 赤焰天启-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赤焰天启
+- ID: 117945 # 冥霄-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 冥霄
+- ID: 117946 # 幻蓝啸影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 幻蓝啸影
+- ID: 118402 # 缤纷独角兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 缤纷独角兽
+- ID: 118638 # 双生战姬-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 双生战姬
+- ID: 118643 # N-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: N
+- ID: 118727 # 爆天·曜影-黑白-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天·曜影-黑白
+- ID: 118728 # 爆天·曜影-中阶-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天·曜影-中阶
+- ID: 118729 # 爆天·曜影-高阶-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天·曜影-高阶
+- ID: 118739 # 旺旺-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 旺旺
+- ID: 118740 # 浪味仙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 浪味仙
+- ID: 118864 # 雪宝-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雪宝
+- ID: 118968 # 小马超-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小马超
+- ID: 118969 # 小黄忠-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小黄忠
+- ID: 118970 # 雪凝公主-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 雪凝公主
+- ID: 119058 # 上古之神-T3机甲赛车 
+  Type: EAIT_CAR
+  Mess: T3机甲赛车
+  Name: 上古之神
+- ID: 119059 # 至曜·影虎-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 至曜·影虎
+- ID: 119060 # 白金虎王-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 白金虎王
+- ID: 119061 # 幻音女王-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 幻音女王
+- ID: 119062 # 针尖王者-马超-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 针尖王者-马超
+- ID: 119063 # 至曜-耀虎-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 至曜-耀虎
+- ID: 119064 # 爆天雷诺-黑金-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-黑金
+- ID: 119065 # 爆天雷诺-绯红-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-绯红
+- ID: 119066 # 爆天雷诺-冰蓝-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-冰蓝
+- ID: 119067 # 特洛伊之眼-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 特洛伊之眼
+- ID: 119068 # 布亦乐虎-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 布亦乐虎
+- ID: 119069 # 旺旺-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 旺旺
+- ID: 119070 # 蓝翔挖掘机-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 蓝翔挖掘机
+- ID: 119071 # 神威战虎-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 神威战虎
+- ID: 119072 # 幽灵海盗船-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幽灵海盗船
+- ID: 119073 # 虎跃祥云-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 虎跃祥云
+- ID: 119074 # 虎王雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 虎王雷诺
+- ID: 119075 # 小橘子专属A车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 小橘子专属A车
+- ID: 119076 # 缤纷神驹-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 缤纷神驹
+- ID: 119077 # SPD女团-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: SPD女团
+- ID: 119078 # 闹春小虎队-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 闹春小虎队
+- ID: 119079 # 无效ID-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 无效ID
+- ID: 119080 # 无效ID-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 无效ID
+- ID: 120180 # 甜果公主精灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 甜果公主精灵
+- ID: 120243 # 天梦之翎轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 天梦之翎轮滑
+- ID: 120245 # 天梦之翎轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 天梦之翎轮滑
+- ID: 120246 # 爆天-曜影-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天-曜影
+- ID: 120247 # 爆天-曜影-黑红-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天-曜影-黑红
+- ID: 120248 # 爆天-曜影-蓝绿-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天-曜影-蓝绿
+- ID: 120280 # 菜狗-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 菜狗
+- ID: 120281 # 香菇貂-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 香菇貂
+- ID: 120639 # 电玩小子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 电玩小子
+- ID: 120640 # 赤炎干将-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 赤炎干将
+- ID: 120641 # 春之神句芒-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 春之神句芒
+- ID: 120643 # 鎏龙翡影-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 鎏龙翡影
+- ID: 120645 # 鎏龙翡影-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 鎏龙翡影
+- ID: 120646 # 镇海之戟-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 镇海之戟
+- ID: 120647 # 春樱舞者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 春樱舞者
+- ID: 120648 # 暗羽魔影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗羽魔影
+- ID: 120649 # 句芒光影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 句芒光影
+- ID: 120650 # 幻橙疾影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻橙疾影
+- ID: 120651 # 无尽狱甲-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 无尽狱甲
+- ID: 120652 # 御炎神兵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 御炎神兵
+- ID: 120653 # 金刚铠影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 金刚铠影
+- ID: 120654 # 萌菜出击-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 萌菜出击
+- ID: 120655 # 黄金神兽装甲-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 黄金神兽装甲
+- ID: 120656 # 镇魔天王-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 镇魔天王
+- ID: 120657 # 智慧之神-句芒-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 智慧之神-句芒
+- ID: 121861 # 电玩特工-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 电玩特工
+- ID: 121862 # SSC-银天使-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: SSC-银天使
+- ID: 121863 # 火箭-高级-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 火箭-高级
+- ID: 121864 # 追星者-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 追星者
+- ID: 122192 # 宇航员-吉兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 宇航员-吉兔
+- ID: 122193 # 夏之神祝融-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 夏之神祝融
+- ID: 122194 # 避水金睛兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 避水金睛兽
+- ID: 122195 # 奇趣喵星-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 奇趣喵星
+- ID: 122196 # 至尊帝王·心悦会员-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 至尊帝王·心悦会员
+- ID: 122197 # 星际探索者-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 星际探索者
+- ID: 122198 # 神威·马超-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 神威·马超
+- ID: 122199 # 众神之神-哪吒-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 众神之神-哪吒
+- ID: 122200 # 镇海之戟-敖丙-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 镇海之戟-敖丙
+- ID: 122201 # 超星战神-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 超星战神
+- ID: 122202 # 祝融神影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 祝融神影
+- ID: 122203 # 白影神驹·赵云-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 白影神驹·赵云
+- ID: 122204 # 星际雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星际雷诺
+- ID: 122205 # 星河战刃-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星河战刃
+- ID: 122206 # 烈域使者-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 烈域使者
+- ID: 122207 # 逐浪独角兽-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 逐浪独角兽
+- ID: 122208 # 速魔-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 速魔
+- ID: 122209 # 消除联萌-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 消除联萌
+- ID: 122210 # 沙漠王子-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 沙漠王子
+- ID: 122211 # 问天-异星探索者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 问天-异星探索者
+- ID: 123206 # 星月好梦轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 星月好梦轮滑
+- ID: 123208 # 星月好梦轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 星月好梦轮滑
+- ID: 123228 # 航天逐梦-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 航天逐梦
+- ID: 123229 # 萌熊琦琦-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 萌熊琦琦
+- ID: 123230 # 甜兔果果-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 甜兔果果
+- ID: 123236 # 机甲测试-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 机甲测试
+- ID: 123237 # 一级形态-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 一级形态
+- ID: 123238 # 二级形态-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 二级形态
+- ID: 123324 # 祝融神影改装加成卡-赛车改装卡 
+  Type: EAIT_CAR
+  Mess: 赛车改装卡
+  Name: 祝融神影改装加成卡
+- ID: 123396 # 人参果仙子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 人参果仙子
+- ID: 123397 # 秋之神蓐收-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 秋之神蓐收
+- ID: 123398 # 魔王天狮-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 魔王天狮
+- ID: 123399 # 昙花仙子-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 昙花仙子
+- ID: 123400 # 金乌-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 金乌
+- ID: 123401 # 星辉龙王-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 星辉龙王
+- ID: 123402 # 苍穹仙灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 苍穹仙灵
+- ID: 123497 # 虚空魔王-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 虚空魔王
+- ID: 123498 # 黄河魂·九鼎-T1机甲赛车 
+  Type: EAIT_CAR
+  Mess: T1机甲赛车
+  Name: 黄河魂·九鼎
+- ID: 123499 # 炼狱之刃-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 炼狱之刃
+- ID: 123500 # 作废id-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 作废id
+- ID: 123501 # 至尊-火鲤-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 至尊-火鲤
+- ID: 123502 # M18-祝融-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: M18-祝融
+- ID: 123503 # 作废id-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 作废id
+- ID: 123504 # 火神之刃-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 火神之刃
+- ID: 123505 # 西游·白龙马-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 西游·白龙马
+- ID: 123506 # 雷诺-车王盾铠-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 雷诺-车王盾铠
+- ID: 123507 # 蓐收雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 蓐收雷诺
+- ID: 123508 # 柯尼塞格-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 柯尼塞格
+- ID: 123509 # 筋斗云-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 筋斗云
+- ID: 123510 # 美猴王-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 美猴王
+- ID: 123511 # 白桃恋人-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 白桃恋人
+- ID: 123512 # 悟空-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 悟空
+- ID: 123513 # 悟空-齐天大圣-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 悟空-齐天大圣
+- ID: 123514 # 超核玩家·逐魂者-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 超核玩家·逐魂者
+- ID: 123516 # 圣焰焚天轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 圣焰焚天轮滑
+- ID: 123518 # 圣焰焚天轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 圣焰焚天轮滑
+- ID: 124677 # 战斗暴龙兽-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 战斗暴龙兽
+- ID: 124678 # 钢铁加鲁鲁-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 钢铁加鲁鲁
+- ID: 124679 # 万里江山-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 万里江山
+- ID: 124680 # 银天使-蓐收-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 银天使-蓐收
+- ID: 124681 # 华夏巨轮-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 华夏巨轮
+- ID: 124682 # 暗影猎手-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 暗影猎手
+- ID: 124683 # 炽热Q吧-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 炽热Q吧
+- ID: 124684 # 赤霄御影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赤霄御影
+- ID: 124685 # 星煌-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 星煌
+- ID: 124686 # 冰魂-樱寒-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 冰魂-樱寒
+- ID: 124687 # 巴达兽-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 巴达兽
+- ID: 124688 # 数码暴龙兽-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 数码暴龙兽
+- ID: 124689 # 鲤鱼-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 鲤鱼
+- ID: 124708 # 暴龙兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 暴龙兽
+- ID: 124734 # 蓐收雷诺改装加成卡-赛车改装卡 
+  Type: EAIT_CAR
+  Mess: 赛车改装卡
+  Name: 蓐收雷诺改装加成卡
+- ID: 124849 # 迪路兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 迪路兽
+- ID: 124850 # 河神-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 河神
+- ID: 124851 # 加鲁鲁兽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 加鲁鲁兽
+- ID: 125975 # 赤焰风火轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 赤焰风火轮滑
+- ID: 125977 # 赤焰风火轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 赤焰风火轮滑
+- ID: 126323 # 玄冥穿梭者加成卡-赛车改装卡 
+  Type: EAIT_CAR
+  Mess: 赛车改装卡
+  Name: 玄冥穿梭者加成卡
+- ID: 126345 # 源极之星EXA-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 源极之星EXA
+- ID: 126346 # 幻音兔女郎-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 幻音兔女郎
+- ID: 126347 # 极星之翼-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 极星之翼
+- ID: 126348 # 幻变速灵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 幻变速灵
+- ID: 126349 # 萌兔雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 萌兔雷诺
+- ID: 126350 # 玄冥穿梭者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 玄冥穿梭者
+- ID: 126351 # 穹音星鲸-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 穹音星鲸
+- ID: 126352 # 冰魂-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 冰魂
+- ID: 126353 # 萌兔甜心号-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 萌兔甜心号
+- ID: 126354 # 春野小Q-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 春野小Q
+- ID: 126355 # 源极-大河神卫-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 源极-大河神卫
+- ID: 126356 # 终极猛兽-幽冥骑士-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 终极猛兽-幽冥骑士
+- ID: 126357 # 黑域电魔-玄冥-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 黑域电魔-玄冥
+- ID: 126358 # 新手赛车-黑爵-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 新手赛车-黑爵
+- ID: 126427 # 炎龙侠-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 炎龙侠
+- ID: 126428 # 仙兽-麒麟-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 仙兽-麒麟
+- ID: 126429 # 艾丽莎-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 艾丽莎
+- ID: 126430 # 冬之神玄冥-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 冬之神玄冥
+- ID: 126431 # 天鹅幻羽-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 天鹅幻羽
+- ID: 126432 # 蔷薇公主-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 蔷薇公主
+- ID: 126433 # 小幽灵-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小幽灵
+- ID: 126434 # 帝皇驹-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 帝皇驹
+- ID: 126532 # 帝皇侠-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 帝皇侠
+- ID: 126533 # 雷诺·幻夜-天青-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 雷诺·幻夜-天青
+- ID: 126534 # 雷诺·幻夜-日出-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 雷诺·幻夜-日出
+- ID: 126535 # 雷诺·幻夜-童梦-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 雷诺·幻夜-童梦
+- ID: 126536 # 雷诺·幻夜-中阶-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 雷诺·幻夜-中阶
+- ID: 126537 # 雷诺·幻夜-高阶-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 雷诺·幻夜-高阶
+- ID: 127314 # 冰晶奇缘轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冰晶奇缘轮滑
+- ID: 127316 # 冰晶奇缘轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 冰晶奇缘轮滑
+- ID: 127359 # 雷诺-幻夜-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 雷诺-幻夜
+- ID: 127360 # 众神·乾坤-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 众神·乾坤
+- ID: 127366 # 闪耀之星-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 闪耀之星
+- ID: 127409 # 神圣天使兽-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 神圣天使兽
+- ID: 127436 # 源极1级形态-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 源极1级形态
+- ID: 127437 # 源极2级形态-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 源极2级形态
+- ID: 127438 # 六道神尊-T3机甲赛车 
+  Type: EAIT_CAR
+  Mess: T3机甲赛车
+  Name: 六道神尊
+- ID: 127441 # 六道魔尊-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 六道魔尊
+- ID: 127442 # 特性飞机车-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 特性飞机车
+- ID: 127524 # 时序使者-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 时序使者
+- ID: 127616 # 至尊-玉麒麟-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 至尊-玉麒麟
+- ID: 127617 # 至曜-岩武-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 至曜-岩武
+- ID: 127618 # 至尊-影龙-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 至尊-影龙
+- ID: 127619 # 敦煌云影-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 敦煌云影
+- ID: 127620 # 童心之翼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 童心之翼
+- ID: 127621 # 五菱宏光-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 五菱宏光
+- ID: 127622 # 宅急送电瓶车-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 宅急送电瓶车
+- ID: 127758 # 冰凤-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 冰凤
+- ID: 127759 # 提灯小蓝兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 提灯小蓝兔
+- ID: 127760 # 源极之星X-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 源极之星X
+- ID: 127761 # 齐天小圣-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 齐天小圣
+- ID: 127762 # 画中仙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 画中仙
+- ID: 127763 # 贺春双子兔-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 贺春双子兔
+- ID: 129099 # 至尊·火麒麟-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 至尊·火麒麟
+- ID: 129137 # 稀世·梦幻国度轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 稀世·梦幻国度轮滑
+- ID: 129139 # 稀世·梦幻国度轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 稀世·梦幻国度轮滑
+- ID: 129285 # 凌云战龙-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 凌云战龙
+- ID: 129286 # 源极-帝皇侠-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 源极-帝皇侠
+- ID: 129287 # 阿尔法之芯-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 阿尔法之芯
+- ID: 129288 # 风之使者-兰-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 风之使者-兰
+- ID: 129289 # 赤兔4代Pro-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 赤兔4代Pro
+- ID: 129290 # SPD·星梦-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: SPD·星梦
+- ID: 129291 # 鸿焰战驹-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 鸿焰战驹
+- ID: 129292 # 驭龙雷诺-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 驭龙雷诺
+- ID: 129293 # 貂蝉·闭月-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 貂蝉·闭月
+- ID: 129294 # 炎龙驹-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 炎龙驹
+- ID: 129295 # 童趣黄鸭-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 童趣黄鸭
+- ID: 129296 # 青青颜团号-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 青青颜团号
+- ID: 129297 # 颜团子小摩托-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 颜团子小摩托
+- ID: 129608 # 小兰仙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小兰仙
+- ID: 129609 # 小牧童-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小牧童
+- ID: 129610 # 誓言守护者-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 誓言守护者
+- ID: 130538 # 奥莉娜-T2机甲赛车 
+  Type: EAIT_CAR
+  Mess: T2机甲赛车
+  Name: 奥莉娜
+- ID: 130539 # 奥莉娜·天穹战音-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 奥莉娜·天穹战音
+- ID: 130547 # 魔仙恋曲轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 魔仙恋曲轮滑
+- ID: 130549 # 魔仙恋曲轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 魔仙恋曲轮滑
+- ID: 130595 # 特洛伊伯爵加成卡-赛车改装卡 
+  Type: EAIT_CAR
+  Mess: 赛车改装卡
+  Name: 特洛伊伯爵加成卡
+- ID: 130638 # 合金先锋-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 合金先锋
+- ID: 130639 # 小竹仙-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 小竹仙
+- ID: 130640 # 星河绘画师-宠物 
+  Type: EAIT_PET
+  Mess: 宠物
+  Name: 星河绘画师
+- ID: 130774 # 特洛伊伯爵-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 特洛伊伯爵
+- ID: 130775 # 幻想蓝鲸摩托-M2级摩托 
+  Type: EAIT_CAR
+  Mess: M2级摩托
+  Name: 幻想蓝鲸摩托
+- ID: 130776 # 梦幻旋律-S级赛车 
+  Type: EAIT_CAR
+  Mess: S级赛车
+  Name: 梦幻旋律
+- ID: 130777 # 特洛伊-冰霜骑士-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 特洛伊-冰霜骑士
+- ID: 130778 # 终极众神-吕布-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 终极众神-吕布
+- ID: 130779 # 华夏龙舟-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 华夏龙舟
+- ID: 130780 # 逐浪小黄鸭-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 逐浪小黄鸭
+- ID: 130782 # 魔法之翼-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 魔法之翼
+- ID: 130783 # 熔岩之心-A级赛车 
+  Type: EAIT_CAR
+  Mess: A级赛车
+  Name: 熔岩之心
+- ID: 130784 # 深海灯影-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 深海灯影
+- ID: 130785 # 暗黑萝莉-B级赛车 
+  Type: EAIT_CAR
+  Mess: B级赛车
+  Name: 暗黑萝莉
+- ID: 130791 # 爆天雷诺-鸿钧-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-鸿钧
+- ID: 130792 # 爆天雷诺-千里-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-千里
+- ID: 130793 # 爆天雷诺-澄明-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-澄明
+- ID: 130794 # 爆天雷诺-阳焱-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-阳焱
+- ID: 130795 # 爆天雷诺-碧渊-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-碧渊
+- ID: 130796 # 爆天雷诺-玄隐-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-玄隐
+- ID: 130797 # 爆天雷诺-紫夜-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-紫夜
+- ID: 130798 # 奥莉娜1级形态-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 奥莉娜1级形态
+- ID: 130799 # 奥莉娜2级形态-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 奥莉娜2级形态
+- ID: 130800 # 奥莉娜3级形态-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 奥莉娜3级形态
+- ID: 131937 # 爆天雷诺-金刚-赛车皮肤 
+  Type: EAIT_SKIN
+  Mess: 赛车皮肤
+  Name: 爆天雷诺-金刚
+- ID: 131942 # 稀世·合金装甲轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 稀世·合金装甲轮滑
+- ID: 131944 # 稀世·合金装甲轮滑-K2级轮滑 
+  Type: EAIT_CAR 
+  GameType: 2
+  Mess: K2级轮滑
+  Name: 稀世·合金装甲轮滑

@@ -1,0 +1,26 @@
+- ID: 1 # 180 30 天类型
+  Idx: [1, 1]
+  Exp: 300
+  Type: 0 #暂无用处
+  AvailPeriod: [180, 30] #天数
+  ContainItem:
+    - ItemID: 11352
+    - ItemID: 28108
+    - ItemID: 28107
+- ID: 2 # 1 5 25 100 道具类型
+  Idx: [1, 5, 25, 100] #个数
+  Exp: 300
+  Type: 0 #暂无用处
+  AvailPeriod: [0, 0, 0, 0] 
+  ContainItem:
+    - ItemID: 129591
+    - ItemID: 92701
+    - ItemID: 130755
+- ID: 3 # 180 30 永久天类型
+  Idx: [1, 1, 1]
+  Exp: 300
+  Type: 0 #暂无用处
+  AvailPeriod: [180, 30, -1] #天数
+  ContainItem:
+    - ItemID: 24210
+

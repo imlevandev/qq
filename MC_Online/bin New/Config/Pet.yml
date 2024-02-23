@@ -1,0 +1,117 @@
+PetStrengs:
+  - ID: 118970
+  - ID: 113907
+  - ID: 109556
+  - ID: 104739
+  - ID: 126429
+  - ID: 116911
+  - ID: 113910
+  - ID: 33740
+  - ID: 116909
+  - ID: 62747
+  - ID: 88943
+  - ID: 100037
+  - ID: 72721
+  - ID: 108458
+  - ID: 112896
+  - ID: 102199
+  - ID: 100853
+  - ID: 92810
+  - ID: 106559
+  - ID: 74960
+  - ID: 108456
+  - ID: 30459
+  - ID: 77192
+  - ID: 65099
+  - ID: 98340
+  - ID: 102197
+  - ID: 68124
+  - ID: 33226
+  - ID: 68715
+  - ID: 100035
+  - ID: 80148
+  - ID: 88072
+  - ID: 94813
+  - ID: 75772
+PetHuanHuas:
+
+PetAllStatus:
+  - ID: 17919
+  - ID: 66587
+  - ID: 18643
+  - ID: 20125
+  - ID: 20664
+  - ID: 21597
+  - ID: 23379
+  - ID: 23647
+  - ID: 25337
+  - ID: 26111
+  - ID: 26613
+  - ID: 26900
+  - ID: 26901
+  - ID: 27449
+  - ID: 31905
+  - ID: 65100
+  - ID: 74733
+  - ID: 74961
+Levels: 
+  - Level: 1
+    Exp: 0
+  - Level: 2
+    Exp: 30
+  - Level: 3
+    Exp: 70
+  - Level: 4
+    Exp: 120
+  - Level: 5
+    Exp: 180
+  - Level: 6
+    Exp: 250
+  - Level: 7
+    Exp: 330
+  - Level: 8
+    Exp: 420
+  - Level: 9
+    Exp: 520
+  - Level: 10
+    Exp: 630
+  - Level: 11
+    Exp: 750
+  - Level: 12
+    Exp: 3350
+  - Level: 13
+    Exp: 6430
+  - Level: 14
+    Exp: 9990
+  - Level: 15
+    Exp: 12830
+  - Level: 16
+    Exp: 15910
+  - Level: 17
+    Exp: 18990
+  - Level: 18
+    Exp: 22070
+  - Level: 19
+    Exp: 25150
+  - Level: 20
+    Exp: 28230
+  - Level: 21
+    Exp: 31310
+  - Level: 22
+    Exp: 45650
+  - Level: 23
+    Exp: 58760
+  - Level: 24
+    Exp: 74550
+  - Level: 25
+    Exp: 93550
+  - Level: 26
+    Exp: 124550
+  - Level: 27
+    Exp: 153550
+  - Level: 28
+    Exp: 179550
+  - Level: 29
+    Exp: 205500
+  - Level: 30
+    Exp: 238966

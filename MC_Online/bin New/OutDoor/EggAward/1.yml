@@ -1,0 +1,9 @@
+Name: Trứng bạc
+Items:
+  - ItemID: 11376
+    ItemNum: 1
+    AvailPeriod: -1
+    Rate: 100
+Key:
+  - KeyID: 12375
+    KeyNum: 2  

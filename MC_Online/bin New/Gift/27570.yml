@@ -1,0 +1,586 @@
+Type: 1
+Items: 
+   - ItemId: 98830
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127438
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 126347
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 109563
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 119059
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 120646
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 63429
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 115164
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 123508
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 126345
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 62773
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 98637
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 126349
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 119058
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 102219
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 106674
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 106675
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127620
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 129287
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 129099
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127524
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 123514
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 122196
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 98263
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 94841
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 70047
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 126351
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 124685
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 121862
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 109560
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 126346
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 101885
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 85949
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 83042
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127441
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 126357
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 126356
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 124680
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 123501
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 123502
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 123506
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 122203
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 120657
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 113415
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 110709
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 110710
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 78292
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 85942
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 94838
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 71452
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 123512
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 123497
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 124678
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 124677
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 122198
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 123498
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 122197
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 122206
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 120656
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127618
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127617
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127616
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 126532
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 124679
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 123499
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 122199
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 122200
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 119062
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 117941
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 119063
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 117934
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 116735
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 116740
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 116734
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 115159
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 115166
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 109299
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 106676
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 124683
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 123507
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 122204
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 122201
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 119074
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 117938
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 117939
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 115162
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 113416
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 109564
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 106939
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 26149
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 27234
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 71458
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127621
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 28788
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127622
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127619
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 127409
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 124686
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 120655
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 119067
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 119060
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 119061
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 118638
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 117936
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 117935
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 117933
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 116799
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 116732
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 115167
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 115165
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 115163
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 115157
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 115156
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 113413
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 113414
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 113412
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 112176
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 109350
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 109305
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 109303
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 107373
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 106673
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 102951
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 102220
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 101884
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 98261
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 97431
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 89936
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 89940
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 89750
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 87727
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 87726
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 87725
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 85950
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 82248
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 78297
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 77236
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 74363
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 68647
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 68192
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 26930
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 31914
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 64296
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 83718
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 93574
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
+   - ItemId: 94846
+     ItemNum: 1
+     AvailPeriod: -1
+     ItemType: 1
